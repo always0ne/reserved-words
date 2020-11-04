@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reserved-wrods/static/css/main.73efbf52.chunk.css",
+    "main.css": "/reserved-wrods/static/css/main.7d180cbf.chunk.css",
     "main.js": "/reserved-wrods/static/js/main.624005bd.chunk.js",
     "main.js.map": "/reserved-wrods/static/js/main.624005bd.chunk.js.map",
     "runtime-main.js": "/reserved-wrods/static/js/runtime-main.9e8b176a.js",
@@ -10,14 +10,14 @@
     "static/js/3.2fba9a93.chunk.js": "/reserved-wrods/static/js/3.2fba9a93.chunk.js",
     "static/js/3.2fba9a93.chunk.js.map": "/reserved-wrods/static/js/3.2fba9a93.chunk.js.map",
     "index.html": "/reserved-wrods/index.html",
-    "static/css/main.73efbf52.chunk.css.map": "/reserved-wrods/static/css/main.73efbf52.chunk.css.map",
+    "static/css/main.7d180cbf.chunk.css.map": "/reserved-wrods/static/css/main.7d180cbf.chunk.css.map",
     "static/js/2.76bc1985.chunk.js.LICENSE.txt": "/reserved-wrods/static/js/2.76bc1985.chunk.js.LICENSE.txt",
     "static/media/logo.2d27ead7.svg": "/reserved-wrods/static/media/logo.2d27ead7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9e8b176a.js",
     "static/js/2.76bc1985.chunk.js",
-    "static/css/main.73efbf52.chunk.css",
+    "static/css/main.7d180cbf.chunk.css",
     "static/js/main.624005bd.chunk.js"
   ]
 }
