@@ -1,5 +1,5 @@
-# DBKeyword
-DataBase의 Keyword들을 조회하는 서비스
+# Reservation words
+변수의 예약어를 조회하는 서비스
 
 ## How To Contribute
 ### commit
