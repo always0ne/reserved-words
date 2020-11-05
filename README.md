@@ -20,7 +20,7 @@ of conduct, and the process for submitting pull requests to us.
   - [JHwan96](https://github.com/JHwan96) - **JooHwan Lee** - <dlwnghks00@gmail.com>
   - [LeeHyeonJae97](https://github.com/LeeHyeonJae97) - **HyeonJae Lee** - <qazx5024@gmail.com>
 
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
+See also the list of [contributors](https://github.com/always0ne/reserved-words/contributors)
 who participated in this project.
 
 ## License
