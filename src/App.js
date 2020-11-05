@@ -39,9 +39,11 @@ class App extends React.Component{
     <div>
       
       <header class="topnav">
+
         <NavBtn type={()=>(this.changeType("DB"))}>DB</NavBtn>
         <NavBtn type={()=>(this.changeType("Lang"))}>Lang</NavBtn>
         <NavBtn type={()=>(this.changeType("Service"))}>Service</NavBtn>
+
 
       </header>
       <body>
