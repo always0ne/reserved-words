@@ -48,9 +48,9 @@ class App extends React.Component{
     <div>
       
       <header class="topnav">
-        <a href="#" onClick={this.changeToDB.bind(this)}>DB</a>
-        <a href="#" onClick={this.changeToLang.bind(this)}>Lang</a>
-        <a href="#" onClick={this.changeToService.bind(this)}>Service</a>
+        <a onClick={this.changeToDB.bind(this)}>DB</a>
+        <a onClick={this.changeToLang.bind(this)}>Lang</a>
+        <a onClick={this.changeToService.bind(this)}>Service</a>
       </header>
       <body>
         <div class="logo"><h1>{this.state.type} {this.state.str}</h1></div>
