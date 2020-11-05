@@ -1,22 +1,50 @@
-# Reservation words
-변수의 예약어를 조회하는 서비스
+# Reserved Words
+## About Reserved Words
+"Reserved Word" is a service that checks whether the variable name you want to use is duplicated with the reserved word of the system. 
 
-## How To Contribute
-### commit
-- commit Template 엄수   
-(로컬 환경에서 `git config --local commit.template .github/.gitmessage.txt` 세팅 필요)
-- resolves, see also에 ISSUE 링크시킬것
-- 1 commit 1 작업(히스토리 관리를 위함)
+## Getting Started
+**go to https://always0ne.github.io/reserved-words/**
 
-### issue
-- Issues 트래킹을 위해 작업단위로 issue를 생성(ex. ~버그 수정, ~기능 추가)
-- project에 링크 걸것
+1. Choose the systems you want to check 
+2. Enter the variable name you want to use
+3. If the variable name cannot be used, consider "recommended variable"
 
-### branch
-- gitflow 모델을 사용
-- `feature/(이슈번호)-(작업명)`의 네이밍 으로 브렌치 생성
+## Contributing
+I am looking for someone to help with this project. Please advise and point out.  
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
+of conduct, and the process for submitting pull requests to us.
 
-### pull request
-- 작업 완료 후 develop로 pull request 작성할 것
-- team 멤버들이 pull request의 리뷰를 끝내야 머지가능
-- project에 링크 걸것
+## Authors
+  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
+  - [rlacksals9](https://github.com/rlacksals9) - **ChanMin Kim** - <rlacksals96@gmail.com>
+  - [JHwan96](https://github.com/JHwan96) - **JooHwan Lee** - <dlwnghks00@gmail.com>
+  - [LeeHyeonJae97](https://github.com/LeeHyeonJae97) - **HyeonJae Lee** - <qazx5024@gmail.com>
+
+See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
+who participated in this project.
+
+## License
+
+```
+MIT License
+
+Copyright (c) 2020 always0ne
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
