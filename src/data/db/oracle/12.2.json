@@ -251,6 +251,7 @@
         "RECOVER",
         "SEGMENT",
         "STORAGE",
+        "POSITIVE",
         "UNDER",
         "REFERENCES",
         "SEQUENCE",
@@ -302,6 +303,7 @@
         "CURRVAL",
         "DATA_BASE",
         "DEBUGON",
+        "DEBUGOFF"
         "DEFINITION",
         "DELAY",
         "DELTA",
@@ -317,6 +319,7 @@
         "FORM",
         "GENERIC",
         "IF",
+        "INDEX"
         "INDEXES",
         "LIMITED",
         "LOOP",
@@ -343,6 +346,7 @@
         "SQLERRM",
         "STATEMENT",
         "STDDEV",
+        "SUBTYPE",
         "TABAUTH",
         "TASK",
         "TERMINATE",
