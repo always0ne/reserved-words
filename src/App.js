@@ -1,6 +1,8 @@
 //import logo from './logo.svg';
 import './App.css';
 import React from 'react';
+import NavBtn from './NavbarBtn';
+import Search from './Search';
 // import test from './test.json';
 
 // function f1(){
@@ -25,39 +27,28 @@ class App extends React.Component{
       str:"Reservation Words",
     }
   }
-  changeToDB=()=>{
+  changeType=(type)=>{
     this.setState({
-      type:"DB",
+      type:type,
     })
   }
-  changeToLang=()=>{
-    this.setState({
-      type:"Lang",
-    })
-  }
-  changeToService=()=>{
-    this.setState({
-      type:"Service",
-    })
-  }
-  
   render(){
-    
+    const {type,str}=this.state;
     return(
     
     <div>
       
       <header class="topnav">
-        <a href="#!" onClick={this.changeToDB.bind(this)}>DB</a>
-        <a href="#!" onClick={this.changeToLang.bind(this)}>Lang</a>
-        <a href="#!" onClick={this.changeToService.bind(this)}>Service</a>
+
+        <NavBtn type={()=>(this.changeType("DB"))}>DB</NavBtn>
+        <NavBtn type={()=>(this.changeType("Lang"))}>Lang</NavBtn>
+        <NavBtn type={()=>(this.changeType("Service"))}>Service</NavBtn>
+
+
       </header>
       <body>
-        <div class="logo"><h1>{this.state.type} {this.state.str}</h1></div>
-        <div class="search">
-            <input class="search_box" placeholder="search"></input>
-            <button class="search_btn" type="input" >Search</button>
-        </div>
+        <div class="logo"><h1>{type} {str}</h1></div>
+        <Search/>
         <div class="selector">
           <input type="checkbox" value="1" id="oracle"></input>
           <label for="oracle">Oracle</label>

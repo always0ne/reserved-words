@@ -38,20 +38,7 @@ body {
   top: 30px;
   right: 20px;
 }
-.search {
-  position: relative;
-  top: 50px;
-  text-align: center;
-}
-.search_box {
-  width: 250px;
-  height: 35px;
-}
-.search_btn {
-  width: 60px;
-  height: 35px;
-  text-align: center;
-}
+
 .selector {
   position: relative;
   top: 60px;
