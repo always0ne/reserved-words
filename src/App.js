@@ -12,7 +12,7 @@ class App extends React.Component {
                     <Route exact path='/' render={() => <Main type="DB"/>}/>
                     <Route path='/db' render={() => <Main type="DB"/>}/>
                     <Route path='/language' render={() => <Main type="Language"/>}/>
-                    <Route path='/service' render={() => <Main type="Serive"/>}/>
+                    <Route path='/service' render={() => <Main type="Service"/>}/>
                 </Switch>
             </Router>
         )
