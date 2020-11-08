@@ -10,7 +10,7 @@ const Search = (props) => {
 
     const searchReservations = (value) => {
         props.onSubmit(searchStr)
-    }
+    };
     return (
         <div className="search">
             <input className="search_box" placeholder="search" value={searchStr} type="text"

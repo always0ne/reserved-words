@@ -21,6 +21,10 @@ const Main = ({type}) => {
     const searchReservations = (string) => {
         setSearchString(string);
         console.log(searchString);
+        // 이전 구조처럼 public 폴더에 데이터 폴더 옯기고 작업하면 가능
+            fetch(process.env.PUBLIC_URL+'/data/test.json')
+                .then(response => response.json())
+                .then(response => console.log(response))
         // 검색로직 여기에 하거나 따로 파일 빼도 됨
         // 검색 (json 파일 열람 하여 스캔)
         // 통과한 checklist 추가
