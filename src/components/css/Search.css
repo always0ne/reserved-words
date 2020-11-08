@@ -1,6 +1,5 @@
 .search {
-    position: relative;
-    top: 50px;
+    margin: 30px;
     text-align: center;
   }
   .search_box {
