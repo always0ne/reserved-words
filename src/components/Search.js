@@ -1,19 +1,22 @@
 import React, {useState} from 'react';
 import './css/Search.css';
 
-const Search = () => {
+const Search = (props) => {
     const [searchStr, setSearchStr] = useState("");
 
     const getSearchString = (e) => {
         setSearchStr(e.target.value);
-        console.log(searchStr);
     };
+
+    const searchReservations = (value) => {
+        props.onSubmit(searchStr)
+    }
     return (
-        <form className="search">
+        <div className="search">
             <input className="search_box" placeholder="search" value={searchStr} type="text"
                    onChange={getSearchString}/>
-            <button className="search_btn" type="reset">Search</button>
-        </form>
+            <button className="search_btn" onClick={searchReservations}>Search</button>
+        </div>
     )
 };
 

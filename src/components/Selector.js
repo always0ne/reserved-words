@@ -8,7 +8,6 @@ const Selector = (props) => {
     const [selected, setSelected] = useState([]);
 
     let lists = [];
-    let checkLists = [];
     if (props.type === "DB")
         lists = db;
     else if (props.type === "Language")
@@ -16,12 +15,12 @@ const Selector = (props) => {
     else if (props.type === "Service")
         lists = service;
     const printchange = (e) => {
-        console.log(e.target.value);
         if (e.target.checked)
             setSelected(selected.concat(e.target.value));
         else
             setSelected(selected.filter(version => version !== e.target.value));
-    }
+        props.onSubmit(selected)
+    };
 
     return (
         <ol className="test">
