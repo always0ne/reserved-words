@@ -1,0 +1,14 @@
+[
+  {
+    "category":"AWS",
+    "version":[
+      "DynamoDB"
+    ]
+  },
+  {
+    "category":"Google",
+    "version":[
+      "BigQuery"
+    ]
+  }
+]

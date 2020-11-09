@@ -303,7 +303,7 @@
         "CURRVAL",
         "DATA_BASE",
         "DEBUGON",
-        "DEBUGOFF"
+        "DEBUGOFF",
         "DEFINITION",
         "DELAY",
         "DELTA",
@@ -319,7 +319,7 @@
         "FORM",
         "GENERIC",
         "IF",
-        "INDEX"
+        "INDEX",
         "INDEXES",
         "LIMITED",
         "LOOP",

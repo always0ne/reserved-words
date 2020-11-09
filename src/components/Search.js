@@ -4,13 +4,9 @@ import './css/Search.css';
 const Search = (props) => {
     const [searchStr, setSearchStr] = useState("");
 
-    const getSearchString = (e) => {
-        setSearchStr(e.target.value);
-    };
+    const getSearchString = (e) => setSearchStr(e.target.value);
+    const searchReservations = (value) => props.onSubmit(searchStr.toUpperCase());
 
-    const searchReservations = (value) => {
-        props.onSubmit(searchStr)
-    };
     return (
         <div className="search">
             <input className="search_box" placeholder="search" value={searchStr} type="text"
