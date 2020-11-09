@@ -6,6 +6,7 @@ import Selector from "../components/Selector";
 import Result from "../components/Result";
 import Recommand from "../components/Recommand";
 import './main.css'
+import MkResultTable from "../components/MkResultTable";
 
 const Main = ({type}) => {
     const [checklist, setChecklist] = useState([]);
@@ -44,6 +45,7 @@ const Main = ({type}) => {
             <Search onSubmit={getSearchStrings}/>
             <Selector type={type} onSubmit={getVersions}/>
             <Result result={usable}/>
+            <MkResultTable version={["mysql 5,6","oracle 1.0","C"]} available={["true","false","true"]}/>
             <Recommand recommands={recommends}/>
             <footer/>
         </div>
