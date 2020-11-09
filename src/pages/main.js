@@ -9,33 +9,43 @@ import './main.css'
 
 const Main = ({type}) => {
     const [checklist, setChecklist] = useState([]);
+    const [words, setWords] = useState([]);
     const [searchString, setSearchString] = useState("");
-    const [usable, setUsable] = useState([]);
+    const [result, setResult] = useState([]);
     const [recommends, setRecommends] = useState("");
 
     const getVersions = (selectedValue) => setChecklist(selectedValue);
     const getSearchStrings = (string) => setSearchString(string);
+    const validateUsable = (list, string) => list.filter(words => words === string).length === 0;
 
     useEffect(() => {
-        console.log(checklist);
-        // 이부분에서 검사할 json들 로드.(json 인덱스 순서도 맞춰주자) 아마 하나바뀔때마다 반영되어 쉬울듯
-        // 리스트에서 추가된 부분 처리
-        // 이전 구조처럼 public 폴더에 데이터 폴더 옯기고 작업하면 가능
-        fetch(process.env.PUBLIC_URL + '/data/test.json')
-            .then(response => response.json())
-            .then(response => console.log(response))
-        // 리스트에서 제거된 부분 처리
+        setWords(words.filter(data => data == null))
+        // eslint-disable-next-line
     }, [checklist]);
 
     useEffect(() => {
-        console.log(searchString);
-        // 검색로직 여기에 하거나 따로 파일 빼도 됨
+        if (words.length === 0) {
+            checklist.map((category) => {
+                let categoryData = category.split(' ');
+                fetch(process.env.PUBLIC_URL + '/data/' + type + '/' + categoryData[0] + '/' + categoryData[1] + '.json')
+                    .then(response => response.json())
+                    .then(json => words.push(json.reserved));
+                return true;
+            });
+        }
+        // eslint-disable-next-line
+    }, [words]);
 
-        // 통과한 checklist 추가
-        setUsable("");
+    useEffect(() => {
+        setResult(words.map((reserved, index) => validateUsable(reserved, searchString)));
+        // eslint-disable-next-line
+    }, [searchString]);
+
+    useEffect(() => {
+        console.log(result);
         // 검색 후 불가한 DB가 생기면 동의어 조회해서 여기에 넘겨주면 됨
         setRecommends("")
-    }, [searchString]);
+    }, [result]);
 
     return (
         <div className="main">
@@ -43,7 +53,7 @@ const Main = ({type}) => {
             <Logo type={type}/>
             <Search onSubmit={getSearchStrings}/>
             <Selector type={type} onSubmit={getVersions}/>
-            <Result result={usable}/>
+            <Result result={result} checklist={checklist}/>
             <Recommand recommands={recommends}/>
             <footer/>
         </div>
