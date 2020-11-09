@@ -1,1 +1,0 @@
-[{"data":"DB","db":"mysql","version":["5.6.json","5.7.json","8.0.json"]},{"data":"DB","db":"oracle","version":["3.1.json","4.2.json"]},{"data":"Lang","db":"C","version":["1.0.json"]},{"data":"Lang","db":"Java","version":["8.0.json"]},{"data":"Service","db":"AWS","version":["1.0.json"]},{"data":"Service","db":"Google","version":["3.0.json"]}]
