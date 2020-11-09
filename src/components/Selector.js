@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import db from '../data/db/versions';
+import db from '../data/DB/versions';
 import language from '../data/language/versions';
 import service from '../data/service/versions';
 import './css/Selector.css'
