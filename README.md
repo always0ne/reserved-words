@@ -3,11 +3,17 @@
 "Reserved Word" is a service that checks whether the variable name you want to use is duplicated with the reserved word of the system. 
 
 ## Getting Started
-**go to https://always0ne.github.io/reserved-words/**
-
+### Check if the variable is available on the system
+**Go to https://always0ne.github.io/reserved-words/**
 1. Choose the systems you want to check 
 2. Enter the variable name you want to use
 3. If the variable name cannot be used, consider "recommended variable"
+### Get system's reserved words
+**Go to https://always0ne.github.io/reserved-words/data/{system}/{category}/{version}.json**
+##### system
+DB, Language, Service
+##### category& versions
+**See https://always0ne.github.io/reserved-words/data/{system}/versions.json**
 
 ## Contributing
 I am looking for someone to help with this project. Please advise and point out.  
@@ -24,7 +30,6 @@ See also the list of [contributors](https://github.com/always0ne/reserved-words/
 who participated in this project.
 
 ## License
-
 ```
 MIT License
 

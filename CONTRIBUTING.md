@@ -1,8 +1,8 @@
-# Contributing to repositoryTemplate
-
-Thank you for contributing to repositoryTemplate
+# Contributing to Reserved words
+Thank you for contributing to Reserved words
 We have some rules to contribute this project
 
+* [Add data](#add-data)
 * [Commit](#commit)
 * [Issues](#issues)
 * [Branch](#branch)
@@ -11,14 +11,17 @@ We have some rules to contribute this project
 * [Developer's Certificate of Origin 1.1](#developers-certificate-of-origin)
 
 ## How To Contribute
+### add data
+If you want to add data, you have to follow the rules below.
+1. add data
+    - ex) `/public/DB/mysql/9.0.json`
+2. add version data
+    - ex) add data on `/public/DB/mysql/versions.json`
 ### commit
 - Must Follow commit Template  
 (Need to set `git config --local commit.template .github/.gitmessage.txt` on your local)
 - link issue at resolves, see also
 - 1 commit 1 work(for history)
-
-### issues
-- 1 task 1 issue(ex. ~bugfix, ~feature request)
 
 ### branch
 - we use gitflow Work Flow
