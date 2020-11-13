@@ -8,11 +8,6 @@
       </path>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
       <path>
@@ -31,18 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13efed3e-c1ce-4abf-83f1-3a0fcf35a855" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Category.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/More.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/More.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Recommend.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recommend.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/css/Logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/Logo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/css/More.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/More.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/css/Search.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/Search.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/css/Selector.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/Selector.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/More.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Selector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +75,8 @@
       <updated>1605246005161</updated>
       <workItem from="1605246009961" duration="1922000" />
       <workItem from="1605248061786" duration="6717000" />
+      <workItem from="1605269711955" duration="169000" />
+      <workItem from="1605275497712" duration="1848000" />
     </task>
     <servers />
   </component>
@@ -105,9 +96,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605253945841">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="567" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605277317316">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1605253945841" />
+    <state x="567" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.-465.1200.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605277317316" />
+    <state x="339" y="278" key="FileChooserDialogImpl" timestamp="1605269880464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="339" y="278" key="FileChooserDialogImpl/1920.-465.1200.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1605269880464" />
   </component>
 </project>
