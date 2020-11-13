@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Press+Start+2P&display=swap');
+
 #logo {
     text-align: center;
     top: 30px;
     right: 20px;
+    font-family: 'Press Start 2P', cursive;
+
 }

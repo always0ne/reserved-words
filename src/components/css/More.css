@@ -5,3 +5,6 @@ b:hover{
 b+ul:focus{
     display: none;
 }
+b{
+    font-size: 15px;
+}

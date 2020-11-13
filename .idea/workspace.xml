@@ -31,15 +31,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13efed3e-c1ce-4abf-83f1-3a0fcf35a855" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/reserved-words.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/More.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/More.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Selector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/More.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/More.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Recommend.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Recommend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/css/Logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/Logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/css/More.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/More.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/css/Search.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/Search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/css/Selector.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/Selector.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605246005161</updated>
       <workItem from="1605246009961" duration="1922000" />
-      <workItem from="1605248061786" duration="448000" />
+      <workItem from="1605248061786" duration="6717000" />
     </task>
     <servers />
   </component>
@@ -100,5 +103,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605253945841">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1605253945841" />
   </component>
 </project>

@@ -1,5 +1,6 @@
 import React,{useState} from 'react';
 //import './css/More.css'
+
 const More=({id,value, changeMore})=>{
     const [more,setMore]=useState('more');
 
@@ -10,8 +11,9 @@ const More=({id,value, changeMore})=>{
             }else{
                 setMore('more');
             }
+
             changeMore(id,value,more);
-        }}> {more}</b>
+        }}> {more}...</b>
     )
 }
 
