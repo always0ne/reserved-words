@@ -29,15 +29,17 @@ const Selector = ({type, onSubmit}) => {
 
 
         return (
-        <ol className="test">
-            {lists.map((content,index) =>
-                <li className="category">
-                    {content.category}
-                    {/*<More id={index} value={content.category} changeMore={changeMore}/>*/}
-                <Category content={content} index={index} printChange={printChange}/>
-                </li>
-            )}
-        </ol>
+            <div>
+                <h3 id="instruction">choose your environment!</h3>
+                <ol className="test">
+                    {lists.map((content,index) =>
+
+                        <Category content={content} index={index} printChange={printChange}/>
+
+                    )}
+                </ol>
+            </div>
+
     )
 };
 
