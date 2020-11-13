@@ -1,9 +1,17 @@
 import React, {useEffect, useState} from 'react';
 import './css/Selector.css'
+import './css/More.css'
+import More from './More'
 
 const Selector = ({type, onSubmit}) => {
     const [selected, setSelected] = useState([]);
     const [lists, setLists] = useState([]);
+    const [mores,setMores]=useState([
+        {value:'',
+            status:''}
+    ]);
+    const {value,status}=mores;
+    const [hides,setHides]=useState([]);
 
     useEffect(() => fetch(process.env.PUBLIC_URL + '/data/' + type + '/versions.json')
         .then(response => response.json())
@@ -24,12 +32,23 @@ const Selector = ({type, onSubmit}) => {
         onSubmit(selected)
         // eslint-disable-next-line
     }, [selected]);
+    const changeMore=(id,value,more)=> {
+        console.log(id);
+        console.log(value);
+        console.log(more);
+        //토글된 상태
 
-    return (
+        //more==='hide'?categoryUl.current.style.display="none":categoryUl.current.style.display="block";
+
+    }
+
+        return (
         <ol className="test">
-            {lists.map((content) =>
+            {lists.map((content,index) =>
                 <li className="category">
                     {content.category}
+                    <More id={index} value={content.category} changeMore={changeMore}/>
+
                     <ul>
                         {content.version.map((versions, index) =>
                             <li key={index} className="versions">
