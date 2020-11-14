@@ -16,3 +16,13 @@ th {
 th {
     background-color: rgb(226, 239, 218);
 }
+#th_available{
+    text-align: center;
+}
+.resultImg{
+    width: 5%;
+    height: auto;
+}
+.resultTable{
+   text-align: center;
+}
