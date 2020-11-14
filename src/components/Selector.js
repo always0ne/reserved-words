@@ -2,6 +2,7 @@ import React, {useEffect, useState} from 'react';
 import './css/Selector.css'
 import './css/More.css'
 import Category from './Category'
+
 const Selector = ({type, onSubmit}) => {
     const [selected, setSelected] = useState([]);
     const [lists, setLists] = useState([]);
@@ -28,17 +29,15 @@ const Selector = ({type, onSubmit}) => {
     }, [selected]);
 
 
-        return (
-            <div>
-                <h3 id="instruction">choose your environment!</h3>
-                <ol className="test">
-                    {lists.map((content,index) =>
-
-                        <Category content={content} index={index} printChange={printChange}/>
-
-                    )}
-                </ol>
-            </div>
+    return (
+        <div>
+            <h2 id="instruction">Select your environments!</h2>
+            <ol className="test">
+                {lists.map((content, index) =>
+                    <Category content={content} index={index} printChange={printChange}/>
+                )}
+            </ol>
+        </div>
 
     )
 };

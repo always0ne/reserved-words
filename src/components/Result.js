@@ -16,13 +16,13 @@ const Result = (props) => {
         <table>
             <tr>
                 <th>version</th>
-                <th id="th_available">available</th>
+                <th>available</th>
             </tr>
             {
                 props.checklist.map((v, index) =>
                     <tr>
                         <td>{v}</td>
-                        <td className="resultTable">{printTrueFalse(props.result[index])}</td>
+                        <td>{printTrueFalse(props.result[index])}</td>
                     </tr>
                 )}
         </table>

@@ -43,7 +43,7 @@ const Main = ({type}) => {
     useEffect(() => {
         // Must changed
         // data load time(useEffect don't wait all load is completed)
-        setTimeout(()=>setResult(words.map((reserved) => validateUsable(reserved, searchString))),200)
+        setTimeout(() => setResult(words.map((reserved) => validateUsable(reserved, searchString))), 200)
         // eslint-disable-next-line
     }, [words]);
 
@@ -61,15 +61,16 @@ const Main = ({type}) => {
     }, [result]);
 
     return (
-        <div className="main">
-            <Nav/>
-            <Logo type={type}/>
-            <Search onSubmit={getSearchStrings}/>
-            <Selector type={type} onSubmit={getVersions}/>
-            <Result result={result} checklist={checklist}/>
-            <Recommend recommands={recommends} searchString={searchString}/>
+        <div>
+            <div className="contents-wrap">
+                <Nav type={type}/>
+                <Logo type={type}/>
+                <Search onSubmit={getSearchStrings}/>
+                <Selector type={type} onSubmit={getVersions}/>
+                <Result result={result} checklist={checklist}/>
+                <Recommend recommands={recommends} searchString={searchString}/>
+            </div>
             <Footer/>
-
         </div>
     );
 };
