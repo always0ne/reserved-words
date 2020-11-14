@@ -5,6 +5,8 @@ import Search from "../components/Search";
 import Selector from "../components/Selector";
 import Result from "../components/Result";
 import Recommend from "../components/Recommend";
+import Footer from "../components/Footer"
+
 import './main.css'
 
 const Main = ({type}) => {
@@ -65,8 +67,9 @@ const Main = ({type}) => {
             <Search onSubmit={getSearchStrings}/>
             <Selector type={type} onSubmit={getVersions}/>
             <Result result={result} checklist={checklist}/>
-            <Recommend recommands={recommends}/>
-            <footer/>
+            <Recommend recommands={recommends} searchString={searchString}/>
+            <Footer/>
+
         </div>
     );
 };

@@ -1,9 +1,11 @@
 import React, {useEffect, useState} from 'react';
 import './css/Selector.css'
-
+import './css/More.css'
+import Category from './Category'
 const Selector = ({type, onSubmit}) => {
     const [selected, setSelected] = useState([]);
     const [lists, setLists] = useState([]);
+
 
     useEffect(() => fetch(process.env.PUBLIC_URL + '/data/' + type + '/versions.json')
         .then(response => response.json())
@@ -25,27 +27,19 @@ const Selector = ({type, onSubmit}) => {
         // eslint-disable-next-line
     }, [selected]);
 
-    return (
-        <ol className="test">
-            {lists.map((content) =>
-                <li className="category">
-                    {content.category}
-                    <ul>
-                        {content.version.map((versions, index) =>
-                            <li key={index} className="versions">
-                                <label>
-                                    <input
-                                        type="checkbox"
-                                        value={content.category + " " + versions}
-                                        onChange={printChange}
-                                    />{versions}
-                                </label>
-                            </li>)
-                        }
-                    </ul>
-                </li>
-            )}
-        </ol>
+
+        return (
+            <div>
+                <h3 id="instruction">choose your environment!</h3>
+                <ol className="test">
+                    {lists.map((content,index) =>
+
+                        <Category content={content} index={index} printChange={printChange}/>
+
+                    )}
+                </ol>
+            </div>
+
     )
 };
 

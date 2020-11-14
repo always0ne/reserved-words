@@ -1,0 +1,10 @@
+b:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+b+ul:focus{
+    display: none;
+}
+b{
+    font-size: 15px;
+}
