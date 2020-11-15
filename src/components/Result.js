@@ -21,7 +21,7 @@ const Result = (props) => {
             </tr>
             {
                 props.checklist.map((v, index) =>
-                    <tr>
+                    <tr key={index}>
                         <td>{v}</td>
                         <td>{printTrueFalse(props.result[index])}</td>
                     </tr>
