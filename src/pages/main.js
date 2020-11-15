@@ -36,6 +36,10 @@ const Main = ({type}) => {
         let list = [];
         checklist.map((category) => {
             let categoryData = category.split(' ');
+            if(categoryData[0]==="c#"){
+                categoryData[0]="cSharp";
+                categoryData[1]="cSharp";
+            }
             fetch(process.env.PUBLIC_URL + '/data/' + type + '/' + categoryData[0] + '/' + categoryData[1] + '.json')
                 .then(response => response.json())
                 .then(json => {
@@ -50,7 +54,7 @@ const Main = ({type}) => {
     useEffect(() => {
         // Must changed
         // data load time(useEffect don't wait all load is completed)
-        setTimeout(() => setResult(words.map((reserved) => validateUsable(reserved, searchString))), 200)
+        setTimeout(() => setResult(words.map((reserved) => validateUsable(reserved, searchString))), 250)
         // eslint-disable-next-line
     }, [words]);
 
@@ -72,7 +76,7 @@ const Main = ({type}) => {
             <div className="contents-wrap">
                 <Nav type={type} flush={flush}/>
                 <Logo type={type}/>
-                <Search onSubmit={getSearchStrings}/>
+                <Search type={type} onSubmit={getSearchStrings}/>
                 <Selector type={type} onSubmit={getVersions}/>
                 <Result result={result} checklist={checklist}/>
                 <Recommend recommands={recommends} searchString={searchString}/>
