@@ -6,7 +6,7 @@ import Selector from "../components/Selector";
 import Result from "../components/Result";
 import Recommend from "../components/Recommend";
 import Footer from "../components/Footer"
-
+import {Promise} from "bluebird";
 import './main.css'
 
 const Main = ({type}) => {
@@ -18,43 +18,35 @@ const Main = ({type}) => {
     const [search, setSearch] = useState(false);
 
     const getVersions = (selectedValue) => setChecklist(selectedValue);
-    const validateUsable = (list, string) => list.filter(words => words === string).length === 0;
+    const validateUsable = (list, string) => list.reserved.filter(words => words === string).length === 0;
     const getSearchStrings = (string) => {
         setSearchString(string);
         setSearch(true)
     };
-    const flush = ()=>{
-      setSearchString("");
-      setChecklist([]);
-      setResult([]);
-      setRecommends([])  ;
+    const flush = () => {
+        setSearchString("");
+        setChecklist([]);
+        setResult([]);
+        setRecommends([]);
         setWords([]);
     };
 
     useEffect(() => {
-        //setWords(words.filter(data => data == null))
-        let list = [];
-        checklist.map((category) => {
+        Promise.mapSeries(checklist, (category) => {
             let categoryData = category.split(' ');
-            if(categoryData[0]==="c#"){
-                categoryData[0]="cSharp";
-                categoryData[1]="cSharp";
+            if (categoryData[0] === "c#") {
+                categoryData[0] = "cSharp";
+                categoryData[1] = "cSharp";
             }
-            fetch(process.env.PUBLIC_URL + '/data/' + type + '/' + categoryData[0] + '/' + categoryData[1] + '.json')
-                .then(response => response.json())
-                .then(json => {
-                    list.push(json.reserved)
-                });
-            return true;
-        });
-        setWords(list)
+            return fetch(process.env.PUBLIC_URL + '/data/' + type + '/' + categoryData[0] + '/' + categoryData[1] + '.json')
+                .then(response => response.json());
+        }).then(json => setWords(json));
         // eslint-disable-next-line
     }, [checklist]);
 
     useEffect(() => {
         // Must changed
-        // data load time(useEffect don't wait all load is completed)
-        setTimeout(() => setResult(words.map((reserved) => validateUsable(reserved, searchString))), 250)
+        setResult(words.map((reserved) => validateUsable(reserved, searchString)));
         // eslint-disable-next-line
     }, [words]);
 
@@ -78,7 +70,7 @@ const Main = ({type}) => {
                 <Logo type={type}/>
                 <Search type={type} onSubmit={getSearchStrings}/>
                 <Selector type={type} onSubmit={getVersions}/>
-                <Result result={result} checklist={checklist}/>
+                <Result result={result} checklist={checklist} searchStr={searchString}/>
                 <Recommend recommands={recommends} searchString={searchString}/>
             </div>
             <Footer/>
