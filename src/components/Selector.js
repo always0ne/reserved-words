@@ -12,8 +12,6 @@ const Selector = ({type, onSubmit}) => {
         .then(response => response.json())
         .then(response => {
             setLists(response);
-            console.log(lists);
-            console.log("load complete")
             // eslint-disable-next-line
         }), [type]);
 
@@ -28,13 +26,12 @@ const Selector = ({type, onSubmit}) => {
         // eslint-disable-next-line
     }, [selected]);
 
-
     return (
         <div>
             <h2 id="instruction">Select your environments!</h2>
             <ol className="test">
                 {lists.map((content, index) =>
-                    <Category content={content} index={index} printChange={printChange}/>
+                    <Category content={content} key={index} printChange={printChange}/>
                 )}
             </ol>
         </div>

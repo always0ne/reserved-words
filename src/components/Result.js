@@ -7,13 +7,14 @@ const Result = (props) => {
         if (result === undefined)
             return "";
         else if (result === true)
-            return <img className="resultImg" src={process.env.PUBLIC_URL+'/img/check_image.png'} alt="check"/>
+            return <img className="resultImg" src={process.env.PUBLIC_URL + '/img/check_image.png'} alt="check"/>
         else if (result === false)
-            return <img className="resultImg" src={process.env.PUBLIC_URL+'/img/cross_image.png'} alt="cross"/>
+            return <img className="resultImg" src={process.env.PUBLIC_URL + '/img/cross_image.png'} alt="cross"/>
     };
 
     return (
         <table>
+            <tbody>
             <tr>
                 <th>version</th>
                 <th>available</th>
@@ -25,6 +26,7 @@ const Result = (props) => {
                         <td>{printTrueFalse(props.result[index])}</td>
                     </tr>
                 )}
+            </tbody>
         </table>
     )
 };
