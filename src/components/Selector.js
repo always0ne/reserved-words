@@ -13,7 +13,9 @@ const Selector = ({type, onSubmit}) => {
         .then(response => {
             setLists(response);
             // eslint-disable-next-line
-        }), [type]);
+        })
+        .then(() => setSelected([])
+        ), [type]);
 
     const printChange = (e) => {
         if (e.target.checked)

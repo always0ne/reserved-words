@@ -23,6 +23,13 @@ const Main = ({type}) => {
         setSearchString(string);
         setSearch(true)
     };
+    const flush = ()=>{
+      setSearchString("");
+      setChecklist([]);
+      setResult([]);
+      setRecommends([])  ;
+        setWords([]);
+    };
 
     useEffect(() => {
         //setWords(words.filter(data => data == null))
@@ -63,7 +70,7 @@ const Main = ({type}) => {
     return (
         <div>
             <div className="contents-wrap">
-                <Nav type={type}/>
+                <Nav type={type} flush={flush}/>
                 <Logo type={type}/>
                 <Search onSubmit={getSearchStrings}/>
                 <Selector type={type} onSubmit={getVersions}/>
