@@ -5,36 +5,35 @@ table {
     border-collapse: collapse;
     width: 50%;
     place-content: center;
-
-
 }
 
 td,
 th {
     border: 1px solid #ddd;
     text-align: left;
-    padding: 8px;
 }
+
 th {
-    background-color:#333333;
-    color:#ffffff;
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
 
 }
-tr{
+
+tr {
     background-color: #f2f2f2;
 }
-tr:nth-child(even){
+
+tr:nth-child(even) {
     border: 1px solid #ddd;
     background-color: #ddd;
+}
 
+.resultImg {
+    width: 25%;
 }
-#th_available{
+
+td {
     text-align: center;
-}
-.resultImg{
-    width: 5%;
-    height: auto;
-}
-.resultTable{
-   text-align: center;
+    width: 70%
 }

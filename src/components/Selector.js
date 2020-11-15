@@ -2,6 +2,7 @@ import React, {useEffect, useState} from 'react';
 import './css/Selector.css'
 import './css/More.css'
 import Category from './Category'
+
 const Selector = ({type, onSubmit}) => {
     const [selected, setSelected] = useState([]);
     const [lists, setLists] = useState([]);
@@ -11,10 +12,10 @@ const Selector = ({type, onSubmit}) => {
         .then(response => response.json())
         .then(response => {
             setLists(response);
-            console.log(lists);
-            console.log("load complete")
             // eslint-disable-next-line
-        }), [type]);
+        })
+        .then(() => setSelected([])
+        ), [type]);
 
     const printChange = (e) => {
         if (e.target.checked)
@@ -27,18 +28,15 @@ const Selector = ({type, onSubmit}) => {
         // eslint-disable-next-line
     }, [selected]);
 
-
-        return (
-            <div>
-                <h3 id="instruction">choose your environment!</h3>
-                <ol className="test">
-                    {lists.map((content,index) =>
-
-                        <Category content={content} index={index} printChange={printChange}/>
-
-                    )}
-                </ol>
-            </div>
+    return (
+        <div>
+            <h2 id="instruction">Select your environments!</h2>
+            <ol className="test">
+                {lists.map((content, index) =>
+                    <Category content={content} key={index} printChange={printChange}/>
+                )}
+            </ol>
+        </div>
 
     )
 };

@@ -7,24 +7,26 @@ const Result = (props) => {
         if (result === undefined)
             return "";
         else if (result === true)
-            return <img className="resultImg" src={process.env.PUBLIC_URL+'/img/check_image.png'} alt="check"/>
+            return <img className="resultImg" src={process.env.PUBLIC_URL + '/img/check_image.png'} alt="check"/>
         else if (result === false)
-            return <img className="resultImg" src={process.env.PUBLIC_URL+'/img/cross_image.png'} alt="cross"/>
+            return <img className="resultImg" src={process.env.PUBLIC_URL + '/img/cross_image.png'} alt="cross"/>
     };
 
     return (
         <table>
+            <tbody>
             <tr>
                 <th>version</th>
-                <th id="th_available">available</th>
+                <th>available</th>
             </tr>
             {
                 props.checklist.map((v, index) =>
-                    <tr>
+                    <tr key={index}>
                         <td>{v}</td>
-                        <td className="resultTable">{printTrueFalse(props.result[index])}</td>
+                        <td>{printTrueFalse(props.result[index])}</td>
                     </tr>
                 )}
+            </tbody>
         </table>
     )
 };
