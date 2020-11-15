@@ -1,8 +1,8 @@
-import React, {useEffect,useState} from 'react';
+import React from 'react';
 import './css/Recommend.css';
 
 
-const Recommend = ({recommands,searchString}) => {
+const Recommend = ({recommands, searchString}) => {
 
     return (
         <div>
