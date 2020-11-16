@@ -15,6 +15,9 @@ const Nav = (props) => {
                 <li onClick={() => changeService("Language")}>Language</li>
                 <li onClick={() => changeService("Service")}>Service</li>
             </ll>
+            <a href="https://github.com/always0ne/reserved-words">
+                <img src={process.env.PUBLIC_URL + '/img/github.png'} alt="check"/>
+            </a>
         </header>
     );
 };

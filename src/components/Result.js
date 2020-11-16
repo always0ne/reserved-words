@@ -4,7 +4,7 @@ import './css/Result.css'
 const Result = (props) => {
 
     const printTrueFalse = (result) => {
-        if(props.searchStr==='')
+        if (props.searchStr === '')
             return <img className="resultImg" src={process.env.PUBLIC_URL + '/img/question_image.png'} alt="check"/>;
         if (result === undefined)
             return <img className="resultImg" src={process.env.PUBLIC_URL + '/img/question_image.png'} alt="check"/>;
@@ -15,21 +15,24 @@ const Result = (props) => {
     };
 
     return (
-        <table>
-            <tbody>
-            <tr>
-                <th>version</th>
-                <th>available</th>
-            </tr>
-            {
-                props.checklist.map((v, index) =>
-                    <tr key={index}>
-                        <td>{v}</td>
-                        <td>{printTrueFalse(props.result[index])}</td>
-                    </tr>
-                )}
-            </tbody>
-        </table>
+        <div>
+            <h2>Availability of "{props.searchStr}"</h2>
+            <table>
+                <tbody>
+                <tr>
+                    <th>version</th>
+                    <th>available</th>
+                </tr>
+                {
+                    props.checklist.map((v, index) =>
+                        <tr key={index}>
+                            <td>{v}</td>
+                            <td>{printTrueFalse(props.result[index])}</td>
+                        </tr>
+                    )}
+                </tbody>
+            </table>
+        </div>
     )
 };
 

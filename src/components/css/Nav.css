@@ -22,3 +22,15 @@
     background-color: #4caf50;
     color: white;
 }
+.github{
+    margin: 0;
+    padding: 0;
+}
+.topnav a{
+   float: right;
+    margin: 0;
+    padding: 0;
+}
+.topnav img{
+    height: 50px;
+}
