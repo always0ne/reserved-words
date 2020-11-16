@@ -7,7 +7,7 @@
 .contents-wrap {
     min-height:100%;
     position:relative;
-    padding-bottom:100px;/* footer height */
+    padding-bottom:80px;/* footer height */
 }
 body {
     margin: 0;
