@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reserved-words/static/css/main.0bd0fdf3.chunk.css",
-    "main.js": "/reserved-words/static/js/main.c49c28f4.chunk.js",
-    "main.js.map": "/reserved-words/static/js/main.c49c28f4.chunk.js.map",
+    "main.css": "/reserved-words/static/css/main.a507c958.chunk.css",
+    "main.js": "/reserved-words/static/js/main.a69856b3.chunk.js",
+    "main.js.map": "/reserved-words/static/js/main.a69856b3.chunk.js.map",
     "runtime-main.js": "/reserved-words/static/js/runtime-main.a4ac8278.js",
     "runtime-main.js.map": "/reserved-words/static/js/runtime-main.a4ac8278.js.map",
     "static/js/2.b9d4d168.chunk.js": "/reserved-words/static/js/2.b9d4d168.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.72de0921.chunk.js": "/reserved-words/static/js/3.72de0921.chunk.js",
     "static/js/3.72de0921.chunk.js.map": "/reserved-words/static/js/3.72de0921.chunk.js.map",
     "index.html": "/reserved-words/index.html",
-    "static/css/main.0bd0fdf3.chunk.css.map": "/reserved-words/static/css/main.0bd0fdf3.chunk.css.map",
+    "static/css/main.a507c958.chunk.css.map": "/reserved-words/static/css/main.a507c958.chunk.css.map",
     "static/js/2.b9d4d168.chunk.js.LICENSE.txt": "/reserved-words/static/js/2.b9d4d168.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a4ac8278.js",
     "static/js/2.b9d4d168.chunk.js",
-    "static/css/main.0bd0fdf3.chunk.css",
-    "static/js/main.c49c28f4.chunk.js"
+    "static/css/main.a507c958.chunk.css",
+    "static/js/main.a69856b3.chunk.js"
   ]
 }
