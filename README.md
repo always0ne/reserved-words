@@ -29,6 +29,10 @@ of conduct, and the process for submitting pull requests to us.
 See also the list of [contributors](https://github.com/always0ne/reserved-words/contributors)
 who participated in this project.
 
+## Used or Referenced Projects
+ - [spa-github-pages](https://github.com/rafgraph/spa-github-pages) - **MIT** 
+    - Hosting SPA on Github Pages.
+
 ## License
 ```
 MIT License
