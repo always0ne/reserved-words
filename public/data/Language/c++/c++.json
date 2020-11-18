@@ -62,7 +62,7 @@
       "private",
       "protected",
       "public",
-      "register", 
+      "register",
       "reinterpret_cast",
       "requires",
       "return",

@@ -1,10 +1,12 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import {Collapse} from "react-collapse/lib/Collapse";
 import './css/Category.css';
 
 const Category = (props) => {
     const [isOpened, setIsOpened] = useState(false);
-
+    useEffect(()=>{
+        setIsOpened(false)
+    },[props.content]);
     return (
         <div className="category">
             <input
@@ -17,7 +19,7 @@ const Category = (props) => {
                 <Collapse isOpened={isOpened}>
                     <ul>
                         {props.content.version.map((versions, index) =>
-                            <li key={index} className="versions">
+                            <li key={versions + index} className="versions">
                                 <label>
                                     <input
                                         type="checkbox"
