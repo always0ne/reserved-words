@@ -14,7 +14,7 @@ const Main = ({type}) => {
     const [words, setWords] = useState([]);
     const [searchString, setSearchString] = useState("");
     const [result, setResult] = useState([]);
-    const [recommends, setRecommends] = useState("");
+    const [isUsable, setIsUsable] = useState(true);
     const [search, setSearch] = useState(false);
 
     const getVersions = (selectedValue) => setChecklist(selectedValue);
@@ -27,7 +27,7 @@ const Main = ({type}) => {
         setSearchString("");
         setChecklist([]);
         setResult([]);
-        setRecommends([]);
+        setIsUsable([]);
         setWords([]);
     };
 
@@ -59,8 +59,7 @@ const Main = ({type}) => {
     }, [search]);
 
     useEffect(() => {
-        // 검색 후 불가한 DB가 생기면 동의어 조회해서 여기에 넘겨주면 됨
-        setRecommends("")
+        setIsUsable(result.find(usable => usable === false))
     }, [result]);
 
     return (
@@ -70,8 +69,8 @@ const Main = ({type}) => {
                 <Logo type={type}/>
                 <Search type={type} onSubmit={getSearchStrings}/>
                 <Selector type={type} onSubmit={getVersions}/>
-                <Result result={result} checklist={checklist} searchStr={searchString}/>
-                <Recommend recommands={recommends} searchString={searchString}/>
+                {searchString!==""?<Result result={result} checklist={checklist} searchStr={searchString}/>:""}
+                {searchString!=="" && isUsable!==undefined?<Recommend usable={isUsable} searchString={searchString}/>:""}
             </div>
             <Footer/>
         </div>
