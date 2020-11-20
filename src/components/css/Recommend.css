@@ -1,3 +1,15 @@
 #recommend{
     text-align: center;
 }
+.recommendBtn{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    font-size: medium;
+}
+.recommendBtn:hover{
+    background-color: #eff3f7;
+    color: black;
+    cursor:pointer;
+}

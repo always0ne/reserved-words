@@ -43,7 +43,7 @@ const Recommend = (props) => {
         <div id="recommend">
             <h2>Recommend Words</h2>
             {recommendWords()}
-            <button type="button" onClick={() =>window.open('https://github.com/always0ne/reserved-words/issues/33')}>
+            <button type="button" className="recommendBtn" onClick={() =>window.open('https://github.com/always0ne/reserved-words/issues/33')}>
                 Recommend variable names!
             </button>
         </div>
