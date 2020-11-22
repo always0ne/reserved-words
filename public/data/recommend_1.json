@@ -1,2063 +1,2010 @@
 [
-  {
-    "reserved": "ADD",
-    "recommand": [
-      "plus",
-      "cnt"
-    ]
-  },
-  {
-    "reserved": "ABORT",
-    "recommand": [
-      "halt",
-      "breakOff"
-    ]
-  },
-  {
-    "reserved": "ABS",
-    "recommand": [
-      "pure",
-      "utter"
-    ]
-  },
-  {
-    "reserved": "ABSENT",
-    "recommand": [
-      "away",
-      "elsewhere"
-    ]
-  },
-  {
-    "reserved": "ABSOLUTE",
-    "recommand": [
-      "pure",
-      "utter"
-    ]
-  },
-  {
-    "reserved": "abstract",
-    "recommand": [
-      "nonconcrete",
-      "indefinite"
-    ]
-  },
-  {
-    "reserved": "ACCEPT",
-    "recommand": [
-      "agree",
-      "obtain"
-    ]
-  },
-  {
-    "reserved": "ACCESIBLE",
-    "recommand": [
-      "reachable",
-      "attainable"
-    ]
-  },
-  {
-    "reserved": "ACCESS",
-    "recommand": [
-      "reach",
-      "attain"
-    ]
-  },
-  {
-    "reserved": "ACCESSCTRL",
-    "recommand": [
-      "accesscontrol",
-      "accessmanage"
-    ]
-  },
-  {
-    "reserved": "ACCESSIBLE",
-    "recommand": [
-      "reachable",
-      "attainable"
-    ]
-  },
-  {
-    "reserved": "ACCORDING",
-    "recommand": [
-      "confer",
-      "bestow"
-    ]
-  },
-  {
-    "reserved": "ACCOUNT",
-    "recommand": [
-      "id",
-      "acc"
-    ]
-  },
-  {
-    "reserved": "ACCTNG",
-    "recommand": "accounting"
-  },
-  {
-    "reserved": "ACOS",
-    "recommand": "acosine"
-  },
-  {
-    "reserved": "ACTION",
-    "recommand": "acting"
-  },
-  {
-    "reserved": "ACTIVATE",
-    "recommand": "act"
-  },
-  {
-    "reserved": "ACTIVE",
-    "recommand": [
-      "alive",
-      "effective"
-    ]
-  },
-  {
-    "reserved": "ACTIVITIES",
-    "recommand": "actings"
-  },
-  {
-    "reserved": "ACTIVITY",
-    "recommand": "acting"
-  },
-  {
-    "reserved": "ACTIVITYSTMT",
-    "recommand": "eventMoniterTable"
-  },
-  {
-    "reserved": "ACTIVITYTOTALTIME",
-    "recommand": "activityWholeTime"
-  },
-  {
-    "reserved": "ACTIVITYVALS",
-    "recommand": "eventMoniterTable"
-  },
-  {
-    "reserved": "ADA",
-    "recommand": "adaDb"
-  },
-  {
-    "reserved": "ADMIN",
-    "recommand": "govern"
-  },
-  {
-    "reserved": "ADMINISTRATION",
-    "recommand": "government"
-  },
-  {
-    "reserved": "ADVISE",
-    "recommand": "offer"
-  },
-  {
-    "reserved": "AFTER",
-    "recommand": [
-      "afterward",
-      "later"
-    ]
-  },
-  {
-    "reserved": "AGAINST",
-    "recommand": "opposing"
-  },
-  {
-    "reserved": "AGE",
-    "recommand": "ag"
-  },
-  {
-    "reserved": "AGENT",
-    "recommand": "actor"
-  },
-  {
-    "reserved": "AGGREGATE",
-    "recommand": "totalResult"
-  },
-  {
-    "reserved": "AGGSQLTEMPSPACE",
-    "recommand": "availableSpace"
-  },
-  {
-    "reserved": "ALGORITHM",
-    "recommand": "problem"
-  },
-  {
-    "reserved": "ALIAS",
-    "recommand": "nickname"
-  },
-  {
-    "reserved": "alignas",
-    "recommand": "alignOption"
-  },
-  {
-    "reserved": "alignof",
-    "recommand": "setAlign"
-  },
-  {
-    "reserved": "ALL",
-    "recommand": "whole"
-  },
-  {
-    "reserved": "ALLOCATE",
-    "recommand": "everything"
-  },
-  {
-    "reserved": "ALLOW",
-    "recommand": "permit"
-  },
-  {
-    "reserved": "ALSO",
-    "recommand": "plus"
-  },
-  {
-    "reserved": "ALTER",
-    "recommand": "chng"
-  },
-  {
-    "reserved": "ALTERIN",
-    "recommand": "alterOption"
-  },
-  {
-    "reserved": "ALWAYS",
-    "recommand": "constantly"
-  },
-  {
-    "reserved": "ANALYSE",
-    "recommand": "investigate"
-  },
-  {
-    "reserved": "ANALYZE",
-    "recommand": "investigate"
-  },
-  {
-    "reserved": "ANCHOR",
-    "recommand": "dock"
-  },
-  {
-    "reserved": "AND",
-    "recommand": "plus"
-  },
-  {
-    "reserved": "ANY",
-    "recommand": "anything"
-  },
-  {
-    "reserved": "APPEND",
-    "recommand": "affix"
-  },
-  {
-    "reserved": "APPLICATION",
-    "recommand": "app"
-  },
-  {
-    "reserved": "APPLNAME",
-    "recommand": "appName"
-  },
-  {
-    "reserved": "APPROXIMATION",
-    "recommand": "about"
-  },
-  {
-    "reserved": "APREUSE",
-    "recommand": "reusable"
-  },
-  {
-    "reserved": "ARCHIVE",
-    "recommand": "accomplish"
-  },
-  {
-    "reserved": "ARCHIVELOG",
-    "recommand": "fileLog"
-  },
-  {
-    "reserved": "ARE",
-    "recommand": "be"
-  },
-  {
-    "reserved": "arguments",
-    "recommand": "args"
-  },
-  {
-    "reserved": "ARRAY",
-    "recommand": "arr"
-  },
-  {
-    "reserved": "ARRAYLEN",
-    "recommand": "arrlen"
-  },
-  {
-    "reserved": "AS",
-    "recommand": "aka"
-  },
-  {
-    "reserved": "ASC",
-    "recommand": "ascend"
-  },
-  {
-    "reserved": "ascending",
-    "recommand": "ascend"
-  },
-  {
-    "reserved": "ASCII",
-    "recommand": "asciiCode"
-  },
-  {
-    "reserved": "ASENSITIVE",
-    "recommand": "dataCursor"
-  },
-  {
-    "reserved": "ASIN",
-    "recommand": "aSine"
-  },
-  {
-    "reserved": "asm",
-    "recommand": "autoStorageMan"
-  },
-  {
-    "reserved": "ASSERT",
-    "recommand": "add"
-  },
-  {
-    "reserved": "ASSERTION",
-    "recommand": "adding"
-  },
-  {
-    "reserved": "ASSIGN",
-    "recommand": "alloc"
-  },
-  {
-    "reserved": "ASSIGNMENT",
-    "recommand": "alloc"
-  },
-  {
-    "reserved": "ASSOCIATE",
-    "recommand": "relate"
-  },
-  {
-    "reserved": "AST",
-    "recommand": "asterisk"
-  },
-  {
-    "reserved": "ASUTIME",
-    "recommand": "asuClock"
-  },
-  {
-    "reserved": "ASYMMETRIC",
-    "recommand": "unbalance"
-  },
-  {
-    "reserved": "async",
-    "recommand": "asynchronize"
-  },
-  {
-    "reserved": "ASYNCHRONY",
-    "recommand": "asynchronization"
-  },
-  {
-    "reserved": "AT",
-    "recommand": ""
-  },
-  {
-    "reserved": "ATAN",
-    "recommand": "atangent"
-  },
-  {
-    "reserved": "ATOMIC",
-    "recommand": ""
-  },
-  {
-    "reserved": "ATTACH",
-    "recommand": "paste"
-  },
-  {
-    "reserved": "ATTACHED",
-    "recommand": "pasted"
-  },
-  {
-    "reserved": "ATTRIBUTE",
-    "recommand": "attr"
-  },
-  {
-    "reserved": "ATTRIBUTES",
-    "recommand": "attrs"
-  },
-  {
-    "reserved": "AUDIT",
-    "recommand": "analysis"
-  },
-  {
-    "reserved": "AUTH",
-    "recommand": "proof"
-  },
-  {
-    "reserved": "AUTHENTICATED",
-    "recommand": "proofed"
-  },
-  {
-    "reserved": "AUTHENTICATION",
-    "recommand": "proof"
-  },
-  {
-    "reserved": "AUTHID",
-    "recommand": "powerId"
-  },
-  {
-    "reserved": "AUTHORIZATION",
-    "recommand": "right"
-  },
-  {
-    "reserved": "AUTHORIZATIONS",
-    "recommand": "rights"
-  },
-  {
-    "reserved": "AUTHORIZE",
-    "recommand": "empower"
-  },
-  {
-    "reserved": "AUTHORIZED",
-    "recommand": "empowered"
-  },
-  {
-    "reserved": "AUTHORS",
-    "recommand": "writers"
-  },
-  {
-    "reserved": "AVAILABLE",
-    "recommand": "applicable"
-  },
-  {
-    "reserved": "AVG",
-    "recommand": "average"
-  },
-  {
-    "reserved": "await",
-    "recommand": "hangIn"
-  },
-  {
-    "reserved": "BACK",
-    "recommand": "former"
-  },
-  {
-    "reserved": "BACKUP",
-    "recommand": "saving"
-  },
-  {
-    "reserved": "BACKWARD",
-    "recommand": ""
-  },
-  {
-    "reserved": "BASE",
-    "recommand": "place"
-  },
-  {
-    "reserved": "BASE64",
-    "recommand": "place"
-  },
-  {
-    "reserved": "BASED",
-    "recommand": "placed"
-  },
-  {
-    "reserved": "BATCH",
-    "recommand": "gather"
-  },
-  {
-    "reserved": "BECOME",
-    "recommand": "turnInto"
-  },
-  {
-    "reserved": "BEFFORE",
-    "recommand": "former"
-  },
-  {
-    "reserved": "BEFORE",
-    "recommand": "former"
-  },
-  {
-    "reserved": "BEGIN",
-    "recommand": "goOn"
-  },
-  {
-    "reserved": "BETWEEN",
-    "recommand": "middle"
-  },
-  {
-    "reserved": "BETWEEN*",
-    "recommand": "middle*"
-  },
-  {
-    "reserved": "BFILE",
-    "recommand": "externalPtr"
-  },
-  {
-    "reserved": "BIND",
-    "recommand": "strap"
-  },
-  {
-    "reserved": "BIT",
-    "recommand": "blit"
-  },
-  {
-    "reserved": "BLOB",
-    "recommand": "binObj"
-  },
-  {
-    "reserved": "BLOCK",
-    "recommand": "stall"
-  },
-  {
-    "reserved": "BLOCKED",
-    "recommand": "stalled"
-  },
-  {
-    "reserved": "BLOCKINSERT",
-    "recommand": "blkInsert"
-  },
-  {
-    "reserved": "BLOCKSIZE",
-    "recommand": "blkSize"
-  },
-  {
-    "reserved": "BOM",
-    "recommand": "byteOrderMark"
-  },
-  {
-    "reserved": "BOOL",
-    "recommand": "tf"
-  },
-  {
-    "reserved": "BOOLEAN",
-    "recommand": "tf"
-  },
-  {
-    "reserved": "BOTH",
-    "recommand": "while"
-  },
-  {
-    "reserved": "BREADTH",
-    "recommand": "distance"
-  },
-  {
-    "reserved": "BREAK",
-    "recommand": "halt"
-  },
-  {
-    "reserved": "BROWSE",
-    "recommand": "retrieve"
-  },
-  {
-    "reserved": "BTREE",
-    "recommand": "binTree"
-  },
-  {
-    "reserved": "BUCKET",
-    "recommand": "basket"
-  },
-  {
-    "reserved": "BUCKETS",
-    "recommand": "baskets"
-  },
-  {
-    "reserved": "BUFFER",
-    "recommand": "buf"
-  },
-  {
-    "reserved": "BUFFERPOOL",
-    "recommand": "bufPool"
-  },
-  {
-    "reserved": "BUFFERPOOLS",
-    "recommand": "bufPools"
-  },
-  {
-    "reserved": "BUFFERSIZE",
-    "recommand": "bufSize"
-  },
-  {
-    "reserved": "BUILD",
-    "recommand": "mk"
-  },
-  {
-    "reserved": "BULK",
-    "recommand": "amount"
-  },
-  {
-    "reserved": "BYPASS",
-    "recommand": "neglect"
-  },
-  {
-    "reserved": "CALL",
-    "recommand": "summon"
-  },
-  {
-    "reserved": "CALLED",
-    "recommand": "summoned"
-  },
-  {
-    "reserved": "CALLER",
-    "recommand": "summoner"
-  },
-  {
-    "reserved": "CALLING",
-    "recommand": "summoning"
-  },
-  {
-    "reserved": "CANCEL",
-    "recommand": "withdraw"
-  },
-  {
-    "reserved": "CAPACITY",
-    "recommand": "availability"
-  },
-  {
-    "reserved": "CAPTURE",
-    "recommand": "scrap"
-  },
-  {
-    "reserved": "CASCADE",
-    "recommand": "fall"
-  },
-  {
-    "reserved": "CASCADED",
-    "recommand": "fallen"
-  },
-  {
-    "reserved": "CAST",
-    "recommand": "casting"
-  },
-  {
-    "reserved": "CATALOG",
-    "recommand": "catalogue"
-  },
-  {
-    "reserved": "catch",
-    "recommand": "hook"
-  },
-  {
-    "reserved": "CATEGORIES",
-    "recommand": "division"
-  },
-  {
-    "reserved": "CCSID",
-    "recommand": "codedChar"
-  },
-  {
-    "reserved": "CEIL",
-    "recommand": "smallestInt"
-  },
-  {
-    "reserved": "CEILING",
-    "recommand": "smallestInt"
-  },
-  {
-    "reserved": "CFILE",
-    "recommand": "cLang"
-  },
-  {
-    "reserved": "CHANGE",
-    "recommand": "chng"
-  },
-  {
-    "reserved": "CHANGED",
-    "recommand": "chnged"
-  },
-  {
-    "reserved": "CHANGES",
-    "recommand": "chngs"
-  },
-  {
-    "reserved": "CHANNEL",
-    "recommand": "ch"
-  },
-  {
-    "reserved": "CHARACTERISTICS",
-    "recommand": "feats"
-  },
-  {
-    "reserved": "CHARACTERS",
-    "recommand": "castings"
-  },
-  {
-    "reserved": "CHECK",
-    "recommand": "chk"
-  },
-  {
-    "reserved": "CHECKED",
-    "recommand": "chked"
-  },
-  {
-    "reserved": "CHECKING",
-    "recommand": "chking"
-  },
-  {
-    "reserved": "CHECKPOINT",
-    "recommand": "chkPt"
-  },
-  {
-    "reserved": "CHECKSUM",
-    "recommand": "chkSum"
-  },
-  {
-    "reserved": "CHOOSE",
-    "recommand": "adopt"
-  },
-  {
-    "reserved": "CHUNK",
-    "recommand": "piece"
-  },
-  {
-    "reserved": "CIPHER",
-    "recommand": "secretCode"
-  },
-  {
-    "reserved": "CLASS",
-    "recommand": "allocation"
-  },
-  {
-    "reserved": "CLASSIFIER",
-    "recommand": "allocator"
-  },
-  {
-    "reserved": "CLEANUP",
-    "recommand": "mopUp"
-  },
-  {
-    "reserved": "CLEAR",
-    "recommand": "mop"
-  },
-  {
-    "reserved": "CLOB",
-    "recommand": "charLargeObj"
-  },
-  {
-    "reserved": "CLONE",
-    "recommand": "cp"
-  },
-  {
-    "reserved": "CLR",
-    "recommand": "commonLangRuntime"
-  },
-  {
-    "reserved": "CLUSTER",
-    "recommand": "gather"
-  },
-  {
-    "reserved": "CLUSTERED",
-    "recommand": "gathered"
-  },
-  {
-    "reserved": "CLUSTERING",
-    "recommand": "gathering"
-  },
-  {
-    "reserved": "CLUSTERS",
-    "recommand": "gathers"
-  },
-  {
-    "reserved": "CLUSTERSTATUS",
-    "recommand": "gatherStatus"
-  },
-  {
-    "reserved": "COALESCE",
-    "recommand": "gather"
-  },
-  {
-    "reserved": "COLAUTH",
-    "recommand": "colPrivileges"
-  },
-  {
-    "reserved": "COLLATE",
-    "recommand": "gather"
-  },
-  {
-    "reserved": "COLLATION",
-    "recommand": "gatherings"
-  },
-  {
-    "reserved": "COLLECT",
-    "recommand": "gather"
-  },
-  {
-    "reserved": "COLLECTION",
-    "recommand": "gatherings"
-  },
-  {
-    "reserved": "COLUMN",
-    "recommand": "col"
-  },
-  {
-    "reserved": "COLUMNS",
-    "recommand": "cols"
-  },
-  {
-    "reserved": "COMBINE",
-    "recommand": "blend"
-  },
-  {
-    "reserved": "COMM",
-    "recommand": "comparison"
-  },
-  {
-    "reserved": "COMMENT",
-    "recommand": "note"
-  },
-  {
-    "reserved": "COMMENTS",
-    "recommand": "notes"
-  },
-  {
-    "reserved": "COMPACT",
-    "recommand": "small"
-  },
-  {
-    "reserved": "COMPACTIONS",
-    "recommand": "smallness"
-  },
-  {
-    "reserved": "COMPARE",
-    "recommand": "cmp"
-  },
-  {
-    "reserved": "COMPARISONS",
-    "recommand": "cmps"
-  },
-  {
-    "reserved": "COMPATIBILITY",
-    "recommand": "cmpAbility"
-  },
-  {
-    "reserved": "COMPLETE",
-    "recommand": "done"
-  },
-  {
-    "reserved": "COMPLETION",
-    "recommand": "done"
-  },
-  {
-    "reserved": "COMPRESS",
-    "recommand": "condense"
-  },
-  {
-    "reserved": "COMPRESSED",
-    "recommand": "condensed"
-  },
-  {
-    "reserved": "COMPRESSION",
-    "recommand": "condensing"
-  },
-  {
-    "reserved": "COMPUTE",
-    "recommand": "calculate"
-  },
-  {
-    "reserved": "CONCAT",
-    "recommand": "relate"
-  },
-  {
-    "reserved": "CONCATENATE",
-    "recommand": "relate"
-  },
-  {
-    "reserved": "concept",
-    "recommand": "notion"
-  },
-  {
-    "reserved": "CONCURRENT",
-    "recommand": "simultaneous"
-  },
-  {
-    "reserved": "CONCURRENTDBCOORDACTIVITIES",
-    "recommand": "simultaneoutDbCoordActivities"
-  },
-  {
-    "reserved": "CONCURRENTLY",
-    "recommand": "simultaneously"
-  },
-  {
-    "reserved": "CONCURRENTWORKLOADACTIVITIES",
-    "recommand": "simultaneousWorkLoadActivities"
-  },
-  {
-    "reserved": "CONCURRENTWORKLOADOCCURRENCES",
-    "recommand": "simultaneousWorkLoadDocCurrences"
-  },
-  {
-    "reserved": "CONDITION",
-    "recommand": "opt"
-  },
-  {
-    "reserved": "CONDITIONAL",
-    "recommand": "opt"
-  },
-  {
-    "reserved": "CONF",
-    "recommand": "arr"
-  },
-  {
-    "reserved": "CONFIGURATION",
-    "recommand": "arr"
-  },
-  {
-    "reserved": "CONFLICT",
-    "recommand": "clash"
-  },
-  {
-    "reserved": "CONN",
-    "recommand": "relate"
-  },
-  {
-    "reserved": "CONNECT",
-    "recommand": "relate"
-  },
-  {
-    "reserved": "CONNECTION",
-    "recommand": "relation"
-  },
-  {
-    "reserved": "CONNECTIONIDLETIME",
-    "recommand": "connIdleTime"
-  },
-  {
-    "reserved": "CONNECTIONS",
-    "recommand": "relations"
-  },
-  {
-    "reserved": "CONNECTOPT",
-    "recommand": "relationOpt"
-  },
-  {
-    "reserved": "CONNHEADER",
-    "recommand": "relationHeader"
-  },
-  {
-    "reserved": "CONNMEMUSE",
-    "recommand": "memoryPoolMeta"
-  },
-  {
-    "reserved": "CONSERVATIVE",
-    "recommand": "moderate"
-  },
-  {
-    "reserved": "CONSISTENCY",
-    "recommand": "firmness"
-  },
-  {
-    "reserved": "CONSISTENT",
-    "recommand": "firm"
-  },
-  {
-    "reserved": "CONSTRAINED",
-    "recommand": "restrained"
-  },
-  {
-    "reserved": "CONSTRAINT",
-    "recommand": "restraint"
-  },
-  {
-    "reserved": "CONSTRAINTS",
-    "recommand": "restraints"
-  },
-  {
-    "reserved": "CONSUMED",
-    "recommand": "used"
-  },
-  {
-    "reserved": "CONTAINER",
-    "recommand": "box"
-  },
-  {
-    "reserved": "CONTAINERS",
-    "recommand": "boxes"
-  },
-  {
-    "reserved": "CONTAINS",
-    "recommand": "embrace"
-  },
-  {
-    "reserved": "CONTAINSTABLE",
-    "recommand": "embraceTable"
-  },
-  {
-    "reserved": "CONTEXT",
-    "recommand": "situation"
-  },
-  {
-    "reserved": "CONTINUE",
-    "recommand": "goOn"
-  },
-  {
-    "reserved": "CONTINUOUSLY",
-    "recommand": "goOn"
-  },
-  {
-    "reserved": "CONTRIBUTORS",
-    "recommand": "patrons"
-  },
-  {
-    "reserved": "CONTROL",
-    "recommand": "ctrl"
-  },
-  {
-    "reserved": "CONTROLFILE",
-    "recommand": "ctrlFile"
-  },
-  {
-    "reserved": "CONVERSION",
-    "recommand": "chng"
-  },
-  {
-    "reserved": "CONVERT",
-    "recommand": "chng"
-  },
-  {
-    "reserved": "COORDINATOR",
-    "recommand": "pos"
-  },
-  {
-    "reserved": "COPY",
-    "recommand": "cp"
-  },
-  {
-    "reserved": "CORR",
-    "recommand": "relate"
-  },
-  {
-    "reserved": "CORRELATION",
-    "recommand": "relation"
-  },
-  {
-    "reserved": "CORRELATOR",
-    "recommand": "relatedObj"
-  },
-  {
-    "reserved": "CORRESPONDING",
-    "recommand": "equivalent"
-  },
-  {
-    "reserved": "COS",
-    "recommand": "cosine"
-  },
-  {
-    "reserved": "COSH",
-    "recommand": "hyperbolicCosine"
-  },
-  {
-    "reserved": "COST",
-    "recommand": "amount"
-  },
-  {
-    "reserved": "COUNT",
-    "recommand": "cnt"
-  },
-  {
-    "reserved": "COUNTER",
-    "recommand": "cnt"
-  },
-  {
-    "reserved": "CRASH",
-    "recommand": "smash"
-  },
-  {
-    "reserved": "CREATE",
-    "recommand": "mk"
-  },
-  {
-    "reserved": "CREATEDB",
-    "recommand": "mkDb"
-  },
-  {
-    "reserved": "CREATEIN",
-    "recommand": "mkIn"
-  },
-  {
-    "reserved": "CREATEROLE",
-    "recommand": "mkRole"
-  },
-  {
-    "reserved": "CREATETAB",
-    "recommand": "mkTab"
-  },
-  {
-    "reserved": "CREATEUSER",
-    "recommand": "mkUser"
-  },
-  {
-    "reserved": "CROSS",
-    "recommand": "crs"
-  },
-  {
-    "reserved": "Currency",
-    "recommand": "bill"
-  },
-  {
-    "reserved": "CURRENT",
-    "recommand": "cur"
-  },
-  {
-    "reserved": "CURRVAL",
-    "recommand": "curValue"
-  },
-  {
-    "reserved": "CURSOR",
-    "recommand": "ptr"
-  },
-  {
-    "reserved": "CURSORS",
-    "recommand": "ptrs"
-  },
-  {
-    "reserved": "CYCLE",
-    "recommand": "turn"
-  },
-  {
-    "reserved": "DANGLING",
-    "recommand": "predicate"
-  },
-  {
-    "reserved": "DB2DARI",
-    "recommand": "dbToDari"
-  },
-  {
-    "reserved": "DB2GENERAL",
-    "recommand": "dbToGen"
-  },
-  {
-    "reserved": "DB2GENRL",
-    "recommand": "dbToGenRL"
-  },
-  {
-    "reserved": "DB2LBACREADARRAY",
-    "recommand": "dbToLBACREADARRAY"
-  },
-  {
-    "reserved": "DB2LBACREADSET",
-    "recommand": "DBToLBACREADSET"
-  },
-  {
-    "reserved": "DB2LBACREADTREE",
-    "recommand": "DBToLBACREADTREE"
-  },
-  {
-    "reserved": "DB2LBACRULES",
-    "recommand": "DBToLBACRULES"
-  },
-  {
-    "reserved": "DB2LBACWRITEARRAY",
-    "recommand": "DBToLBACWRITEARRAY"
-  },
-  {
-    "reserved": "DB2LBACWRITESET",
-    "recommand": "DBToLBACWRITESET"
-  },
-  {
-    "reserved": "DB2LBACWRITETREE",
-    "recommand": "DBToLBACWRITETREE"
-  },
-  {
-    "reserved": "DB2OPTIONS",
-    "recommand": "DBToOPTIONS"
-  },
-  {
-    "reserved": "DB2SECURITYLABEL",
-    "recommand": "DBToSECURITYLABEL"
-  },
-  {
-    "reserved": "DB2SPL",
-    "recommand": "DBToSPL"
-  },
-  {
-    "reserved": "DB2SQL",
-    "recommand": "DBToSQL"
-  },
-  {
-    "reserved": "DB2VALIDATE",
-    "recommand": "DBToVALIDATE"
-  },
-  {
-    "reserved": "DBA",
-    "recommand": "DBManager"
-  },
-  {
-    "reserved": "DBADM",
-    "recommand": "DBAdmin"
-  },
-  {
-    "reserved": "DBCC",
-    "recommand": "DbConsoleCmd"
-  },
-  {
-    "reserved": "DBCLOB",
-    "recommand": "DBCharObj"
-  },
-  {
-    "reserved": "DBHIGH",
-    "recommand": "DBUp"
-  },
-  {
-    "reserved": "DBINFO",
-    "recommand": "DBInformation"
-  },
-  {
-    "reserved": "DBLOW",
-    "recommand": "DBDown"
-  },
-  {
-    "reserved": "DBMAC",
-    "recommand": "DBArchitecture"
-  },
-  {
-    "reserved": "DBMEMUSE",
-    "recommand": "DBMemoryUse"
-  },
-  {
-    "reserved": "DBPARTITIONNAME",
-    "recommand": "DBPartName"
-  },
-  {
-    "reserved": "DBPARTITIONNUM",
-    "recommand": "DBPartNum"
-  },
-  {
-    "reserved": "DBPARTITIONNUMS",
-    "recommand": "DBPartNums"
-  },
-  {
-    "reserved": "DBPARTITIONS",
-    "recommand": "DBParts"
-  },
-  {
-    "reserved": "DBPROPERTIES",
-    "recommand": "DBProps"
-  },
-  {
-    "reserved": "DEACTIVATE",
-    "recommand": "DBShutoff"
-  },
-  {
-    "reserved": "DEADLOCK",
-    "recommand": "halt"
-  },
-  {
-    "reserved": "DEADLOCKS",
-    "recommand": "halts"
-  },
-  {
-    "reserved": "DEALLOCATE",
-    "recommand": "neglect"
-  },
-  {
-    "reserved": "DEBUFOFF",
-    "recommand": "bufOn"
-  },
-  {
-    "reserved": "DEBUG",
-    "recommand": "correct"
-  },
-  {
-    "reserved": "debugger",
-    "recommand": "correction"
-  },
-  {
-    "reserved": "DEBUGINFO",
-    "recommand": "correctionInfo"
-  },
-  {
-    "reserved": "DEBUGOFF",
-    "recommand": "correctionOff"
-  },
-  {
-    "reserved": "DEBUGON",
-    "recommand": "correctionOn"
-  },
-  {
-    "reserved": "DECLARE",
-    "recommand": "advocate"
-  },
-  {
-    "reserved": "decltype",
-    "recommand": "typeCheck"
-  },
-  {
-    "reserved": "DECOMPOSITION",
-    "recommand": "disintegration"
-  },
-  {
-    "reserved": "DEFAULT",
-    "recommand": "initValue"
-  },
-  {
-    "reserved": "DEFAULTS",
-    "recommand": "initValues"
-  },
-  {
-    "reserved": "DEFINE",
-    "recommand": "characterize"
-  },
-  {
-    "reserved": "DEFINED",
-    "recommand": "characterized"
-  },
-  {
-    "reserved": "DEFINER",
-    "recommand": "characterizer"
-  },
-  {
-    "reserved": "DEGREE",
-    "recommand": "deep"
-  },
-  {
-    "reserved": "del",
-    "recommand": "blackout"
-  },
-  {
-    "reserved": "DELAY",
-    "recommand": "late"
-  },
-  {
-    "reserved": "DELAYED",
-    "recommand": "late"
-  },
-  {
-    "reserved": "delegate",
-    "recommand": "strap"
-  },
-  {
-    "reserved": "DELETE",
-    "recommand": "blackout"
-  },
-  {
-    "reserved": "DELIMITED",
-    "recommand": "delimitate"
-  },
-  {
-    "reserved": "DELIMITER",
-    "recommand": "delimitater"
-  },
-  {
-    "reserved": "DELIMITERS",
-    "recommand": "delimitaters"
-  },
-  {
-    "reserved": "DENSERANK",
-    "recommand": "rowRank"
-  },
-  {
-    "reserved": "DENY",
-    "recommand": "disagree"
-  },
-  {
-    "reserved": "DEPENDENCY",
-    "recommand": "reliance"
-  },
-  {
-    "reserved": "DEPENDENT",
-    "recommand": "relient"
-  },
-  {
-    "reserved": "DEPENDS",
-    "recommand": "rely"
-  },
-  {
-    "reserved": "DEPTH",
-    "recommand": "deep"
-  },
-  {
-    "reserved": "DEREF",
-    "recommand": "objRef"
-  },
-  {
-    "reserved": "DERIVED",
-    "recommand": "originated"
-  },
-  {
-    "reserved": "DESC",
-    "recommand": "fall"
-  },
-  {
-    "reserved": "descending",
-    "recommand": "falling"
-  },
-  {
-    "reserved": "DESCRIBE",
-    "recommand": "report"
-  },
-  {
-    "reserved": "DESCRIPTION",
-    "recommand": "report"
-  },
-  {
-    "reserved": "DESCRIPTOR",
-    "recommand": "reporter"
-  },
-  {
-    "reserved": "DESTROY",
-    "recommand": "ruin"
-  },
-  {
-    "reserved": "DESTRUCTOR",
-    "recommand": "ruiner"
-  },
-  {
-    "reserved": "DETACH",
-    "recommand": "devide"
-  },
-  {
-    "reserved": "DETAIL",
-    "recommand": "feature"
-  },
-  {
-    "reserved": "DETAILED",
-    "recommand": "feature"
-  },
-  {
-    "reserved": "DETAILS",
-    "recommand": "features"
-  },
-  {
-    "reserved": "DETERMINED",
-    "recommand": "decided"
-  },
-  {
-    "reserved": "DETERMINISTIC",
-    "recommand": "decidedly"
-  },
-  {
-    "reserved": "DEVICE",
-    "recommand": "gadget"
-  },
-  {
-    "reserved": "DIAGNOSTICS",
-    "recommand": "giagnosis"
-  },
-  {
-    "reserved": "DICTIONARY",
-    "recommand": "wordbook"
-  },
-  {
-    "reserved": "DIMENSIONS",
-    "recommand": "aspect"
-  },
-  {
-    "reserved": "DIRECTORIES",
-    "recommand": "dirs"
-  },
-  {
-    "reserved": "DIRECTORY",
-    "recommand": "dir"
-  },
-  {
-    "reserved": "DIRTY",
-    "recommand": "muddy"
-  },
-  {
-    "reserved": "DISABLE",
-    "recommand": "damage"
-  },
-  {
-    "reserved": "DISABLED",
-    "recommand": "damaged"
-  },
-  {
-    "reserved": "DISALLOW",
-    "recommand": "disagree"
-  },
-  {
-    "reserved": "DISCARD",
-    "recommand": "wipeOut"
-  },
-  {
-    "reserved": "DISCONNECT",
-    "recommand": "unrelate"
-  },
-  {
-    "reserved": "DISMOUNT",
-    "recommand": "unmount"
-  },
-  {
-    "reserved": "DISPATCH",
-    "recommand": "send"
-  },
-  {
-    "reserved": "DISPOSE",
-    "recommand": "arrange"
-  },
-  {
-    "reserved": "DISTINCT",
-    "recommand": "discrete"
-  },
-  {
-    "reserved": "DISTINCTROW",
-    "recommand": "discreteRow"
-  },
-  {
-    "reserved": "DISTRIBUTE",
-    "recommand": "handOut"
-  },
-  {
-    "reserved": "DISTRIBUTED",
-    "recommand": "handOutted"
-  },
-  {
-    "reserved": "DISTRIBUTION",
-    "recommand": "handOut"
-  },
-  {
-    "reserved": "DLCONN",
-    "recommand": "halt"
-  },
-  {
-    "reserved": "dllexport",
-    "recommand": "dllUpload"
-  },
-  {
-    "reserved": "dllimport",
-    "recommand": "dllDownload"
-  },
-  {
-    "reserved": "DLLOCK",
-    "recommand": "dlclose"
-  },
-  {
-    "reserved": "DLNEWCOPY",
-    "recommand": "dlNewCp"
-  },
-  {
-    "reserved": "DLPREVIOUSCOPY",
-    "recommand": "dlPrevCp"
-  },
-  {
-    "reserved": "DLURLCOMPLETE",
-    "recommand": "completeUrl"
-  },
-  {
-    "reserved": "DLURLCOMPLETEONLY",
-    "recommand": "completeUrlOnly"
-  },
-  {
-    "reserved": "DLURLCOMPLETEWRITE",
-    "recommand": "completeUrlWrite"
-  },
-  {
-    "reserved": "DLURLPATH",
-    "recommand": "urlPath"
-  },
-  {
-    "reserved": "DLURLPATHONLY",
-    "recommand": "urlPathOnly"
-  },
-  {
-    "reserved": "DLURLPATHWRITE",
-    "recommand": "urlPathWrite"
-  },
-  {
-    "reserved": "DLURLSCHEME",
-    "recommand": "urlScheme"
-  },
-  {
-    "reserved": "DLURLSERVER",
-    "recommand": "fileServer"
-  },
-  {
-    "reserved": "DLVALUE",
-    "recommand": "dataLinkValue"
-  },
-  {
-    "reserved": "DOCUMENT",
-    "recommand": "doc"
-  },
-  {
-    "reserved": "DOMAIN",
-    "recommand": "realm"
-  },
-  {
-    "reserved": "DROP",
-    "recommand": "blackout"
-  },
-  {
-    "reserved": "DROPIN",
-    "recommand": "blackout"
-  },
-  {
-    "reserved": "DROPPED",
-    "recommand": "blackoutted"
-  },
-  {
-    "reserved": "DSSIZE",
-    "recommand": "maxTableSize"
-  },
-  {
-    "reserved": "DUAL",
-    "recommand": "twin"
-  },
-  {
-    "reserved": "DUMP",
-    "recommand": "abandon"
-  },
-  {
-    "reserved": "DUMPFILE",
-    "recommand": "abandonFile"
-  },
-  {
-    "reserved": "DUPLICATE",
-    "recommand": "cp"
-  },
-  {
-    "reserved": "DURATION",
-    "recommand": "term"
-  },
-  {
-    "reserved": "DYNAMIC",
-    "recommand": "varios"
-  },
-  {
-    "reserved": "EACH",
-    "recommand": "individual"
-  },
-  {
-    "reserved": "EDITPROC",
-    "recommand": "editProcedure"
-  },
-  {
-    "reserved": "elif",
-    "recommand": "elsIf"
-  },
-  {
-    "reserved": "ELSE",
-    "recommand": "els"
-  },
-  {
-    "reserved": "elsee",
-    "recommand": "els"
-  },
-  {
-    "reserved": "ELSEIF",
-    "recommand": "els"
-  },
-  {
-    "reserved": "EMPTY",
-    "recommand": "nothing"
-  },
-  {
-    "reserved": "ENABLE",
-    "recommand": "empower"
-  },
-  {
-    "reserved": "ENABLED",
-    "recommand": "empowered"
-  },
-  {
-    "reserved": "ENCLOSED",
-    "recommand": "packed"
-  },
-  {
-    "reserved": "ENCODING",
-    "recommand": "packing"
-  },
-  {
-    "reserved": "ENCRYPTED",
-    "recommand": "encoded"
-  },
-  {
-    "reserved": "ENCRYPTION",
-    "recommand": "encode"
-  },
-  {
-    "reserved": "END",
-    "recommand": "fin"
-  },
-  {
-    "reserved": "END-EXEC",
-    "recommand": "fin-exec"
-  },
-  {
-    "reserved": "ENDING",
-    "recommand": "finishing"
-  },
-  {
-    "reserved": "ENDS",
-    "recommand": "endings"
-  },
-  {
-    "reserved": "ENFORCE",
-    "recommand": "carryOut"
-  },
-  {
-    "reserved": "ENFORCED",
-    "recommand": "carriedOut"
-  },
-  {
-    "reserved": "ENFORCEMENT",
-    "recommand": "carryOut"
-  },
-  {
-    "reserved": "ENTRY",
-    "recommand": "entrance"
-  },
-  {
-    "reserved": "ENUM",
-    "recommand": "varNum"
-  },
-  {
-    "reserved": "ENVIRONMENT",
-    "recommand": "circumstance"
-  },
-  {
-    "reserved": "EQUAL",
-    "recommand": "identical"
-  },
-  {
-    "reserved": "EQUALS",
-    "recommand": "identicals"
-  },
-  {
-    "reserved": "ERASE",
-    "recommand": "wipeOut"
-  },
-  {
-    "reserved": "ERRLVL",
-    "recommand": "recoverableErr"
-  },
-  {
-    "reserved": "ERROR",
-    "recommand": "err"
-  },
-  {
-    "reserved": "ERRORS",
-    "recommand": "errs"
-  },
-  {
-    "reserved": "ESCALATION",
-    "recommand": "advance"
-  },
-  {
-    "reserved": "ESCAPE",
-    "recommand": "flee"
-  },
-  {
-    "reserved": "ESCAPED",
-    "recommand": "fleed"
-  },
-  {
-    "reserved": "ESTIMATE",
-    "recommand": "guess"
-  },
-  {
-    "reserved": "ESTIMATEDCOST",
-    "recommand": "guessingcost"
-  },
-  {
-    "reserved": "ESTIMATEDSQLCOST",
-    "recommand": "guessingSQLCost"
-  },
-  {
-    "reserved": "EVAL",
-    "recommand": "assess"
-  },
-  {
-    "reserved": "EVALUATE",
-    "recommand": "assess"
-  },
-  {
-    "reserved": "EVENT",
-    "recommand": "incident"
-  },
-  {
-    "reserved": "EVENTS",
-    "recommand": "incidents"
-  },
-  {
-    "reserved": "EVERY",
-    "recommand": "individual"
-  },
-  {
-    "reserved": "EXACT",
-    "recommand": "accurate"
-  },
-  {
-    "reserved": "EXCEEDED",
-    "recommand": "surpassed"
-  },
-  {
-    "reserved": "EXCEPT",
-    "recommand": "apartFrom"
-  },
-  {
-    "reserved": "EXCEPTION",
-    "recommand": "deviation"
-  },
-  {
-    "reserved": "EXCEPTIONS",
-    "recommand": "deviations"
-  },
-  {
-    "reserved": "EXCHANGE",
-    "recommand": "trade"
-  },
-  {
-    "reserved": "EXCLUDE",
-    "recommand": "forbid"
-  },
-  {
-    "reserved": "EXCLUDES",
-    "recommand": "forbids"
-  },
-  {
-    "reserved": "EXCLUDING",
-    "recommand": "forbidding"
-  },
-  {
-    "reserved": "EXCLUSIVE",
-    "recommand": "forbidden"
-  },
-  {
-    "reserved": "EXEC",
-    "recommand": "carryOut"
-  },
-  {
-    "reserved": "EXECNODE",
-    "recommand": "carryOutNode"
-  },
-  {
-    "reserved": "EXECUTE",
-    "recommand": "carryOut"
-  },
-  {
-    "reserved": "EXECUTETIME",
-    "recommand": "carryOutTime"
-  },
-  {
-    "reserved": "EXECUTION",
-    "recommand": "carryOut"
-  },
-  {
-    "reserved": "EXEMPTION",
-    "recommand": "exclusion"
-  },
-  {
-    "reserved": "EXISTING",
-    "recommand": "lasting"
-  },
-  {
-    "reserved": "EXISTS",
-    "recommand": "lasts"
-  },
-  {
-    "reserved": "EXIT",
-    "recommand": "wayOut"
-  },
-  {
-    "reserved": "EXP",
-    "recommand": "expir"
-  },
-  {
-    "reserved": "EXPAND",
-    "recommand": "grow"
-  },
-  {
-    "reserved": "EXPANSION",
-    "recommand": "growth"
-  },
-  {
-    "reserved": "EXPIRE",
-    "recommand": "expir"
-  },
-  {
-    "reserved": "EXPLAIN",
-    "recommand": "report"
-  },
-  {
-    "reserved": "explicit",
-    "recommand": "obvious"
-  },
-  {
-    "reserved": "EXPLODE",
-    "recommand": "erupt"
-  },
-  {
-    "reserved": "EXPORT",
-    "recommand": "upload"
-  },
-  {
-    "reserved": "EXPRESSION",
-    "recommand": "declaration"
-  },
-  {
-    "reserved": "EXTEND",
-    "recommand": "grow"
-  },
-  {
-    "reserved": "EXTENDED",
-    "recommand": "grown"
-  },
-  {
-    "reserved": "extends",
-    "recommand": "grows"
-  },
-  {
-    "reserved": "EXTENSION",
-    "recommand": "growth"
-  },
-  {
-    "reserved": "EXTENT",
-    "recommand": "growth"
-  },
-  {
-    "reserved": "EXTENTS",
-    "recommand": "growths"
-  },
-  {
-    "reserved": "EXTENTSIZE",
-    "recommand": "growthSize"
-  },
-  {
-    "reserved": "extern",
-    "recommand": "outside"
-  },
-  {
-    "reserved": "EXTERNAL",
-    "recommand": "outside"
-  },
-  {
-    "reserved": "EXTERNALLY",
-    "recommand": "outside"
-  },
-  {
-    "reserved": "EXTRACT",
-    "recommand": "takeOut"
-  },
-  {
-    "reserved": "FAIL",
-    "recommand": "fall"
-  },
-  {
-    "reserved": "FAILURE",
-    "recommand": "defeat"
-  },
-  {
-    "reserved": "FAST",
-    "recommand": "speedu"
-  },
-  {
-    "reserved": "FAULTS",
-    "recommand": "wrong"
-  },
-  {
-    "reserved": "FEDERATED",
-    "recommand": "united"
-  },
-  {
-    "reserved": "FENCED",
-    "recommand": "barriored"
-  },
-  {
-    "reserved": "FETCH",
-    "recommand": "bring"
-  },
-  {
-    "reserved": "FIELDPROC",
-    "recommand": "fieldProcedure"
-  },
-  {
-    "reserved": "FIELDS",
-    "recommand": "earth"
-  },
-  {
-    "reserved": "FILTER",
-    "recommand": "purifier"
-  },
-  {
-    "reserved": "FILTERING",
-    "recommand": "purifying"
-  },
-  {
-    "reserved": "finally",
-    "recommand": "lastly"
-  },
-  {
-    "reserved": "FINISH",
-    "recommand": "done"
-  },
-  {
-    "reserved": "FIRST",
-    "recommand": "early"
-  },
-  {
-    "reserved": "FIXED",
-    "recommand": "solid"
-  },
-  {
-    "reserved": "FLAG",
-    "recommand": "banner"
-  },
-  {
-    "reserved": "FLAGGER",
-    "recommand": "banner"
-  },
-  {
-    "reserved": "FLATTERN",
-    "recommand": "flatten"
-  },
-  {
-    "reserved": "FLOOR",
-    "recommand": "flatten"
-  },
-  {
-    "reserved": "FLUSH",
-    "recommand": "rinse"
-  },
-  {
-    "reserved": "FOLLOWING",
-    "recommand": "attending"
-  },
-  {
-    "reserved": "FOLLOWS",
-    "recommand": "attends"
-  },
-  {
-    "reserved": "FORCE",
-    "recommand": "compel"
-  },
-  {
-    "reserved": "foreach",
-    "recommand": "oneByOne"
-  },
-  {
-    "reserved": "FOREIGN",
-    "recommand": "outside"
-  },
-  {
-    "reserved": "FORM",
-    "recommand": "composition"
-  },
-  {
-    "reserved": "FORMAT",
-    "recommand": "composition"
-  },
-  {
-    "reserved": "FORMATTED",
-    "recommand": "composed"
-  },
-  {
-    "reserved": "FORWARD",
-    "recommand": "toward"
-  },
-  {
-    "reserved": "FOUND",
-    "recommand": "discovered"
-  },
-  {
-    "reserved": "FREE",
-    "recommand": "blank"
-  },
-  {
-    "reserved": "FREELIST",
-    "recommand": "blankList"
-  },
-  {
-    "reserved": "FREELISTS",
-    "recommand": "blankLists"
-  },
-  {
-    "reserved": "FREEPAGE",
-    "recommand": "blankPage"
-  }
+	{
+		"reserved": "ADD",
+		"recommend": ["plus", "cnt"]
+	},
+	{
+		"reserved": "ABORT",
+		"recommend": ["halt", "breakOff"]
+	},
+	{
+		"reserved": "ABS",
+		"recommend": ["pure", "utter"]
+	},
+	{
+		"reserved": "ABSENT",
+		"recommend": ["away", "elsewhere"]
+	},
+	{
+		"reserved": "ABSOLUTE",
+		"recommend": ["pure", "utter"]
+	},
+	{
+		"reserved": "abstract",
+		"recommend": ["nonconcrete", "indefinite"]
+	},
+	{
+		"reserved": "ACCEPT",
+		"recommend": ["agree", "obtain"]
+	},
+	{
+		"reserved": "ACCESIBLE",
+		"recommend": ["reachable", "attainable"]
+	},
+	{
+		"reserved": "ACCESS",
+		"recommend": ["reach", "attain"]
+	},
+	{
+		"reserved": "ACCESSCTRL",
+		"recommend": ["accesscontrol", "accessmanage"]
+	},
+	{
+		"reserved": "ACCESSIBLE",
+		"recommend": ["reachable", "attainable"]
+	},
+	{
+		"reserved": "ACCORDING",
+		"recommend": ["confer", "bestow"]
+	},
+	{
+		"reserved": "ACCOUNT",
+		"recommend": ["id", "acc"]
+	},
+	{
+		"reserved": "ACCTNG",
+		"recommend": ["accounting"]
+	},
+	{
+		"reserved": "ACOS",
+		"recommend": ["acosine"]
+	},
+	{
+		"reserved": "ACTION",
+		"recommend": ["acting"]
+	},
+	{
+		"reserved": "ACTIVATE",
+		"recommend": ["act"]
+	},
+	{
+		"reserved": "ACTIVE",
+		"recommend": ["alive", "effective"]
+	},
+	{
+		"reserved": "ACTIVITIES",
+		"recommend": ["actings"]
+	},
+	{
+		"reserved": "ACTIVITY",
+		"recommend": ["acting"]
+	},
+	{
+		"reserved": "ACTIVITYSTMT",
+		"recommend": ["eventMoniterTable", ""]
+	},
+	{
+		"reserved": "ACTIVITYTOTALTIME",
+		"recommend": ["activityWholeTime", ""]
+	},
+	{
+		"reserved": "ACTIVITYVALS",
+		"recommend": ["eventMoniterTable", ""]
+	},
+	{
+		"reserved": "ADA",
+		"recommend": ["adaDb"]
+	},
+	{
+		"reserved": "ADMIN",
+		"recommend": ["govern"]
+	},
+	{
+		"reserved": "ADMINISTRATION",
+		"recommend": ["government", ""]
+	},
+	{
+		"reserved": "ADVISE",
+		"recommend": ["offer"]
+	},
+	{
+		"reserved": "AFTER",
+		"recommend": ["afterward", "later"]
+	},
+	{
+		"reserved": "AGAINST",
+		"recommend": ["opposing"]
+	},
+	{
+		"reserved": "AGE",
+		"recommend": ["ag"]
+	},
+	{
+		"reserved": "AGENT",
+		"recommend": ["actor"]
+	},
+	{
+		"reserved": "AGGREGATE",
+		"recommend": ["totalResult"]
+	},
+	{
+		"reserved": "AGGSQLTEMPSPACE",
+		"recommend": ["availableSpace"]
+	},
+	{
+		"reserved": "ALGORITHM",
+		"recommend": ["problem"]
+	},
+	{
+		"reserved": "ALIAS",
+		"recommend": ["nickname"]
+	},
+	{
+		"reserved": "alignas",
+		"recommend": ["alignOption"]
+	},
+	{
+		"reserved": "alignof",
+		"recommend": ["setAlign"]
+	},
+	{
+		"reserved": "ALL",
+		"recommend": ["whole"]
+	},
+	{
+		"reserved": "ALLOCATE",
+		"recommend": ["everything"]
+	},
+	{
+		"reserved": "ALLOW",
+		"recommend": ["permit"]
+	},
+	{
+		"reserved": "ALSO",
+		"recommend": ["plus"]
+	},
+	{
+		"reserved": "ALTER",
+		"recommend": ["chng"]
+	},
+	{
+		"reserved": "ALTERIN",
+		"recommend": ["alterOption"]
+	},
+	{
+		"reserved": "ALWAYS",
+		"recommend": ["constantly"]
+	},
+	{
+		"reserved": "ANALYSE",
+		"recommend": ["investigate"]
+	},
+	{
+		"reserved": "ANALYZE",
+		"recommend": ["investigate"]
+	},
+	{
+		"reserved": "ANCHOR",
+		"recommend": ["dock"]
+	},
+	{
+		"reserved": "AND",
+		"recommend": ["plus"]
+	},
+	{
+		"reserved": "ANY",
+		"recommend": ["anything"]
+	},
+	{
+		"reserved": "APPEND",
+		"recommend": ["affix"]
+	},
+	{
+		"reserved": "APPLICATION",
+		"recommend": ["app"]
+	},
+	{
+		"reserved": "APPLNAME",
+		"recommend": ["appName"]
+	},
+	{
+		"reserved": "APPROXIMATION",
+		"recommend": ["about"]
+	},
+	{
+		"reserved": "APREUSE",
+		"recommend": ["reusable"]
+	},
+	{
+		"reserved": "ARCHIVE",
+		"recommend": ["accomplish"]
+	},
+	{
+		"reserved": "ARCHIVELOG",
+		"recommend": ["fileLog"]
+	},
+	{
+		"reserved": "ARE",
+		"recommend": ["be"]
+	},
+	{
+		"reserved": "arguments",
+		"recommend": ["args"]
+	},
+	{
+		"reserved": "ARRAY",
+		"recommend": ["arr"]
+	},
+	{
+		"reserved": "ARRAYLEN",
+		"recommend": ["arrlen"]
+	},
+	{
+		"reserved": "AS",
+		"recommend": ["aka"]
+	},
+	{
+		"reserved": "ASC",
+		"recommend": ["ascend"]
+	},
+	{
+		"reserved": "ascending",
+		"recommend": ["ascend"]
+	},
+	{
+		"reserved": "ASCII",
+		"recommend": ["asciiCode"]
+	},
+	{
+		"reserved": "ASENSITIVE",
+		"recommend": ["dataCursor"]
+	},
+	{
+		"reserved": "ASIN",
+		"recommend": ["aSine"]
+	},
+	{
+		"reserved": "asm",
+		"recommend": ["autoStorageMan"]
+	},
+	{
+		"reserved": "ASSERT",
+		"recommend": ["add"]
+	},
+	{
+		"reserved": "ASSERTION",
+		"recommend": ["adding"]
+	},
+	{
+		"reserved": "ASSIGN",
+		"recommend": ["alloc"]
+	},
+	{
+		"reserved": "ASSIGNMENT",
+		"recommend": ["alloc"]
+	},
+	{
+		"reserved": "ASSOCIATE",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "AST",
+		"recommend": ["asterisk"]
+	},
+	{
+		"reserved": "ASUTIME",
+		"recommend": ["asuClock"]
+	},
+	{
+		"reserved": "ASYMMETRIC",
+		"recommend": ["unbalance"]
+	},
+	{
+		"reserved": "async",
+		"recommend": ["asynchronize"]
+	},
+	{
+		"reserved": "ASYNCHRONY",
+		"recommend": ["asynchronization"]
+	},
+	{
+		"reserved": "ATAN",
+		"recommend": ["atangent"]
+	},
+	{
+		"reserved": "ATTACH",
+		"recommend": ["paste"]
+	},
+	{
+		"reserved": "ATTACHED",
+		"recommend": ["pasted"]
+	},
+	{
+		"reserved": "ATTRIBUTE",
+		"recommend": ["attr"]
+	},
+	{
+		"reserved": "ATTRIBUTES",
+		"recommend": ["attrs"]
+	},
+	{
+		"reserved": "AUDIT",
+		"recommend": ["analysis"]
+	},
+	{
+		"reserved": "AUTH",
+		"recommend": ["proof"]
+	},
+	{
+		"reserved": "AUTHENTICATED",
+		"recommend": ["proofed"]
+	},
+	{
+		"reserved": "AUTHENTICATION",
+		"recommend": ["proof"]
+	},
+	{
+		"reserved": "AUTHID",
+		"recommend": ["powerId"]
+	},
+	{
+		"reserved": "AUTHORIZATION",
+		"recommend": ["right"]
+	},
+	{
+		"reserved": "AUTHORIZATIONS",
+		"recommend": ["rights"]
+	},
+	{
+		"reserved": "AUTHORIZE",
+		"recommend": ["empower"]
+	},
+	{
+		"reserved": "AUTHORIZED",
+		"recommend": ["empowered"]
+	},
+	{
+		"reserved": "AUTHORS",
+		"recommend": ["writers"]
+	},
+	{
+		"reserved": "AVAILABLE",
+		"recommend": ["applicable"]
+	},
+	{
+		"reserved": "AVG",
+		"recommend": ["average"]
+	},
+	{
+		"reserved": "await",
+		"recommend": ["hangIn"]
+	},
+	{
+		"reserved": "BACK",
+		"recommend": ["former"]
+	},
+	{
+		"reserved": "BACKUP",
+		"recommend": ["saving"]
+	},
+	{
+		"reserved": "BACKWARD",
+		"recommend": [""]
+	},
+	{
+		"reserved": "BASE",
+		"recommend": ["place"]
+	},
+	{
+		"reserved": "BASE64",
+		"recommend": ["place"]
+	},
+	{
+		"reserved": "BASED",
+		"recommend": ["placed"]
+	},
+	{
+		"reserved": "BATCH",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "BECOME",
+		"recommend": ["turnInto"]
+	},
+	{
+		"reserved": "BEFFORE",
+		"recommend": ["former"]
+	},
+	{
+		"reserved": "BEFORE",
+		"recommend": ["former"]
+	},
+	{
+		"reserved": "BEGIN",
+		"recommend": ["goOn"]
+	},
+	{
+		"reserved": "BETWEEN",
+		"recommend": ["middle"]
+	},
+	{
+		"reserved": "BETWEEN*",
+		"recommend": ["middle*"]
+	},
+	{
+		"reserved": "BFILE",
+		"recommend": ["externalPtr"]
+	},
+	{
+		"reserved": "BIND",
+		"recommend": ["strap"]
+	},
+	{
+		"reserved": "BIT",
+		"recommend": ["blit"]
+	},
+	{
+		"reserved": "BLOB",
+		"recommend": ["binObj"]
+	},
+	{
+		"reserved": "BLOCK",
+		"recommend": ["stall"]
+	},
+	{
+		"reserved": "BLOCKED",
+		"recommend": ["stalled"]
+	},
+	{
+		"reserved": "BLOCKINSERT",
+		"recommend": ["blkInsert"]
+	},
+	{
+		"reserved": "BLOCKSIZE",
+		"recommend": ["blkSize"]
+	},
+	{
+		"reserved": "BOM",
+		"recommend": ["byteOrderMark"]
+	},
+	{
+		"reserved": "BOOL",
+		"recommend": ["tf"]
+	},
+	{
+		"reserved": "BOOLEAN",
+		"recommend": ["tf"]
+	},
+	{
+		"reserved": "BOTH",
+		"recommend": ["while"]
+	},
+	{
+		"reserved": "BREADTH",
+		"recommend": ["distance"]
+	},
+	{
+		"reserved": "BREAK",
+		"recommend": ["halt"]
+	},
+	{
+		"reserved": "BROWSE",
+		"recommend": ["retrieve"]
+	},
+	{
+		"reserved": "BTREE",
+		"recommend": ["binTree"]
+	},
+	{
+		"reserved": "BUCKET",
+		"recommend": ["basket"]
+	},
+	{
+		"reserved": "BUCKETS",
+		"recommend": ["baskets"]
+	},
+	{
+		"reserved": "BUFFER",
+		"recommend": ["buf"]
+	},
+	{
+		"reserved": "BUFFERPOOL",
+		"recommend": ["bufPool"]
+	},
+	{
+		"reserved": "BUFFERPOOLS",
+		"recommend": ["bufPools"]
+	},
+	{
+		"reserved": "BUFFERSIZE",
+		"recommend": ["bufSize"]
+	},
+	{
+		"reserved": "BUILD",
+		"recommend": ["mk"]
+	},
+	{
+		"reserved": "BULK",
+		"recommend": ["amount"]
+	},
+	{
+		"reserved": "BYPASS",
+		"recommend": ["neglect"]
+	},
+	{
+		"reserved": "CALL",
+		"recommend": ["summon"]
+	},
+	{
+		"reserved": "CALLED",
+		"recommend": ["summoned"]
+	},
+	{
+		"reserved": "CALLER",
+		"recommend": ["summoner"]
+	},
+	{
+		"reserved": "CALLING",
+		"recommend": ["summoning"]
+	},
+	{
+		"reserved": "CANCEL",
+		"recommend": ["withdraw"]
+	},
+	{
+		"reserved": "CAPACITY",
+		"recommend": ["availability"]
+	},
+	{
+		"reserved": "CAPTURE",
+		"recommend": ["scrap"]
+	},
+	{
+		"reserved": "CASCADE",
+		"recommend": ["fall"]
+	},
+	{
+		"reserved": "CASCADED",
+		"recommend": ["fallen"]
+	},
+	{
+		"reserved": "CAST",
+		"recommend": ["casting"]
+	},
+	{
+		"reserved": "CATALOG",
+		"recommend": ["catalogue"]
+	},
+	{
+		"reserved": "catch",
+		"recommend": ["hook"]
+	},
+	{
+		"reserved": "CATEGORIES",
+		"recommend": ["division"]
+	},
+	{
+		"reserved": "CCSID",
+		"recommend": ["codedChar"]
+	},
+	{
+		"reserved": "CEIL",
+		"recommend": ["smallestInt"]
+	},
+	{
+		"reserved": "CEILING",
+		"recommend": ["smallestInt"]
+	},
+	{
+		"reserved": "CFILE",
+		"recommend": ["cLang"]
+	},
+	{
+		"reserved": "CHANGE",
+		"recommend": ["chng"]
+	},
+	{
+		"reserved": "CHANGED",
+		"recommend": ["chnged"]
+	},
+	{
+		"reserved": "CHANGES",
+		"recommend": ["chngs"]
+	},
+	{
+		"reserved": "CHANNEL",
+		"recommend": ["ch"]
+	},
+	{
+		"reserved": "CHARACTERISTICS",
+		"recommend": ["feats"]
+	},
+	{
+		"reserved": "CHARACTERS",
+		"recommend": ["castings"]
+	},
+	{
+		"reserved": "CHECK",
+		"recommend": ["chk"]
+	},
+	{
+		"reserved": "CHECKED",
+		"recommend": ["chked"]
+	},
+	{
+		"reserved": "CHECKING",
+		"recommend": ["chking"]
+	},
+	{
+		"reserved": "CHECKPOINT",
+		"recommend": ["chkPt"]
+	},
+	{
+		"reserved": "CHECKSUM",
+		"recommend": ["chkSum"]
+	},
+	{
+		"reserved": "CHOOSE",
+		"recommend": ["adopt"]
+	},
+	{
+		"reserved": "CHUNK",
+		"recommend": ["piece"]
+	},
+	{
+		"reserved": "CIPHER",
+		"recommend": ["secretCode"]
+	},
+	{
+		"reserved": "CLASS",
+		"recommend": ["allocation"]
+	},
+	{
+		"reserved": "CLASSIFIER",
+		"recommend": ["allocator"]
+	},
+	{
+		"reserved": "CLEANUP",
+		"recommend": ["mopUp"]
+	},
+	{
+		"reserved": "CLEAR",
+		"recommend": ["mop"]
+	},
+	{
+		"reserved": "CLOB",
+		"recommend": ["charLargeObj"]
+	},
+	{
+		"reserved": "CLONE",
+		"recommend": ["cp"]
+	},
+	{
+		"reserved": "CLR",
+		"recommend": ["commonLangRuntime"]
+	},
+	{
+		"reserved": "CLUSTER",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "CLUSTERED",
+		"recommend": ["gathered"]
+	},
+	{
+		"reserved": "CLUSTERING",
+		"recommend": ["gathering"]
+	},
+	{
+		"reserved": "CLUSTERS",
+		"recommend": ["gathers"]
+	},
+	{
+		"reserved": "CLUSTERSTATUS",
+		"recommend": ["gatherStatus"]
+	},
+	{
+		"reserved": "COALESCE",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "COLAUTH",
+		"recommend": ["colPrivileges"]
+	},
+	{
+		"reserved": "COLLATE",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "COLLATION",
+		"recommend": ["gatherings"]
+	},
+	{
+		"reserved": "COLLECT",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "COLLECTION",
+		"recommend": ["gatherings"]
+	},
+	{
+		"reserved": "COLUMN",
+		"recommend": ["col"]
+	},
+	{
+		"reserved": "COLUMNS",
+		"recommend": ["cols"]
+	},
+	{
+		"reserved": "COMBINE",
+		"recommend": ["blend"]
+	},
+	{
+		"reserved": "COMM",
+		"recommend": ["comparison"]
+	},
+	{
+		"reserved": "COMMENT",
+		"recommend": ["note"]
+	},
+	{
+		"reserved": "COMMENTS",
+		"recommend": ["notes"]
+	},
+	{
+		"reserved": "COMPACT",
+		"recommend": ["small"]
+	},
+	{
+		"reserved": "COMPACTIONS",
+		"recommend": ["smallness"]
+	},
+	{
+		"reserved": "COMPARE",
+		"recommend": ["cmp"]
+	},
+	{
+		"reserved": "COMPARISONS",
+		"recommend": ["cmps"]
+	},
+	{
+		"reserved": "COMPATIBILITY",
+		"recommend": ["cmpAbility"]
+	},
+	{
+		"reserved": "COMPLETE",
+		"recommend": ["done"]
+	},
+	{
+		"reserved": "COMPLETION",
+		"recommend": ["done"]
+	},
+	{
+		"reserved": "COMPRESS",
+		"recommend": ["condense"]
+	},
+	{
+		"reserved": "COMPRESSED",
+		"recommend": ["condensed"]
+	},
+	{
+		"reserved": "COMPRESSION",
+		"recommend": ["condensing"]
+	},
+	{
+		"reserved": "COMPUTE",
+		"recommend": ["calculate"]
+	},
+	{
+		"reserved": "CONCAT",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "CONCATENATE",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "concept",
+		"recommend": ["notion"]
+	},
+	{
+		"reserved": "CONCURRENT",
+		"recommend": ["simultaneous"]
+	},
+	{
+		"reserved": "CONCURRENTDBCOORDACTIVITIES",
+		"recommend": ["simultaneoutDbCoordActivities"]
+	},
+	{
+		"reserved": "CONCURRENTLY",
+		"recommend": ["simultaneously"]
+	},
+	{
+		"reserved": "CONCURRENTWORKLOADACTIVITIES",
+		"recommend": ["simultaneousWorkLoadActivities"]
+	},
+	{
+		"reserved": "CONCURRENTWORKLOADOCCURRENCES",
+		"recommend": ["simultaneousWorkLoadDocCurrences"]
+	},
+	{
+		"reserved": "CONDITION",
+		"recommend": ["opt"]
+	},
+	{
+		"reserved": "CONDITIONAL",
+		"recommend": ["opt"]
+	},
+	{
+		"reserved": "CONF",
+		"recommend": ["arr"]
+	},
+	{
+		"reserved": "CONFIGURATION",
+		"recommend": ["arr"]
+	},
+	{
+		"reserved": "CONFLICT",
+		"recommend": ["clash"]
+	},
+	{
+		"reserved": "CONN",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "CONNECT",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "CONNECTION",
+		"recommend": ["relation"]
+	},
+	{
+		"reserved": "CONNECTIONIDLETIME",
+		"recommend": ["connIdleTime"]
+	},
+	{
+		"reserved": "CONNECTIONS",
+		"recommend": ["relations"]
+	},
+	{
+		"reserved": "CONNECTOPT",
+		"recommend": ["relationOpt"]
+	},
+	{
+		"reserved": "CONNHEADER",
+		"recommend": ["relationHeader"]
+	},
+	{
+		"reserved": "CONNMEMUSE",
+		"recommend": ["memoryPoolMeta"]
+	},
+	{
+		"reserved": "CONSERVATIVE",
+		"recommend": ["moderate"]
+	},
+	{
+		"reserved": "CONSISTENCY",
+		"recommend": ["firmness"]
+	},
+	{
+		"reserved": "CONSISTENT",
+		"recommend": ["firm"]
+	},
+	{
+		"reserved": "CONSTRAINED",
+		"recommend": ["restrained"]
+	},
+	{
+		"reserved": "CONSTRAINT",
+		"recommend": ["restraint"]
+	},
+	{
+		"reserved": "CONSTRAINTS",
+		"recommend": ["restraints"]
+	},
+	{
+		"reserved": "CONSUMED",
+		"recommend": ["used"]
+	},
+	{
+		"reserved": "CONTAINER",
+		"recommend": ["box"]
+	},
+	{
+		"reserved": "CONTAINERS",
+		"recommend": ["boxes"]
+	},
+	{
+		"reserved": "CONTAINS",
+		"recommend": ["embrace"]
+	},
+	{
+		"reserved": "CONTAINSTABLE",
+		"recommend": ["embraceTable"]
+	},
+	{
+		"reserved": "CONTEXT",
+		"recommend": ["situation"]
+	},
+	{
+		"reserved": "CONTINUE",
+		"recommend": ["goOn"]
+	},
+	{
+		"reserved": "CONTINUOUSLY",
+		"recommend": ["goOn"]
+	},
+	{
+		"reserved": "CONTRIBUTORS",
+		"recommend": ["patrons"]
+	},
+	{
+		"reserved": "CONTROL",
+		"recommend": ["ctrl"]
+	},
+	{
+		"reserved": "CONTROLFILE",
+		"recommend": ["ctrlFile"]
+	},
+	{
+		"reserved": "CONVERSION",
+		"recommend": ["chng"]
+	},
+	{
+		"reserved": "CONVERT",
+		"recommend": ["chng"]
+	},
+	{
+		"reserved": "COORDINATOR",
+		"recommend": ["pos"]
+	},
+	{
+		"reserved": "COPY",
+		"recommend": ["cp"]
+	},
+	{
+		"reserved": "CORR",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "CORRELATION",
+		"recommend": ["relation"]
+	},
+	{
+		"reserved": "CORRELATOR",
+		"recommend": ["relatedObj"]
+	},
+	{
+		"reserved": "CORRESPONDING",
+		"recommend": ["equivalent"]
+	},
+	{
+		"reserved": "COS",
+		"recommend": ["cosine"]
+	},
+	{
+		"reserved": "COSH",
+		"recommend": ["hyperbolicCosine"]
+	},
+	{
+		"reserved": "COST",
+		"recommend": ["amount"]
+	},
+	{
+		"reserved": "COUNT",
+		"recommend": ["cnt"]
+	},
+	{
+		"reserved": "COUNTER",
+		"recommend": ["cnt"]
+	},
+	{
+		"reserved": "CRASH",
+		"recommend": ["smash"]
+	},
+	{
+		"reserved": "CREATE",
+		"recommend": ["mk"]
+	},
+	{
+		"reserved": "CREATEDB",
+		"recommend": ["mkDb"]
+	},
+	{
+		"reserved": "CREATEIN",
+		"recommend": ["mkIn"]
+	},
+	{
+		"reserved": "CREATEROLE",
+		"recommend": ["mkRole"]
+	},
+	{
+		"reserved": "CREATETAB",
+		"recommend": ["mkTab"]
+	},
+	{
+		"reserved": "CREATEUSER",
+		"recommend": ["mkUser"]
+	},
+	{
+		"reserved": "CROSS",
+		"recommend": ["crs"]
+	},
+	{
+		"reserved": "Currency",
+		"recommend": ["bill"]
+	},
+	{
+		"reserved": "CURRENT",
+		"recommend": ["cur"]
+	},
+	{
+		"reserved": "CURRVAL",
+		"recommend": ["curValue"]
+	},
+	{
+		"reserved": "CURSOR",
+		"recommend": ["ptr"]
+	},
+	{
+		"reserved": "CURSORS",
+		"recommend": ["ptrs"]
+	},
+	{
+		"reserved": "CYCLE",
+		"recommend": ["turn"]
+	},
+	{
+		"reserved": "DANGLING",
+		"recommend": ["predicate"]
+	},
+	{
+		"reserved": "DB2DARI",
+		"recommend": ["dbToDari"]
+	},
+	{
+		"reserved": "DB2GENERAL",
+		"recommend": ["dbToGen"]
+	},
+	{
+		"reserved": "DB2GENRL",
+		"recommend": ["dbToGenRL"]
+	},
+	{
+		"reserved": "DB2LBACREADARRAY",
+		"recommend": ["dbToLBACREADARRAY"]
+	},
+	{
+		"reserved": "DB2LBACREADSET",
+		"recommend": ["DBToLBACREADSET"]
+	},
+	{
+		"reserved": "DB2LBACREADTREE",
+		"recommend": ["DBToLBACREADTREE"]
+	},
+	{
+		"reserved": "DB2LBACRULES",
+		"recommend": ["DBToLBACRULES"]
+	},
+	{
+		"reserved": "DB2LBACWRITEARRAY",
+		"recommend": ["DBToLBACWRITEARRAY"]
+	},
+	{
+		"reserved": "DB2LBACWRITESET",
+		"recommend": ["DBToLBACWRITESET"]
+	},
+	{
+		"reserved": "DB2LBACWRITETREE",
+		"recommend": ["DBToLBACWRITETREE"]
+	},
+	{
+		"reserved": "DB2OPTIONS",
+		"recommend": ["DBToOPTIONS"]
+	},
+	{
+		"reserved": "DB2SECURITYLABEL",
+		"recommend": ["DBToSECURITYLABEL"]
+	},
+	{
+		"reserved": "DB2SPL",
+		"recommend": ["DBToSPL"]
+	},
+	{
+		"reserved": "DB2SQL",
+		"recommend": ["DBToSQL"]
+	},
+	{
+		"reserved": "DB2VALIDATE",
+		"recommend": ["DBToVALIDATE"]
+	},
+	{
+		"reserved": "DBA",
+		"recommend": ["DBManager"]
+	},
+	{
+		"reserved": "DBADM",
+		"recommend": ["DBAdmin"]
+	},
+	{
+		"reserved": "DBCC",
+		"recommend": ["DbConsoleCmd"]
+	},
+	{
+		"reserved": "DBCLOB",
+		"recommend": ["DBCharObj"]
+	},
+	{
+		"reserved": "DBHIGH",
+		"recommend": ["DBUp"]
+	},
+	{
+		"reserved": "DBINFO",
+		"recommend": ["DBInformation"]
+	},
+	{
+		"reserved": "DBLOW",
+		"recommend": ["DBDown"]
+	},
+	{
+		"reserved": "DBMAC",
+		"recommend": ["DBArchitecture"]
+	},
+	{
+		"reserved": "DBMEMUSE",
+		"recommend": ["DBMemoryUse"]
+	},
+	{
+		"reserved": "DBPARTITIONNAME",
+		"recommend": ["DBPartName"]
+	},
+	{
+		"reserved": "DBPARTITIONNUM",
+		"recommend": ["DBPartNum"]
+	},
+	{
+		"reserved": "DBPARTITIONNUMS",
+		"recommend": ["DBPartNums"]
+	},
+	{
+		"reserved": "DBPARTITIONS",
+		"recommend": ["DBParts"]
+	},
+	{
+		"reserved": "DBPROPERTIES",
+		"recommend": ["DBProps"]
+	},
+	{
+		"reserved": "DEACTIVATE",
+		"recommend": ["DBShutoff"]
+	},
+	{
+		"reserved": "DEADLOCK",
+		"recommend": ["halt"]
+	},
+	{
+		"reserved": "DEADLOCKS",
+		"recommend": ["halts"]
+	},
+	{
+		"reserved": "DEALLOCATE",
+		"recommend": ["neglect"]
+	},
+	{
+		"reserved": "DEBUFOFF",
+		"recommend": ["bufOn"]
+	},
+	{
+		"reserved": "DEBUG",
+		"recommend": ["correct"]
+	},
+	{
+		"reserved": "debugger",
+		"recommend": ["correction"]
+	},
+	{
+		"reserved": "DEBUGINFO",
+		"recommend": ["correctionInfo"]
+	},
+	{
+		"reserved": "DEBUGOFF",
+		"recommend": ["correctionOff"]
+	},
+	{
+		"reserved": "DEBUGON",
+		"recommend": ["correctionOn"]
+	},
+	{
+		"reserved": "DECLARE",
+		"recommend": ["advocate"]
+	},
+	{
+		"reserved": "decltype",
+		"recommend": ["typeCheck"]
+	},
+	{
+		"reserved": "DECOMPOSITION",
+		"recommend": ["disintegration"]
+	},
+	{
+		"reserved": "DEFAULT",
+		"recommend": ["initValue"]
+	},
+	{
+		"reserved": "DEFAULTS",
+		"recommend": ["initValues"]
+	},
+	{
+		"reserved": "DEFINE",
+		"recommend": ["characterize"]
+	},
+	{
+		"reserved": "DEFINED",
+		"recommend": ["characterized"]
+	},
+	{
+		"reserved": "DEFINER",
+		"recommend": ["characterizer"]
+	},
+	{
+		"reserved": "DEGREE",
+		"recommend": ["deep"]
+	},
+	{
+		"reserved": "del",
+		"recommend": ["blackout"]
+	},
+	{
+		"reserved": "DELAY",
+		"recommend": ["late"]
+	},
+	{
+		"reserved": "DELAYED",
+		"recommend": ["late"]
+	},
+	{
+		"reserved": "delegate",
+		"recommend": ["strap"]
+	},
+	{
+		"reserved": "DELETE",
+		"recommend": ["blackout"]
+	},
+	{
+		"reserved": "DELIMITED",
+		"recommend": ["delimitate"]
+	},
+	{
+		"reserved": "DELIMITER",
+		"recommend": ["delimitater"]
+	},
+	{
+		"reserved": "DELIMITERS",
+		"recommend": ["delimitaters"]
+	},
+	{
+		"reserved": "DENSERANK",
+		"recommend": ["rowRank"]
+	},
+	{
+		"reserved": "DENY",
+		"recommend": ["disagree"]
+	},
+	{
+		"reserved": "DEPENDENCY",
+		"recommend": ["reliance"]
+	},
+	{
+		"reserved": "DEPENDENT",
+		"recommend": ["relient"]
+	},
+	{
+		"reserved": "DEPENDS",
+		"recommend": ["rely"]
+	},
+	{
+		"reserved": "DEPTH",
+		"recommend": ["deep"]
+	},
+	{
+		"reserved": "DEREF",
+		"recommend": ["objRef"]
+	},
+	{
+		"reserved": "DERIVED",
+		"recommend": ["originated"]
+	},
+	{
+		"reserved": "DESC",
+		"recommend": ["fall"]
+	},
+	{
+		"reserved": "descending",
+		"recommend": ["falling"]
+	},
+	{
+		"reserved": "DESCRIBE",
+		"recommend": ["report"]
+	},
+	{
+		"reserved": "DESCRIPTION",
+		"recommend": ["report"]
+	},
+	{
+		"reserved": "DESCRIPTOR",
+		"recommend": ["reporter"]
+	},
+	{
+		"reserved": "DESTROY",
+		"recommend": ["ruin"]
+	},
+	{
+		"reserved": "DESTRUCTOR",
+		"recommend": ["ruiner"]
+	},
+	{
+		"reserved": "DETACH",
+		"recommend": ["devide"]
+	},
+	{
+		"reserved": "DETAIL",
+		"recommend": ["feature"]
+	},
+	{
+		"reserved": "DETAILED",
+		"recommend": ["feature"]
+	},
+	{
+		"reserved": "DETAILS",
+		"recommend": ["features"]
+	},
+	{
+		"reserved": "DETERMINED",
+		"recommend": ["decided"]
+	},
+	{
+		"reserved": "DETERMINISTIC",
+		"recommend": ["decidedly"]
+	},
+	{
+		"reserved": "DEVICE",
+		"recommend": ["gadget"]
+	},
+	{
+		"reserved": "DIAGNOSTICS",
+		"recommend": ["giagnosis"]
+	},
+	{
+		"reserved": "DICTIONARY",
+		"recommend": ["wordbook"]
+	},
+	{
+		"reserved": "DIMENSIONS",
+		"recommend": ["aspect"]
+	},
+	{
+		"reserved": "DIRECTORIES",
+		"recommend": ["dirs"]
+	},
+	{
+		"reserved": "DIRECTORY",
+		"recommend": ["dir"]
+	},
+	{
+		"reserved": "DIRTY",
+		"recommend": ["muddy"]
+	},
+	{
+		"reserved": "DISABLE",
+		"recommend": ["damage"]
+	},
+	{
+		"reserved": "DISABLED",
+		"recommend": ["damaged"]
+	},
+	{
+		"reserved": "DISALLOW",
+		"recommend": ["disagree"]
+	},
+	{
+		"reserved": "DISCARD",
+		"recommend": ["wipeOut"]
+	},
+	{
+		"reserved": "DISCONNECT",
+		"recommend": ["unrelate"]
+	},
+	{
+		"reserved": "DISMOUNT",
+		"recommend": ["unmount"]
+	},
+	{
+		"reserved": "DISPATCH",
+		"recommend": ["send"]
+	},
+	{
+		"reserved": "DISPOSE",
+		"recommend": ["arrange"]
+	},
+	{
+		"reserved": "DISTINCT",
+		"recommend": ["discrete"]
+	},
+	{
+		"reserved": "DISTINCTROW",
+		"recommend": ["discreteRow"]
+	},
+	{
+		"reserved": "DISTRIBUTE",
+		"recommend": ["handOut"]
+	},
+	{
+		"reserved": "DISTRIBUTED",
+		"recommend": ["handOutted"]
+	},
+	{
+		"reserved": "DISTRIBUTION",
+		"recommend": ["handOut"]
+	},
+	{
+		"reserved": "DLCONN",
+		"recommend": ["halt"]
+	},
+	{
+		"reserved": "dllexport",
+		"recommend": ["dllUpload"]
+	},
+	{
+		"reserved": "dllimport",
+		"recommend": ["dllDownload"]
+	},
+	{
+		"reserved": "DLLOCK",
+		"recommend": ["dlclose"]
+	},
+	{
+		"reserved": "DLNEWCOPY",
+		"recommend": ["dlNewCp"]
+	},
+	{
+		"reserved": "DLPREVIOUSCOPY",
+		"recommend": ["dlPrevCp"]
+	},
+	{
+		"reserved": "DLURLCOMPLETE",
+		"recommend": ["completeUrl"]
+	},
+	{
+		"reserved": "DLURLCOMPLETEONLY",
+		"recommend": ["completeUrlOnly"]
+	},
+	{
+		"reserved": "DLURLCOMPLETEWRITE",
+		"recommend": ["completeUrlWrite"]
+	},
+	{
+		"reserved": "DLURLPATH",
+		"recommend": ["urlPath"]
+	},
+	{
+		"reserved": "DLURLPATHONLY",
+		"recommend": ["urlPathOnly"]
+	},
+	{
+		"reserved": "DLURLPATHWRITE",
+		"recommend": ["urlPathWrite"]
+	},
+	{
+		"reserved": "DLURLSCHEME",
+		"recommend": ["urlScheme"]
+	},
+	{
+		"reserved": "DLURLSERVER",
+		"recommend": ["fileServer"]
+	},
+	{
+		"reserved": "DLVALUE",
+		"recommend": ["dataLinkValue"]
+	},
+	{
+		"reserved": "DOCUMENT",
+		"recommend": ["doc"]
+	},
+	{
+		"reserved": "DOMAIN",
+		"recommend": ["realm"]
+	},
+	{
+		"reserved": "DROP",
+		"recommend": ["blackout"]
+	},
+	{
+		"reserved": "DROPIN",
+		"recommend": ["blackout"]
+	},
+	{
+		"reserved": "DROPPED",
+		"recommend": ["blackoutted"]
+	},
+	{
+		"reserved": "DSSIZE",
+		"recommend": ["maxTableSize"]
+	},
+	{
+		"reserved": "DUAL",
+		"recommend": ["twin"]
+	},
+	{
+		"reserved": "DUMP",
+		"recommend": ["abandon"]
+	},
+	{
+		"reserved": "DUMPFILE",
+		"recommend": ["abandonFile"]
+	},
+	{
+		"reserved": "DUPLICATE",
+		"recommend": ["cp"]
+	},
+	{
+		"reserved": "DURATION",
+		"recommend": ["term"]
+	},
+	{
+		"reserved": "DYNAMIC",
+		"recommend": ["varios"]
+	},
+	{
+		"reserved": "EACH",
+		"recommend": ["individual"]
+	},
+	{
+		"reserved": "EDITPROC",
+		"recommend": ["editProcedure"]
+	},
+	{
+		"reserved": "elif",
+		"recommend": ["elsIf"]
+	},
+	{
+		"reserved": "ELSE",
+		"recommend": ["els"]
+	},
+	{
+		"reserved": "elsee",
+		"recommend": ["els"]
+	},
+	{
+		"reserved": "ELSEIF",
+		"recommend": ["els"]
+	},
+	{
+		"reserved": "EMPTY",
+		"recommend": ["nothing"]
+	},
+	{
+		"reserved": "ENABLE",
+		"recommend": ["empower"]
+	},
+	{
+		"reserved": "ENABLED",
+		"recommend": ["empowered"]
+	},
+	{
+		"reserved": "ENCLOSED",
+		"recommend": ["packed"]
+	},
+	{
+		"reserved": "ENCODING",
+		"recommend": ["packing"]
+	},
+	{
+		"reserved": "ENCRYPTED",
+		"recommend": ["encoded"]
+	},
+	{
+		"reserved": "ENCRYPTION",
+		"recommend": ["encode"]
+	},
+	{
+		"reserved": "END",
+		"recommend": ["fin"]
+	},
+	{
+		"reserved": "END-EXEC",
+		"recommend": ["fin-exec"]
+	},
+	{
+		"reserved": "ENDING",
+		"recommend": ["finishing"]
+	},
+	{
+		"reserved": "ENDS",
+		"recommend": ["endings"]
+	},
+	{
+		"reserved": "ENFORCE",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "ENFORCED",
+		"recommend": ["carriedOut"]
+	},
+	{
+		"reserved": "ENFORCEMENT",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "ENTRY",
+		"recommend": ["entrance"]
+	},
+	{
+		"reserved": "ENUM",
+		"recommend": ["varNum"]
+	},
+	{
+		"reserved": "ENVIRONMENT",
+		"recommend": ["circumstance"]
+	},
+	{
+		"reserved": "EQUAL",
+		"recommend": ["identical"]
+	},
+	{
+		"reserved": "EQUALS",
+		"recommend": ["identicals"]
+	},
+	{
+		"reserved": "ERASE",
+		"recommend": ["wipeOut"]
+	},
+	{
+		"reserved": "ERRLVL",
+		"recommend": ["recoverableErr"]
+	},
+	{
+		"reserved": "ERROR",
+		"recommend": ["err"]
+	},
+	{
+		"reserved": "ERRORS",
+		"recommend": ["errs"]
+	},
+	{
+		"reserved": "ESCALATION",
+		"recommend": ["advance"]
+	},
+	{
+		"reserved": "ESCAPE",
+		"recommend": ["flee"]
+	},
+	{
+		"reserved": "ESCAPED",
+		"recommend": ["fleed"]
+	},
+	{
+		"reserved": "ESTIMATE",
+		"recommend": ["guess"]
+	},
+	{
+		"reserved": "ESTIMATEDCOST",
+		"recommend": ["guessingcost"]
+	},
+	{
+		"reserved": "ESTIMATEDSQLCOST",
+		"recommend": ["guessingSQLCost"]
+	},
+	{
+		"reserved": "EVAL",
+		"recommend": ["assess"]
+	},
+	{
+		"reserved": "EVALUATE",
+		"recommend": ["assess"]
+	},
+	{
+		"reserved": "EVENT",
+		"recommend": ["incident"]
+	},
+	{
+		"reserved": "EVENTS",
+		"recommend": ["incidents"]
+	},
+	{
+		"reserved": "EVERY",
+		"recommend": ["individual"]
+	},
+	{
+		"reserved": "EXACT",
+		"recommend": ["accurate"]
+	},
+	{
+		"reserved": "EXCEEDED",
+		"recommend": ["surpassed"]
+	},
+	{
+		"reserved": "EXCEPT",
+		"recommend": ["apartFrom"]
+	},
+	{
+		"reserved": "EXCEPTION",
+		"recommend": ["deviation"]
+	},
+	{
+		"reserved": "EXCEPTIONS",
+		"recommend": ["deviations"]
+	},
+	{
+		"reserved": "EXCHANGE",
+		"recommend": ["trade"]
+	},
+	{
+		"reserved": "EXCLUDE",
+		"recommend": ["forbid"]
+	},
+	{
+		"reserved": "EXCLUDES",
+		"recommend": ["forbids"]
+	},
+	{
+		"reserved": "EXCLUDING",
+		"recommend": ["forbidding"]
+	},
+	{
+		"reserved": "EXCLUSIVE",
+		"recommend": ["forbidden"]
+	},
+	{
+		"reserved": "EXEC",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "EXECNODE",
+		"recommend": ["carryOutNode"]
+	},
+	{
+		"reserved": "EXECUTE",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "EXECUTETIME",
+		"recommend": ["carryOutTime"]
+	},
+	{
+		"reserved": "EXECUTION",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "EXEMPTION",
+		"recommend": ["exclusion"]
+	},
+	{
+		"reserved": "EXISTING",
+		"recommend": ["lasting"]
+	},
+	{
+		"reserved": "EXISTS",
+		"recommend": ["lasts"]
+	},
+	{
+		"reserved": "EXIT",
+		"recommend": ["wayOut"]
+	},
+	{
+		"reserved": "EXP",
+		"recommend": ["expir"]
+	},
+	{
+		"reserved": "EXPAND",
+		"recommend": ["grow"]
+	},
+	{
+		"reserved": "EXPANSION",
+		"recommend": ["growth"]
+	},
+	{
+		"reserved": "EXPIRE",
+		"recommend": ["expir"]
+	},
+	{
+		"reserved": "EXPLAIN",
+		"recommend": ["report"]
+	},
+	{
+		"reserved": "explicit",
+		"recommend": ["obvious"]
+	},
+	{
+		"reserved": "EXPLODE",
+		"recommend": ["erupt"]
+	},
+	{
+		"reserved": "EXPORT",
+		"recommend": ["upload"]
+	},
+	{
+		"reserved": "EXPRESSION",
+		"recommend": ["declaration"]
+	},
+	{
+		"reserved": "EXTEND",
+		"recommend": ["grow"]
+	},
+	{
+		"reserved": "EXTENDED",
+		"recommend": ["grown"]
+	},
+	{
+		"reserved": "extends",
+		"recommend": ["grows"]
+	},
+	{
+		"reserved": "EXTENSION",
+		"recommend": ["growth"]
+	},
+	{
+		"reserved": "EXTENT",
+		"recommend": ["growth"]
+	},
+	{
+		"reserved": "EXTENTS",
+		"recommend": ["growths"]
+	},
+	{
+		"reserved": "EXTENTSIZE",
+		"recommend": ["growthSize"]
+	},
+	{
+		"reserved": "extern",
+		"recommend": ["outside"]
+	},
+	{
+		"reserved": "EXTERNAL",
+		"recommend": ["outside"]
+	},
+	{
+		"reserved": "EXTERNALLY",
+		"recommend": ["outside"]
+	},
+	{
+		"reserved": "EXTRACT",
+		"recommend": ["takeOut"]
+	},
+	{
+		"reserved": "FAIL",
+		"recommend": ["fall"]
+	},
+	{
+		"reserved": "FAILURE",
+		"recommend": ["defeat"]
+	},
+	{
+		"reserved": "FAST",
+		"recommend": ["speedu"]
+	},
+	{
+		"reserved": "FAULTS",
+		"recommend": ["wrong"]
+	},
+	{
+		"reserved": "FEDERATED",
+		"recommend": ["united"]
+	},
+	{
+		"reserved": "FENCED",
+		"recommend": ["barriored"]
+	},
+	{
+		"reserved": "FETCH",
+		"recommend": ["bring"]
+	},
+	{
+		"reserved": "FIELDPROC",
+		"recommend": ["fieldProcedure"]
+	},
+	{
+		"reserved": "FIELDS",
+		"recommend": ["earth"]
+	},
+	{
+		"reserved": "FILTER",
+		"recommend": ["purifier"]
+	},
+	{
+		"reserved": "FILTERING",
+		"recommend": ["purifying"]
+	},
+	{
+		"reserved": "finally",
+		"recommend": ["lastly"]
+	},
+	{
+		"reserved": "FINISH",
+		"recommend": ["done"]
+	},
+	{
+		"reserved": "FIRST",
+		"recommend": ["early"]
+	},
+	{
+		"reserved": "FIXED",
+		"recommend": ["solid"]
+	},
+	{
+		"reserved": "FLAG",
+		"recommend": ["banner"]
+	},
+	{
+		"reserved": "FLAGGER",
+		"recommend": ["banner"]
+	},
+	{
+		"reserved": "FLATTERN",
+		"recommend": ["flatten"]
+	},
+	{
+		"reserved": "FLOOR",
+		"recommend": ["flatten"]
+	},
+	{
+		"reserved": "FLUSH",
+		"recommend": ["rinse"]
+	},
+	{
+		"reserved": "FOLLOWING",
+		"recommend": ["attending"]
+	},
+	{
+		"reserved": "FOLLOWS",
+		"recommend": ["attends"]
+	},
+	{
+		"reserved": "FORCE",
+		"recommend": ["compel"]
+	},
+	{
+		"reserved": "foreach",
+		"recommend": ["oneByOne"]
+	},
+	{
+		"reserved": "FOREIGN",
+		"recommend": ["outside"]
+	},
+	{
+		"reserved": "FORM",
+		"recommend": ["composition"]
+	},
+	{
+		"reserved": "FORMAT",
+		"recommend": ["composition"]
+	},
+	{
+		"reserved": "FORMATTED",
+		"recommend": ["composed"]
+	},
+	{
+		"reserved": "FORWARD",
+		"recommend": ["toward"]
+	},
+	{
+		"reserved": "FOUND",
+		"recommend": ["discovered"]
+	},
+	{
+		"reserved": "FREE",
+		"recommend": ["blank"]
+	},
+	{
+		"reserved": "FREELIST",
+		"recommend": ["blankList"]
+	},
+	{
+		"reserved": "FREELISTS",
+		"recommend": ["blankLists"]
+	},
+	{
+		"reserved": "FREEPAGE",
+		"recommend": ["blankPage"]
+	}
 ]
