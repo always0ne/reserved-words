@@ -81,15 +81,15 @@
 	},
 	{
 		"reserved": "ACTIVITYSTMT",
-		"recommend": ["eventMoniterTable", ""]
+		"recommend": ["eventMoniterTable"]
 	},
 	{
 		"reserved": "ACTIVITYTOTALTIME",
-		"recommend": ["activityWholeTime", ""]
+		"recommend": ["activityWholeTime"]
 	},
 	{
 		"reserved": "ACTIVITYVALS",
-		"recommend": ["eventMoniterTable", ""]
+		"recommend": ["eventMoniterTable"]
 	},
 	{
 		"reserved": "ADA",
@@ -101,7 +101,7 @@
 	},
 	{
 		"reserved": "ADMINISTRATION",
-		"recommend": ["government", ""]
+		"recommend": ["government"]
 	},
 	{
 		"reserved": "ADVISE",
@@ -386,10 +386,6 @@
 	{
 		"reserved": "BACKUP",
 		"recommend": ["saving"]
-	},
-	{
-		"reserved": "BACKWARD",
-		"recommend": [""]
 	},
 	{
 		"reserved": "BASE",
