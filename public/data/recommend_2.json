@@ -1,0 +1,3522 @@
+[
+  {
+    "reserved": "FREETEXTTABLE",
+    "recommend": [
+      "cleartexttable"
+    ]
+  },
+  {
+    "reserved": "FREEZE",
+    "recommend": [
+      "refregerate",
+      "holdup"
+    ]
+  },
+  {
+    "reserved": "friend",
+    "recommend": [
+      "ally",
+      "partner"
+    ]
+  },
+  {
+    "reserved": "FROM",
+    "recommend": [
+      "against"
+    ]
+  },
+  {
+    "reserved": "FS",
+    "recommend": [
+      "FileSys"
+    ]
+  },
+  {
+    "reserved": "FULFILL",
+    "recommend": [
+      "accomplish",
+      "achieve"
+    ]
+  },
+  {
+    "reserved": "FULL",
+    "recommend": [
+      "entire",
+      "whole"
+    ]
+  },
+  {
+    "reserved": "FULLTEXT",
+    "recommend": [
+      "entiretext",
+      "wholetext"
+    ]
+  },
+  {
+    "reserved": "FULLTEXTTABLE",
+    "recommend": [
+      "entiretexttable",
+      "wholetexttable"
+    ]
+  },
+  {
+    "reserved": "FUNCTION",
+    "recommend": [
+      "affair"
+    ]
+  },
+  {
+    "reserved": "FUNCTIONS",
+    "recommend": [
+      "actions",
+      "affairs"
+    ]
+  },
+  {
+    "reserved": "FUSION",
+    "recommend": [
+      "blend",
+      "blending"
+    ]
+  },
+  {
+    "reserved": "GBPCACHE",
+    "recommend": [
+      "cache"
+    ]
+  },
+  {
+    "reserved": "GEN",
+    "recommend": [
+      "produce"
+    ]
+  },
+  {
+    "reserved": "GENERAL",
+    "recommend": [
+      "common"
+    ]
+  },
+  {
+    "reserved": "GENERATE",
+    "recommend": [
+      "produce"
+    ]
+  },
+  {
+    "reserved": "GENERATED",
+    "recommend": [
+      "produced"
+    ]
+  },
+  {
+    "reserved": "GENERIC",
+    "recommend": [
+      "universal"
+    ]
+  },
+  {
+    "reserved": "GEOMETRY",
+    "recommend": [
+      "geomath"
+    ]
+  },
+  {
+    "reserved": "GEOMETRYCOLLECTION",
+    "recommend": [
+      "geomathcollection"
+    ]
+  },
+  {
+    "reserved": "GET",
+    "recommend": [
+      "bring",
+      "take"
+    ]
+  },
+  {
+    "reserved": "GLOB",
+    "recommend": [
+      "international",
+      "comprehensive"
+    ]
+  },
+  {
+    "reserved": "GLOBAL",
+    "recommend": [
+      "international",
+      "comprehensive"
+    ]
+  },
+  {
+    "reserved": "GLOBALLY",
+    "recommend": [
+      "universally"
+    ]
+  },
+  {
+    "reserved": "GO",
+    "recommend": [
+      "act"
+    ]
+  },
+  {
+    "reserved": "GOTO",
+    "recommend": [
+      "approach"
+    ]
+  },
+  {
+    "reserved": "GRANT",
+    "recommend": [
+      "permit"
+    ]
+  },
+  {
+    "reserved": "GRANTED",
+    "recommend": [
+      "permitted"
+    ]
+  },
+  {
+    "reserved": "GRANTS",
+    "recommend": [
+      "permits"
+    ]
+  },
+  {
+    "reserved": "GRAPHIC",
+    "recommend": [
+      "diagram"
+    ]
+  },
+  {
+    "reserved": "GREATER",
+    "recommend": [
+      "better"
+    ]
+  },
+  {
+    "reserved": "GREATEST",
+    "recommend": [
+      "best"
+    ]
+  },
+  {
+    "reserved": "GROUP",
+    "recommend": [
+      "party",
+      "crowd"
+    ]
+  },
+  {
+    "reserved": "GROUPING",
+    "recommend": [
+      "arrangement"
+    ]
+  },
+  {
+    "reserved": "GROUPS",
+    "recommend": [
+      "crowds"
+    ]
+  },
+  {
+    "reserved": "HANDLER",
+    "recommend": [
+      "controller",
+      "manager"
+    ]
+  },
+  {
+    "reserved": "HARD",
+    "recommend": [
+      "complicated",
+      "arduous"
+    ]
+  },
+  {
+    "reserved": "HASHKEYS",
+    "recommend": [
+      "hashkey"
+    ]
+  },
+  {
+    "reserved": "HAVE",
+    "recommend": [
+      "acquire",
+      "obtain"
+    ]
+  },
+  {
+    "reserved": "HAVING",
+    "recommend": [
+      "obtaining"
+    ]
+  },
+  {
+    "reserved": "HEAP",
+    "recommend": [
+      "pile"
+    ]
+  },
+  {
+    "reserved": "HELP",
+    "recommend": [
+      "aid",
+      "advice"
+    ]
+  },
+  {
+    "reserved": "HEX",
+    "recommend": [
+      "hexadecimal"
+    ]
+  },
+  {
+    "reserved": "HIDDEN",
+    "recommend": [
+      "concealed"
+    ]
+  },
+  {
+    "reserved": "HIERARCHY",
+    "recommend": [
+      "ranking"
+    ]
+  },
+  {
+    "reserved": "HIGH",
+    "recommend": [
+      "elevated",
+      "altitude"
+    ]
+  },
+  {
+    "reserved": "HINT",
+    "recommend": [
+      "indication"
+    ]
+  },
+  {
+    "reserved": "HISTOGRAM",
+    "recommend": [
+      "piechart"
+    ]
+  },
+  {
+    "reserved": "HISTOGRAMBIN",
+    "recommend": [
+      "histogramcell"
+    ]
+  },
+  {
+    "reserved": "HISTORY",
+    "recommend": [
+      "story"
+    ]
+  },
+  {
+    "reserved": "HOLD",
+    "recommend": [
+      "occupy"
+    ]
+  },
+  {
+    "reserved": "HOLDLOCK",
+    "recommend": [
+      "lockdown"
+    ]
+  },
+  {
+    "reserved": "HOST",
+    "recommend": [
+      "manager"
+    ]
+  },
+  {
+    "reserved": "HOSTS",
+    "recommend": [
+      "managers"
+    ]
+  },
+  {
+    "reserved": "ID",
+    "recommend": [
+      "identification"
+    ]
+  },
+  {
+    "reserved": "IDENTIFIED",
+    "recommend": [
+      "recognized"
+    ]
+  },
+  {
+    "reserved": "IDENTITY",
+    "recommend": [
+      "recognition"
+    ]
+  },
+  {
+    "reserved": "IDENTITYCOL",
+    "recommend": [
+      "individualityCol"
+    ]
+  },
+  {
+    "reserved": "IDGENERATORS",
+    "recommend": [
+      "idmaker"
+    ]
+  },
+  {
+    "reserved": "IF",
+    "recommend": [
+      "whether"
+    ]
+  },
+  {
+    "reserved": "IGNORE",
+    "recommend": [
+      "disregard"
+    ]
+  },
+  {
+    "reserved": "IMMEDIATE",
+    "recommend": [
+      "instant"
+    ]
+  },
+  {
+    "reserved": "IMMEDIATELY",
+    "recommend": [
+      "instantly"
+    ]
+  },
+  {
+    "reserved": "IMMUTABLE",
+    "recommend": [
+      "unchangeable"
+    ]
+  },
+  {
+    "reserved": "IMPLEMENTATION",
+    "recommend": [
+      "enactment"
+    ]
+  },
+  {
+    "reserved": "implements",
+    "recommend": [
+      "effects",
+      "stages"
+    ]
+  },
+  {
+    "reserved": "IMPLICIT",
+    "recommend": [
+      "implied"
+    ]
+  },
+  {
+    "reserved": "IMPLICITLY",
+    "recommend": [
+      "imply"
+    ]
+  },
+  {
+    "reserved": "IMPORT",
+    "recommend": [
+      "bringin"
+    ]
+  },
+  {
+    "reserved": "IN",
+    "recommend": [
+      "inside"
+    ]
+  },
+  {
+    "reserved": "INACTIVE",
+    "recommend": [
+      "lazy"
+    ]
+  },
+  {
+    "reserved": "INCLUDE",
+    "recommend": [
+      "involve"
+    ]
+  },
+  {
+    "reserved": "INCLUDES",
+    "recommend": [
+      "involves"
+    ]
+  },
+  {
+    "reserved": "INCLUDING",
+    "recommend": [
+      "involving"
+    ]
+  },
+  {
+    "reserved": "INCLUSIVE",
+    "recommend": [
+      "comprehensive"
+    ]
+  },
+  {
+    "reserved": "INCREASESIZE",
+    "recommend": [
+      "raisesize"
+    ]
+  },
+  {
+    "reserved": "INCREMENT",
+    "recommend": [
+      "growth"
+    ]
+  },
+  {
+    "reserved": "INCREMENTAL",
+    "recommend": [
+      "grow"
+    ]
+  },
+  {
+    "reserved": "INDENT",
+    "recommend": [
+      "moveright"
+    ]
+  },
+  {
+    "reserved": "INDEX",
+    "recommend": [
+      "listing"
+    ]
+  },
+  {
+    "reserved": "INDEXED",
+    "recommend": [
+      "guided"
+    ]
+  },
+  {
+    "reserved": "INDEXES",
+    "recommend": [
+      "guides"
+    ]
+  },
+  {
+    "reserved": "INDICATOR",
+    "recommend": [
+      "symbol"
+    ]
+  },
+  {
+    "reserved": "INFINITE",
+    "recommend": [
+      "endless"
+    ]
+  },
+  {
+    "reserved": "INFINITY",
+    "recommend": [
+      "endlessness"
+    ]
+  },
+  {
+    "reserved": "INFO",
+    "recommend": [
+      "information"
+    ]
+  },
+  {
+    "reserved": "INHERIT",
+    "recommend": [
+      "comeinto"
+    ]
+  },
+  {
+    "reserved": "INHERITS",
+    "recommend": [
+      "beleft"
+    ]
+  },
+  {
+    "reserved": "INITIAL",
+    "recommend": [
+      "opening"
+    ]
+  },
+  {
+    "reserved": "INITIALLY",
+    "recommend": [
+      "atfirst"
+    ]
+  },
+  {
+    "reserved": "INITIALSIZE",
+    "recommend": [
+      "openingsize"
+    ]
+  },
+  {
+    "reserved": "INLINE",
+    "recommend": [
+      "instant"
+    ]
+  },
+  {
+    "reserved": "INLINEFUNCTION",
+    "recommend": [
+      "instantfunction"
+    ]
+  },
+  {
+    "reserved": "INLINETRIGGER",
+    "recommend": [
+      "instanttrigger"
+    ]
+  },
+  {
+    "reserved": "INNER",
+    "recommend": [
+      "inside"
+    ]
+  },
+  {
+    "reserved": "INPUT",
+    "recommend": [
+      "resources"
+    ]
+  },
+  {
+    "reserved": "INSENSITIVE",
+    "recommend": [
+      "heartless"
+    ]
+  },
+  {
+    "reserved": "INSERT",
+    "recommend": [
+      "place"
+    ]
+  },
+  {
+    "reserved": "INSTALL",
+    "recommend": [
+      "establish"
+    ]
+  },
+  {
+    "reserved": "INSTANCE",
+    "recommend": [
+      "example"
+    ]
+  },
+  {
+    "reserved": "instanceof",
+    "recommend": [
+      "insteadof"
+    ]
+  },
+  {
+    "reserved": "INSTANCES",
+    "recommend": [
+      "examples"
+    ]
+  },
+  {
+    "reserved": "INSTEAD",
+    "recommend": [
+      "alternately"
+    ]
+  },
+  {
+    "reserved": "INT1",
+    "recommend": [
+      "interrupt1"
+    ]
+  },
+  {
+    "reserved": "INT2",
+    "recommend": [
+      "interrupt2"
+    ]
+  },
+  {
+    "reserved": "INT3",
+    "recommend": [
+      "interrupt3"
+    ]
+  },
+  {
+    "reserved": "INTACT",
+    "recommend": [
+      "undamaged"
+    ]
+  },
+  {
+    "reserved": "Integer",
+    "recommend": [
+      "wholenumber"
+    ]
+  },
+  {
+    "reserved": "INTEGRITY",
+    "recommend": [
+      "honesty"
+    ]
+  },
+  {
+    "reserved": "INTERARRIVALTIME",
+    "recommend": [
+      "IAT"
+    ]
+  },
+  {
+    "reserved": "INTERFACE",
+    "recommend": [
+      "boundary"
+    ]
+  },
+  {
+    "reserved": "INTERMEDIATE",
+    "recommend": [
+      "middle"
+    ]
+  },
+  {
+    "reserved": "internal",
+    "recommend": [
+      "inner"
+    ]
+  },
+  {
+    "reserved": "INTERSECT",
+    "recommend": [
+      "converge"
+    ]
+  },
+  {
+    "reserved": "INTERSECTION",
+    "recommend": [
+      "crossing"
+    ]
+  },
+  {
+    "reserved": "INTERSECTS",
+    "recommend": [
+      "converges"
+    ]
+  },
+  {
+    "reserved": "INTERVAL",
+    "recommend": [
+      "spell"
+    ]
+  },
+  {
+    "reserved": "INTO",
+    "recommend": [
+      "inside"
+    ]
+  },
+  {
+    "reserved": "INVALID",
+    "recommend": [
+      "disabled"
+    ]
+  },
+  {
+    "reserved": "INVALIDATE",
+    "recommend": [
+      "nullify"
+    ]
+  },
+  {
+    "reserved": "INVALIDATION",
+    "recommend": [
+      "invalidator"
+    ]
+  },
+  {
+    "reserved": "INVISIBLE",
+    "recommend": [
+      "unseen"
+    ]
+  },
+  {
+    "reserved": "INVOKER",
+    "recommend": [
+      "summoner"
+    ]
+  },
+  {
+    "reserved": "ISNULL",
+    "recommend": [
+      "isinvalid"
+    ]
+  },
+  {
+    "reserved": "ISOLATION",
+    "recommend": [
+      "seperation"
+    ]
+  },
+  {
+    "reserved": "ISSUER",
+    "recommend": [
+      "publisher"
+    ]
+  },
+  {
+    "reserved": "ITEM",
+    "recommend": [
+      "thing"
+    ]
+  },
+  {
+    "reserved": "ITEMS",
+    "recommend": [
+      "things"
+    ]
+  },
+  {
+    "reserved": "ITERATE",
+    "recommend": [
+      "recapitulate"
+    ]
+  },
+  {
+    "reserved": "JAR",
+    "recommend": [
+      "bottle",
+      "pot"
+    ]
+  },
+  {
+    "reserved": "JOIN",
+    "recommend": [
+      "enter"
+    ]
+  },
+  {
+    "reserved": "KEEP",
+    "recommend": [
+      "maintain"
+    ]
+  },
+  {
+    "reserved": "KEY",
+    "recommend": [
+      "answer"
+    ]
+  },
+  {
+    "reserved": "KEYS",
+    "recommend": [
+      "answers"
+    ]
+  },
+  {
+    "reserved": "KILL",
+    "recommend": [
+      "turnoff"
+    ]
+  },
+  {
+    "reserved": "LABEL",
+    "recommend": [
+      "tag"
+    ]
+  },
+  {
+    "reserved": "LAG",
+    "recommend": [
+      "linger"
+    ]
+  },
+  {
+    "reserved": "LANCOMPILER",
+    "recommend": [
+      "languagecomp"
+    ]
+  },
+  {
+    "reserved": "LANGUAGE",
+    "recommend": [
+      "tongue"
+    ]
+  },
+  {
+    "reserved": "LARGE",
+    "recommend": [
+      "broad"
+    ]
+  },
+  {
+    "reserved": "LAST",
+    "recommend": [
+      "rearmost"
+    ]
+  },
+  {
+    "reserved": "LATERAL",
+    "recommend": [
+      "side"
+    ]
+  },
+  {
+    "reserved": "LAYER",
+    "recommend": [
+      "tier"
+    ]
+  },
+  {
+    "reserved": "LEAD",
+    "recommend": [
+      "steer"
+    ]
+  },
+  {
+    "reserved": "LEADING",
+    "recommend": [
+      "principal"
+    ]
+  },
+  {
+    "reserved": "LEAKPROOF",
+    "recommend": [
+      "leakless"
+    ]
+  },
+  {
+    "reserved": "LEAST",
+    "recommend": [
+      "smallest"
+    ]
+  },
+  {
+    "reserved": "LEAVE",
+    "recommend": [
+      "flee"
+    ]
+  },
+  {
+    "reserved": "LEAVES",
+    "recommend": [
+      "flees"
+    ]
+  },
+  {
+    "reserved": "LEFT",
+    "recommend": [
+      "south"
+    ]
+  },
+  {
+    "reserved": "LENGTH",
+    "recommend": [
+      "len"
+    ]
+  },
+  {
+    "reserved": "LESS",
+    "recommend": [
+      "fewer"
+    ]
+  },
+  {
+    "reserved": "let",
+    "recommend": [
+      "permit"
+    ]
+  },
+  {
+    "reserved": "LEVEL",
+    "recommend": [
+      "standart"
+    ]
+  },
+  {
+    "reserved": "LI",
+    "recommend": [
+      "catalogue"
+    ]
+  },
+  {
+    "reserved": "LIBRARY",
+    "recommend": [
+      "bookbank"
+    ]
+  },
+  {
+    "reserved": "LIFETIME",
+    "recommend": [
+      "existence"
+    ]
+  },
+  {
+    "reserved": "LIKE",
+    "recommend": [
+      "alike"
+    ]
+  },
+  {
+    "reserved": "LIMIT",
+    "recommend": [
+      "restrict"
+    ]
+  },
+  {
+    "reserved": "LIMITED",
+    "recommend": [
+      "restricted"
+    ]
+  },
+  {
+    "reserved": "LINEAR",
+    "recommend": [
+      "course"
+    ]
+  },
+  {
+    "reserved": "LINENO",
+    "recommend": [
+      "linenumber"
+    ]
+  },
+  {
+    "reserved": "LINES",
+    "recommend": [
+      "strokes"
+    ]
+  },
+  {
+    "reserved": "LINK",
+    "recommend": [
+      "relationship"
+    ]
+  },
+  {
+    "reserved": "LINKTYPE",
+    "recommend": [
+      "linksort"
+    ]
+  },
+  {
+    "reserved": "LIST",
+    "recommend": [
+      "listing"
+    ]
+  },
+  {
+    "reserved": "LISTEN",
+    "recommend": [
+      "hear"
+    ]
+  },
+  {
+    "reserved": "LISTS",
+    "recommend": [
+      "listings"
+    ]
+  },
+  {
+    "reserved": "LOAD",
+    "recommend": [
+      "fill"
+    ]
+  },
+  {
+    "reserved": "LOB",
+    "recommend": [
+      "toss"
+    ]
+  },
+  {
+    "reserved": "LOCAL",
+    "recommend": [
+      "regional"
+    ]
+  },
+  {
+    "reserved": "LOCALE",
+    "recommend": [
+      "site"
+    ]
+  },
+  {
+    "reserved": "LOCALTIME",
+    "recommend": [
+      "apparenttime"
+    ]
+  },
+  {
+    "reserved": "LOCALTIMESTAMP",
+    "recommend": [
+      "apparenttimestamp"
+    ]
+  },
+  {
+    "reserved": "LOCATION",
+    "recommend": [
+      "place",
+      "situation"
+    ]
+  },
+  {
+    "reserved": "LOCATOR",
+    "recommend": [
+      "discoverer"
+    ]
+  },
+  {
+    "reserved": "LOCATORS",
+    "recommend": [
+      "discoverers"
+    ]
+  },
+  {
+    "reserved": "LOCK",
+    "recommend": [
+      "fasten"
+    ]
+  },
+  {
+    "reserved": "LOCKED",
+    "recommend": [
+      "fastened"
+    ]
+  },
+  {
+    "reserved": "LOCKING",
+    "recommend": [
+      "fastening"
+    ]
+  },
+  {
+    "reserved": "LOCKMAX",
+    "recommend": [
+      "fastenmax"
+    ]
+  },
+  {
+    "reserved": "LOCKS",
+    "recommend": [
+      "fastens"
+    ]
+  },
+  {
+    "reserved": "LOCKSIZE",
+    "recommend": [
+      "fastensize"
+    ]
+  },
+  {
+    "reserved": "LOG",
+    "recommend": [
+      "journal"
+    ]
+  },
+  {
+    "reserved": "LOGFILE",
+    "recommend": [
+      "journalfile"
+    ]
+  },
+  {
+    "reserved": "LOGGED",
+    "recommend": [
+      "dull"
+    ]
+  },
+  {
+    "reserved": "LOGGING",
+    "recommend": [
+      "chronicle"
+    ]
+  },
+  {
+    "reserved": "LOGICAL",
+    "recommend": [
+      "coherent"
+    ]
+  },
+  {
+    "reserved": "LOGIN",
+    "recommend": [
+      "signin"
+    ]
+  },
+  {
+    "reserved": "LOGS",
+    "recommend": [
+      "records"
+    ]
+  },
+  {
+    "reserved": "LongText",
+    "recommend": [
+      "longcontents"
+    ]
+  },
+  {
+    "reserved": "LONGVAR",
+    "recommend": [
+      "longvariable"
+    ]
+  },
+  {
+    "reserved": "LOOP",
+    "recommend": [
+      "circle"
+    ]
+  },
+  {
+    "reserved": "LOW",
+    "recommend": [
+      "small"
+    ]
+  },
+  {
+    "reserved": "LOWER",
+    "recommend": [
+      "subordinate"
+    ]
+  },
+  {
+    "reserved": "MAIN",
+    "recommend": [
+      "principal"
+    ]
+  },
+  {
+    "reserved": "MAINTAINED",
+    "recommend": [
+      "sustained"
+    ]
+  },
+  {
+    "reserved": "MANAGE",
+    "recommend": [
+      "handle"
+    ]
+  },
+  {
+    "reserved": "MANAGED",
+    "recommend": [
+      "handled"
+    ]
+  },
+  {
+    "reserved": "MANUAL",
+    "recommend": [
+      "handleoperated"
+    ]
+  },
+  {
+    "reserved": "MAP",
+    "recommend": [
+      "chart"
+    ]
+  },
+  {
+    "reserved": "MAPPING",
+    "recommend": [
+      "arrange"
+    ]
+  },
+  {
+    "reserved": "MARK",
+    "recommend": [
+      "symbol"
+    ]
+  },
+  {
+    "reserved": "MASTER",
+    "recommend": [
+      "authority"
+    ]
+  },
+  {
+    "reserved": "MATCH",
+    "recommend": [
+      "pair"
+    ]
+  },
+  {
+    "reserved": "MATCHED",
+    "recommend": [
+      "paired"
+    ]
+  },
+  {
+    "reserved": "MATCHES",
+    "recommend": [
+      "paires"
+    ]
+  },
+  {
+    "reserved": "MATCHING",
+    "recommend": [
+      "pairing"
+    ]
+  },
+  {
+    "reserved": "MATERIALIZED",
+    "recommend": [
+      "occur"
+    ]
+  },
+  {
+    "reserved": "MAX",
+    "recommend": [
+      "maximum"
+    ]
+  },
+  {
+    "reserved": "MAXARCHLOGS",
+    "recommend": [
+      "maximumarchlogs"
+    ]
+  },
+  {
+    "reserved": "MAXDATAFILES",
+    "recommend": [
+      "maximumdatafiles"
+    ]
+  },
+  {
+    "reserved": "MAXFILES",
+    "recommend": [
+      "maximumfiles"
+    ]
+  },
+  {
+    "reserved": "MAXFILESIZE",
+    "recommend": [
+      "maximumfilesize"
+    ]
+  },
+  {
+    "reserved": "MAXINSTANCES",
+    "recommend": [
+      "maximuminstances"
+    ]
+  },
+  {
+    "reserved": "MAXLEN",
+    "recommend": [
+      "maxlength"
+    ]
+  },
+  {
+    "reserved": "MAXSIZE",
+    "recommend": [
+      "maximumsize"
+    ]
+  },
+  {
+    "reserved": "MAXVALUE",
+    "recommend": [
+      "maximumvalue"
+    ]
+  },
+  {
+    "reserved": "MEASURES",
+    "recommend": [
+      "symbols"
+    ]
+  },
+  {
+    "reserved": "MEDIUM",
+    "recommend": [
+      "middle"
+    ]
+  },
+  {
+    "reserved": "MEDIUMBLOB",
+    "recommend": [
+      "middleblob"
+    ]
+  },
+  {
+    "reserved": "MEDIUMINT",
+    "recommend": [
+      "averageint"
+    ]
+  },
+  {
+    "reserved": "MEDIUMTEXT",
+    "recommend": [
+      "middletext"
+    ]
+  },
+  {
+    "reserved": "MEMBER",
+    "recommend": [
+      "supporter"
+    ]
+  },
+  {
+    "reserved": "MEMORY",
+    "recommend": [
+      "mind"
+    ]
+  },
+  {
+    "reserved": "MERGE",
+    "recommend": [
+      "blend"
+    ]
+  },
+  {
+    "reserved": "METHOD",
+    "recommend": [
+      "manner"
+    ]
+  },
+  {
+    "reserved": "METHODS",
+    "recommend": [
+      "manners"
+    ]
+  },
+  {
+    "reserved": "MICROSECOND",
+    "recommend": [
+      "??SEC"
+    ]
+  },
+  {
+    "reserved": "MICROSECONDS",
+    "recommend": [
+      "??SECs"
+    ]
+  },
+  {
+    "reserved": "MIDDLEINT",
+    "recommend": [
+      "averageint"
+    ]
+  },
+  {
+    "reserved": "MIGRATE",
+    "recommend": [
+      "travel"
+    ]
+  },
+  {
+    "reserved": "Millisecond",
+    "recommend": [
+      "MSEC"
+    ]
+  },
+  {
+    "reserved": "MIN",
+    "recommend": [
+      "lowest"
+    ]
+  },
+  {
+    "reserved": "MINEXTENTS",
+    "recommend": [
+      "lowestextents"
+    ]
+  },
+  {
+    "reserved": "MINIMUM",
+    "recommend": [
+      "lowest"
+    ]
+  },
+  {
+    "reserved": "MINUS",
+    "recommend": [
+      "subtract"
+    ]
+  },
+  {
+    "reserved": "Minute",
+    "recommend": [
+      "small"
+    ]
+  },
+  {
+    "reserved": "MINUTES",
+    "recommend": [
+      "proceedings"
+    ]
+  },
+  {
+    "reserved": "MINVALUE",
+    "recommend": [
+      "minimumvalue"
+    ]
+  },
+  {
+    "reserved": "MISSING",
+    "recommend": [
+      "lost"
+    ]
+  },
+  {
+    "reserved": "MIXED",
+    "recommend": [
+      "varied"
+    ]
+  },
+  {
+    "reserved": "MOD",
+    "recommend": [
+      "reshape"
+    ]
+  },
+  {
+    "reserved": "MODE",
+    "recommend": [
+      "manner"
+    ]
+  },
+  {
+    "reserved": "MODIFIES",
+    "recommend": [
+      "reshapes"
+    ]
+  },
+  {
+    "reserved": "MODIFY",
+    "recommend": [
+      "reshape"
+    ]
+  },
+  {
+    "reserved": "MONITOR",
+    "recommend": [
+      "watch"
+    ]
+  },
+  {
+    "reserved": "MORE",
+    "recommend": [
+      "extra"
+    ]
+  },
+  {
+    "reserved": "MOVE",
+    "recommend": [
+      "act"
+    ]
+  },
+  {
+    "reserved": "MOVEMENT",
+    "recommend": [
+      "motion"
+    ]
+  },
+  {
+    "reserved": "MULTI",
+    "recommend": [
+      "multiple"
+    ]
+  },
+  {
+    "reserved": "MULTILINESTRING",
+    "recommend": [
+      "multiplelinestring"
+    ]
+  },
+  {
+    "reserved": "MULTIPOINT",
+    "recommend": [
+      "multiplepoint"
+    ]
+  },
+  {
+    "reserved": "MULTISET",
+    "recommend": [
+      "multipleset"
+    ]
+  },
+  {
+    "reserved": "mutable",
+    "recommend": [
+      "changeable"
+    ]
+  },
+  {
+    "reserved": "NA",
+    "recommend": [
+      "notApplicable"
+    ]
+  },
+  {
+    "reserved": "naked",
+    "recommend": [
+      "exposed"
+    ]
+  },
+  {
+    "reserved": "NAME",
+    "recommend": [
+      "title"
+    ]
+  },
+  {
+    "reserved": "NAMED",
+    "recommend": [
+      "titled"
+    ]
+  },
+  {
+    "reserved": "nameof",
+    "recommend": [
+      "titleof"
+    ]
+  },
+  {
+    "reserved": "NAMES",
+    "recommend": [
+      "titles"
+    ]
+  },
+  {
+    "reserved": "NAMESPACE",
+    "recommend": [
+      "titlespace"
+    ]
+  },
+  {
+    "reserved": "NAN",
+    "recommend": [
+      "NotANumber"
+    ]
+  },
+  {
+    "reserved": "NATIONAL",
+    "recommend": [
+      "nationwide"
+    ]
+  },
+  {
+    "reserved": "native",
+    "recommend": [
+      "innate",
+      "endemic"
+    ]
+  },
+  {
+    "reserved": "NATURAL",
+    "recommend": [
+      "common"
+    ]
+  },
+  {
+    "reserved": "NEEDED",
+    "recommend": [
+      "want"
+    ]
+  },
+  {
+    "reserved": "NESTED",
+    "recommend": [
+      "retreated",
+      "refuged"
+    ]
+  },
+  {
+    "reserved": "NESTING",
+    "recommend": [
+      "connotation"
+    ]
+  },
+  {
+    "reserved": "NETWORK",
+    "recommend": [
+      "web"
+    ]
+  },
+  {
+    "reserved": "NEVER",
+    "recommend": [
+      "atnotime"
+    ]
+  },
+  {
+    "reserved": "NEW",
+    "recommend": [
+      "modern",
+      "recent"
+    ]
+  },
+  {
+    "reserved": "NEXT",
+    "recommend": [
+      "succeeding"
+    ]
+  },
+  {
+    "reserved": "NEXTVAL",
+    "recommend": [
+      "succeedingval"
+    ]
+  },
+  {
+    "reserved": "NICKNAME",
+    "recommend": [
+      "diminutive,"
+    ]
+  },
+  {
+    "reserved": "No",
+    "recommend": [
+      "notatall"
+    ]
+  },
+  {
+    "reserved": "NOAUDIT",
+    "recommend": [
+      "noinspection"
+    ]
+  },
+  {
+    "reserved": "NOCACHE",
+    "recommend": [
+      "nostash"
+    ]
+  },
+  {
+    "reserved": "NOCHECK",
+    "recommend": [
+      "overlook"
+    ]
+  },
+  {
+    "reserved": "NOCOMPRESS",
+    "recommend": [
+      "nosqueeze"
+    ]
+  },
+  {
+    "reserved": "NOCREATEDB",
+    "recommend": [
+      "impossiblecreatedb"
+    ]
+  },
+  {
+    "reserved": "NOCREATEROLE",
+    "recommend": [
+      "impossiblecreaterole"
+    ]
+  },
+  {
+    "reserved": "NOCREATEUSER",
+    "recommend": [
+      "impossiblecreateuser"
+    ]
+  },
+  {
+    "reserved": "NOCYCLE",
+    "recommend": [
+      "nocircle"
+    ]
+  },
+  {
+    "reserved": "NODE",
+    "recommend": [
+      "branch"
+    ]
+  },
+  {
+    "reserved": "NODEGROUP",
+    "recommend": [
+      "branchgroup"
+    ]
+  },
+  {
+    "reserved": "NODENAME",
+    "recommend": [
+      "branchname"
+    ]
+  },
+  {
+    "reserved": "NODENUMBER",
+    "recommend": [
+      "branchnumber"
+    ]
+  },
+  {
+    "reserved": "NODES",
+    "recommend": [
+      "branches"
+    ]
+  },
+  {
+    "reserved": "noexcept",
+    "recommend": [
+      "noexcepting"
+    ]
+  },
+  {
+    "reserved": "NOFORCE",
+    "recommend": [
+      "nocompel"
+    ]
+  },
+  {
+    "reserved": "NOLOGGING",
+    "recommend": [
+      "norecording"
+    ]
+  },
+  {
+    "reserved": "NOMAXVALUE",
+    "recommend": [
+      "minimumvalue"
+    ]
+  },
+  {
+    "reserved": "NOMINVALUE",
+    "recommend": [
+      "maximumvalue"
+    ]
+  },
+  {
+    "reserved": "NONBLOCKED",
+    "recommend": [
+      "nonstop"
+    ]
+  },
+  {
+    "reserved": "NONBLOCKING",
+    "recommend": [
+      "nonstoping"
+    ]
+  },
+  {
+    "reserved": "NONCLUSTERED",
+    "recommend": [
+      "nongathering"
+    ]
+  },
+  {
+    "reserved": "NONE",
+    "recommend": [
+      "zero"
+    ]
+  },
+  {
+    "reserved": "nonlocal",
+    "recommend": [
+      "nonprovincial"
+    ]
+  },
+  {
+    "reserved": "NOORDER",
+    "recommend": [
+      "noarrangement"
+    ]
+  },
+  {
+    "reserved": "NOOVERRIDE",
+    "recommend": [
+      "notcancel"
+    ]
+  },
+  {
+    "reserved": "NOPARALLEL",
+    "recommend": [
+      "opposite"
+    ]
+  },
+  {
+    "reserved": "NORELY",
+    "recommend": [
+      "distrust"
+    ]
+  },
+  {
+    "reserved": "NOREVERSE",
+    "recommend": [
+      "nochange"
+    ]
+  },
+  {
+    "reserved": "NORMAL",
+    "recommend": [
+      "usual"
+    ]
+  },
+  {
+    "reserved": "NOSCAN",
+    "recommend": [
+      "notscan"
+    ]
+  },
+  {
+    "reserved": "NOSORT",
+    "recommend": [
+      "notsort"
+    ]
+  },
+  {
+    "reserved": "NOSUPERUSER",
+    "recommend": [
+      "noadmin"
+    ]
+  },
+  {
+    "reserved": "NOT",
+    "recommend": [
+      "benot"
+    ]
+  },
+  {
+    "reserved": "NOTFOUND",
+    "recommend": [
+      "nobody"
+    ]
+  },
+  {
+    "reserved": "NOTHING",
+    "recommend": [
+      "nobody"
+    ]
+  },
+  {
+    "reserved": "NOTIFY",
+    "recommend": [
+      "announce",
+      "alert"
+    ]
+  },
+  {
+    "reserved": "NOTNULL",
+    "recommend": [
+      "marked"
+    ]
+  },
+  {
+    "reserved": "NOVALIDATE",
+    "recommend": [
+      "nullify"
+    ]
+  },
+  {
+    "reserved": "NOWAIT",
+    "recommend": [
+      "operate"
+    ]
+  },
+  {
+    "reserved": "NULL",
+    "recommend": [
+      "blank"
+    ]
+  },
+  {
+    "reserved": "NULLABLE",
+    "recommend": [
+      "nullifiable"
+    ]
+  },
+  {
+    "reserved": "NULLIF",
+    "recommend": [
+      "blankif"
+    ]
+  },
+  {
+    "reserved": "nullptr",
+    "recommend": [
+      "nullpointer"
+    ]
+  },
+  {
+    "reserved": "NULLS",
+    "recommend": [
+      "blank"
+    ]
+  },
+  {
+    "reserved": "NUM",
+    "recommend": [
+      "figure"
+    ]
+  },
+  {
+    "reserved": "NUMBER",
+    "recommend": [
+      "figure"
+    ]
+  },
+  {
+    "reserved": "NUMERIC",
+    "recommend": [
+      "numerical"
+    ]
+  },
+  {
+    "reserved": "NVARCHAR",
+    "recommend": [
+      "numvarchar"
+    ]
+  },
+  {
+    "reserved": "NVARCHAR2",
+    "recommend": [
+      "numvarchar2"
+    ]
+  },
+  {
+    "reserved": "NZ",
+    "recommend": [
+      "Nzfunction"
+    ]
+  },
+  {
+    "reserved": "OBJECT",
+    "recommend": [
+      "thing"
+    ]
+  },
+  {
+    "reserved": "OBJNO",
+    "recommend": [
+      "objectnumber"
+    ]
+  },
+  {
+    "reserved": "OCCURRENCE",
+    "recommend": [
+      "incident"
+    ]
+  },
+  {
+    "reserved": "OF",
+    "recommend": [
+      "about"
+    ]
+  },
+  {
+    "reserved": "OFF",
+    "recommend": [
+      "away"
+    ]
+  },
+  {
+    "reserved": "OFFLINE",
+    "recommend": [
+      "notintime"
+    ]
+  },
+  {
+    "reserved": "OFFSET",
+    "recommend": [
+      "balance"
+    ]
+  },
+  {
+    "reserved": "OFFSETS",
+    "recommend": [
+      "balances"
+    ]
+  },
+  {
+    "reserved": "OID",
+    "recommend": [
+      "objectidentifier"
+    ]
+  },
+  {
+    "reserved": "OIDS",
+    "recommend": [
+      "objectidentifiers"
+    ]
+  },
+  {
+    "reserved": "OLD",
+    "recommend": [
+      "aged"
+    ]
+  },
+  {
+    "reserved": "OMIT",
+    "recommend": [
+      "eliminate"
+    ]
+  },
+  {
+    "reserved": "ON",
+    "recommend": [
+      "onto"
+    ]
+  },
+  {
+    "reserved": "ONCE",
+    "recommend": [
+      "onetime"
+    ]
+  },
+  {
+    "reserved": "ONE",
+    "recommend": [
+      "individual"
+    ]
+  },
+  {
+    "reserved": "ONLINE",
+    "recommend": [
+      "networked"
+    ]
+  },
+  {
+    "reserved": "ONLY",
+    "recommend": [
+      "sole"
+    ]
+  },
+  {
+    "reserved": "OPAQUE",
+    "recommend": [
+      "blurred"
+    ]
+  },
+  {
+    "reserved": "OPCODE",
+    "recommend": [
+      "operationcode"
+    ]
+  },
+  {
+    "reserved": "OPEN",
+    "recommend": [
+      "unclosed"
+    ]
+  },
+  {
+    "reserved": "OPERATION",
+    "recommend": [
+      "performance"
+    ]
+  },
+  {
+    "reserved": "OPERATOR",
+    "recommend": [
+      "worker"
+    ]
+  },
+  {
+    "reserved": "OPTIMAL",
+    "recommend": [
+      "ideal"
+    ]
+  },
+  {
+    "reserved": "OPTIMIZATION",
+    "recommend": [
+      "idealization"
+    ]
+  },
+  {
+    "reserved": "OPTIMIZE",
+    "recommend": [
+      "idealize"
+    ]
+  },
+  {
+    "reserved": "OPTION",
+    "recommend": [
+      "choice"
+    ]
+  },
+  {
+    "reserved": "OPTIONAL",
+    "recommend": [
+      "selective"
+    ]
+  },
+  {
+    "reserved": "OPTIONALLY",
+    "recommend": [
+      "selectively"
+    ]
+  },
+  {
+    "reserved": "OPTIONS",
+    "recommend": [
+      "choices"
+    ]
+  },
+  {
+    "reserved": "OR",
+    "recommend": [
+      "either"
+    ]
+  },
+  {
+    "reserved": "ORDER",
+    "recommend": [
+      "demand"
+    ]
+  },
+  {
+    "reserved": "orderby",
+    "recommend": [
+      "demandby"
+    ]
+  },
+  {
+    "reserved": "ORDERING",
+    "recommend": [
+      "sorting"
+    ]
+  },
+  {
+    "reserved": "ORGANIZATION",
+    "recommend": [
+      "party"
+    ]
+  },
+  {
+    "reserved": "ORGANIZE",
+    "recommend": [
+      "arrange"
+    ]
+  },
+  {
+    "reserved": "OTHER",
+    "recommend": [
+      "additional"
+    ]
+  },
+  {
+    "reserved": "OTHERS",
+    "recommend": [
+      "additional"
+    ]
+  },
+  {
+    "reserved": "OUT",
+    "recommend": [
+      "outside"
+    ]
+  },
+  {
+    "reserved": "OUTBOUND",
+    "recommend": [
+      "depart"
+    ]
+  },
+  {
+    "reserved": "OUTER",
+    "recommend": [
+      "outside"
+    ]
+  },
+  {
+    "reserved": "OUTPUT",
+    "recommend": [
+      "production"
+    ]
+  },
+  {
+    "reserved": "OUTPUTFORMAT",
+    "recommend": [
+      "outputarrangement"
+    ]
+  },
+  {
+    "reserved": "OVER",
+    "recommend": [
+      "above"
+    ]
+  },
+  {
+    "reserved": "OVERFLOW",
+    "recommend": [
+      "surplus"
+    ]
+  },
+  {
+    "reserved": "OVERHEAD",
+    "recommend": [
+      "above"
+    ]
+  },
+  {
+    "reserved": "OVERLAPS",
+    "recommend": [
+      "overspread"
+    ]
+  },
+  {
+    "reserved": "OVERLAY",
+    "recommend": [
+      "overspread"
+    ]
+  },
+  {
+    "reserved": "OVERRIDE",
+    "recommend": [
+      "overrule"
+    ]
+  },
+  {
+    "reserved": "OVERRIDING",
+    "recommend": [
+      "overruling"
+    ]
+  },
+  {
+    "reserved": "OVERWRITE",
+    "recommend": [
+      "revise"
+    ]
+  },
+  {
+    "reserved": "OWN",
+    "recommend": [
+      "possess"
+    ]
+  },
+  {
+    "reserved": "OWNED",
+    "recommend": [
+      "possessed"
+    ]
+  },
+  {
+    "reserved": "OWNER",
+    "recommend": [
+      "possessor"
+    ]
+  },
+  {
+    "reserved": "OWNERSHIP",
+    "recommend": [
+      "possession"
+    ]
+  },
+  {
+    "reserved": "PACKAGE",
+    "recommend": [
+      "bundle"
+    ]
+  },
+  {
+    "reserved": "PACKED",
+    "recommend": [
+      "filled"
+    ]
+  },
+  {
+    "reserved": "PAD",
+    "recommend": [
+      "stuff"
+    ]
+  },
+  {
+    "reserved": "PADDED",
+    "recommend": [
+      "stuffed"
+    ]
+  },
+  {
+    "reserved": "PAGE",
+    "recommend": [
+      "leaf"
+    ]
+  },
+  {
+    "reserved": "PAGESIZE",
+    "recommend": [
+      "leafsize"
+    ]
+  },
+  {
+    "reserved": "PARALLEL",
+    "recommend": [
+      "equivalent"
+    ]
+  },
+  {
+    "reserved": "PARAMETER",
+    "recommend": [
+      "boundary"
+    ]
+  },
+  {
+    "reserved": "PARAMETERS",
+    "recommend": [
+      "boundarys"
+    ]
+  },
+  {
+    "reserved": "params",
+    "recommend": [
+      "boundarys"
+    ]
+  },
+  {
+    "reserved": "PART",
+    "recommend": [
+      "piece"
+    ]
+  },
+  {
+    "reserved": "PARTIAL",
+    "recommend": [
+      "incomplete"
+    ]
+  },
+  {
+    "reserved": "PARTITION",
+    "recommend": [
+      "divider"
+    ]
+  },
+  {
+    "reserved": "PARTITIONED",
+    "recommend": [
+      "division"
+    ]
+  },
+  {
+    "reserved": "PARTITIONING",
+    "recommend": [
+      "division"
+    ]
+  },
+  {
+    "reserved": "PARTITIONINGS",
+    "recommend": [
+      "divisions"
+    ]
+  },
+  {
+    "reserved": "PARTITIONS",
+    "recommend": [
+      "dividers"
+    ]
+  },
+  {
+    "reserved": "PASS",
+    "recommend": [
+      "proceed"
+    ]
+  },
+  {
+    "reserved": "PASSING",
+    "recommend": [
+      "momentary"
+    ]
+  },
+  {
+    "reserved": "PAST",
+    "recommend": [
+      "previously"
+    ]
+  },
+  {
+    "reserved": "PATH",
+    "recommend": [
+      "way"
+    ]
+  },
+  {
+    "reserved": "PATHS",
+    "recommend": [
+      "ways"
+    ]
+  },
+  {
+    "reserved": "PATROLLER",
+    "recommend": [
+      "watchman"
+    ]
+  },
+  {
+    "reserved": "PATTERN",
+    "recommend": [
+      "decoration"
+    ]
+  },
+  {
+    "reserved": "PENDANT",
+    "recommend": [
+      "locket"
+    ]
+  },
+  {
+    "reserved": "PENDING",
+    "recommend": [
+      "unsettled",
+      "uncertain"
+    ]
+  },
+  {
+    "reserved": "PER",
+    "recommend": [
+      "apiece"
+    ]
+  },
+  {
+    "reserved": "PERCENT",
+    "recommend": [
+      "proportion"
+    ]
+  },
+  {
+    "reserved": "PERCENTILE",
+    "recommend": [
+      "proportion"
+    ]
+  },
+  {
+    "reserved": "PERFORM",
+    "recommend": [
+      "stage"
+    ]
+  },
+  {
+    "reserved": "PERIOD",
+    "recommend": [
+      "term"
+    ]
+  },
+  {
+    "reserved": "PERMANENT",
+    "recommend": [
+      "lasting"
+    ]
+  },
+  {
+    "reserved": "PERMISSION",
+    "recommend": [
+      "consent"
+    ]
+  },
+  {
+    "reserved": "PERMISSIONS",
+    "recommend": [
+      "consents"
+    ]
+  },
+  {
+    "reserved": "PERMUTE",
+    "recommend": [
+      "arrange"
+    ]
+  },
+  {
+    "reserved": "PERSIST",
+    "recommend": [
+      "persevere"
+    ]
+  },
+  {
+    "reserved": "PHASE",
+    "recommend": [
+      "stage"
+    ]
+  },
+  {
+    "reserved": "PIECESIZE",
+    "recommend": [
+      "partsize"
+    ]
+  },
+  {
+    "reserved": "PIPE",
+    "recommend": [
+      "tube"
+    ]
+  },
+  {
+    "reserved": "PIPELINED",
+    "recommend": [
+      "lined"
+    ]
+  },
+  {
+    "reserved": "PLACING",
+    "recommend": [
+      "deposit"
+    ]
+  },
+  {
+    "reserved": "PLAN",
+    "recommend": [
+      "scheme"
+    ]
+  },
+  {
+    "reserved": "PLANS",
+    "recommend": [
+      "schemes"
+    ]
+  },
+  {
+    "reserved": "PLUS",
+    "recommend": [
+      "advantage"
+    ]
+  },
+  {
+    "reserved": "POINT",
+    "recommend": [
+      "tip"
+    ]
+  },
+  {
+    "reserved": "POLICY",
+    "recommend": [
+      "strategy"
+    ]
+  },
+  {
+    "reserved": "POOL",
+    "recommend": [
+      "puddle",
+      "pond"
+    ]
+  },
+  {
+    "reserved": "PORT",
+    "recommend": [
+      "coupling"
+    ]
+  },
+  {
+    "reserved": "PORTION",
+    "recommend": [
+      "piece"
+    ]
+  },
+  {
+    "reserved": "POSITION",
+    "recommend": [
+      "situation",
+      "place"
+    ]
+  },
+  {
+    "reserved": "POSITIVE",
+    "recommend": [
+      "helpful",
+      ""
+    ]
+  },
+  {
+    "reserved": "POWER",
+    "recommend": [
+      "capability"
+    ]
+  },
+  {
+    "reserved": "PRECEDES",
+    "recommend": [
+      "introduce"
+    ]
+  },
+  {
+    "reserved": "PRECEDING",
+    "recommend": [
+      "precursory"
+    ]
+  },
+  {
+    "reserved": "PRECISION",
+    "recommend": [
+      "accuracy"
+    ]
+  },
+  {
+    "reserved": "PREDICATES",
+    "recommend": [
+      "establish"
+    ]
+  },
+  {
+    "reserved": "PREFETCH",
+    "recommend": [
+      "pickup"
+    ]
+  },
+  {
+    "reserved": "PREFETCHSIZE",
+    "recommend": [
+      "pickupsize"
+    ]
+  },
+  {
+    "reserved": "PREPARE",
+    "recommend": [
+      "ready"
+    ]
+  },
+  {
+    "reserved": "PREPARED",
+    "recommend": [
+      "arranged"
+    ]
+  },
+  {
+    "reserved": "PRESERVE",
+    "recommend": [
+      "conserve"
+    ]
+  },
+  {
+    "reserved": "PRETTY",
+    "recommend": [
+      "quite",
+      "attractive"
+    ]
+  },
+  {
+    "reserved": "PREV",
+    "recommend": [
+      "foregoing"
+    ]
+  },
+  {
+    "reserved": "PREVENT",
+    "recommend": [
+      "halt"
+    ]
+  },
+  {
+    "reserved": "PREVIOUS",
+    "recommend": [
+      "foregoing"
+    ]
+  },
+  {
+    "reserved": "PREVVAL",
+    "recommend": [
+      "foregoing"
+    ]
+  },
+  {
+    "reserved": "PRIMARY",
+    "recommend": [
+      "foremost"
+    ]
+  },
+  {
+    "reserved": "PRINCIPALS",
+    "recommend": [
+      "foremost"
+    ]
+  },
+  {
+    "reserved": "PRINT",
+    "recommend": [
+      "writing"
+    ]
+  },
+  {
+    "reserved": "PRIOR",
+    "recommend": [
+      "earlier"
+    ]
+  },
+  {
+    "reserved": "PRIORITY",
+    "recommend": [
+      "primacy"
+    ]
+  },
+  {
+    "reserved": "PRIQTY",
+    "recommend": [
+      "primaryamount"
+    ]
+  },
+  {
+    "reserved": "PRIVATE",
+    "recommend": [
+      "personal"
+    ]
+  },
+  {
+    "reserved": "PRIVILEGE",
+    "recommend": [
+      "advantage"
+    ]
+  },
+  {
+    "reserved": "PRIVILEGES",
+    "recommend": [
+      "advantages"
+    ]
+  },
+  {
+    "reserved": "PROCEDURE",
+    "recommend": [
+      "affair"
+    ]
+  },
+  {
+    "reserved": "PROCEDURES",
+    "recommend": [
+      "affairs"
+    ]
+  },
+  {
+    "reserved": "PROCESS",
+    "recommend": [
+      "affair"
+    ]
+  },
+  {
+    "reserved": "PROCESSED",
+    "recommend": [
+      "arranged"
+    ]
+  },
+  {
+    "reserved": "PROCESSLIST",
+    "recommend": [
+      "outlinelist"
+    ]
+  },
+  {
+    "reserved": "PROFILE",
+    "recommend": [
+      "outline"
+    ]
+  },
+  {
+    "reserved": "PROFILES",
+    "recommend": [
+      "outlines"
+    ]
+  },
+  {
+    "reserved": "PROGRAM",
+    "recommend": [
+      "scheme"
+    ]
+  },
+  {
+    "reserved": "PROJECT",
+    "recommend": [
+      "forecast"
+    ]
+  },
+  {
+    "reserved": "PROJECTION",
+    "recommend": [
+      "forecast"
+    ]
+  },
+  {
+    "reserved": "PROPAGATE",
+    "recommend": [
+      "disseminate",
+      "spread"
+    ]
+  },
+  {
+    "reserved": "PROPERTY",
+    "recommend": [
+      "quality"
+    ]
+  },
+  {
+    "reserved": "protected",
+    "recommend": [
+      "sheltered"
+    ]
+  },
+  {
+    "reserved": "PROTECTION",
+    "recommend": [
+      "shielding",
+      "defense"
+    ]
+  },
+  {
+    "reserved": "PROTOCOL",
+    "recommend": [
+      "agreement"
+    ]
+  },
+  {
+    "reserved": "PROVISIONING",
+    "recommend": [
+      "facilities",
+      "services"
+    ]
+  },
+  {
+    "reserved": "PROXY",
+    "recommend": [
+      "deputy"
+    ]
+  },
+  {
+    "reserved": "PRUNE",
+    "recommend": [
+      "crop"
+    ]
+  },
+  {
+    "reserved": "PUBLIC",
+    "recommend": [
+      "popular"
+    ]
+  },
+  {
+    "reserved": "PUBLICATION",
+    "recommend": [
+      "issuing"
+    ]
+  },
+  {
+    "reserved": "PUBLISH",
+    "recommend": [
+      "issue"
+    ]
+  },
+  {
+    "reserved": "PURGE",
+    "recommend": [
+      "expel"
+    ]
+  },
+  {
+    "reserved": "PUT",
+    "recommend": [
+      "lay"
+    ]
+  },
+  {
+    "reserved": "QUALIFY",
+    "recommend": [
+      "certified"
+    ]
+  },
+  {
+    "reserved": "Quarter",
+    "recommend": [
+      "direction"
+    ]
+  },
+  {
+    "reserved": "QUERY",
+    "recommend": [
+      "asking"
+    ]
+  },
+  {
+    "reserved": "QUERYTAG",
+    "recommend": [
+      "enquerytag"
+    ]
+  },
+  {
+    "reserved": "QUEUE",
+    "recommend": [
+      "succession"
+    ]
+  },
+  {
+    "reserved": "QUEUEDACTIVITIES",
+    "recommend": [
+      "aligned"
+    ]
+  },
+  {
+    "reserved": "QUEUEDCONNECTIONS",
+    "recommend": [
+      "alignedconnections"
+    ]
+  },
+  {
+    "reserved": "QUICK",
+    "recommend": [
+      "rapid"
+    ]
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  },
+  {
+    "reserved": "",
+    "recommend": ""
+  }
+]
