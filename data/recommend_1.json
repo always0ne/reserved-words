@@ -1,0 +1,2006 @@
+[
+	{
+		"reserved": "ADD",
+		"recommend": ["plus", "cnt"]
+	},
+	{
+		"reserved": "ABORT",
+		"recommend": ["halt", "breakOff"]
+	},
+	{
+		"reserved": "ABS",
+		"recommend": ["pure", "utter"]
+	},
+	{
+		"reserved": "ABSENT",
+		"recommend": ["away", "elsewhere"]
+	},
+	{
+		"reserved": "ABSOLUTE",
+		"recommend": ["pure", "utter"]
+	},
+	{
+		"reserved": "abstract",
+		"recommend": ["nonconcrete", "indefinite"]
+	},
+	{
+		"reserved": "ACCEPT",
+		"recommend": ["agree", "obtain"]
+	},
+	{
+		"reserved": "ACCESIBLE",
+		"recommend": ["reachable", "attainable"]
+	},
+	{
+		"reserved": "ACCESS",
+		"recommend": ["reach", "attain"]
+	},
+	{
+		"reserved": "ACCESSCTRL",
+		"recommend": ["accesscontrol", "accessmanage"]
+	},
+	{
+		"reserved": "ACCESSIBLE",
+		"recommend": ["reachable", "attainable"]
+	},
+	{
+		"reserved": "ACCORDING",
+		"recommend": ["confer", "bestow"]
+	},
+	{
+		"reserved": "ACCOUNT",
+		"recommend": ["id", "acc"]
+	},
+	{
+		"reserved": "ACCTNG",
+		"recommend": ["accounting"]
+	},
+	{
+		"reserved": "ACOS",
+		"recommend": ["acosine"]
+	},
+	{
+		"reserved": "ACTION",
+		"recommend": ["acting"]
+	},
+	{
+		"reserved": "ACTIVATE",
+		"recommend": ["act"]
+	},
+	{
+		"reserved": "ACTIVE",
+		"recommend": ["alive", "effective"]
+	},
+	{
+		"reserved": "ACTIVITIES",
+		"recommend": ["actings"]
+	},
+	{
+		"reserved": "ACTIVITY",
+		"recommend": ["acting"]
+	},
+	{
+		"reserved": "ACTIVITYSTMT",
+		"recommend": ["eventMoniterTable"]
+	},
+	{
+		"reserved": "ACTIVITYTOTALTIME",
+		"recommend": ["activityWholeTime"]
+	},
+	{
+		"reserved": "ACTIVITYVALS",
+		"recommend": ["eventMoniterTable"]
+	},
+	{
+		"reserved": "ADA",
+		"recommend": ["adaDb"]
+	},
+	{
+		"reserved": "ADMIN",
+		"recommend": ["govern"]
+	},
+	{
+		"reserved": "ADMINISTRATION",
+		"recommend": ["government"]
+	},
+	{
+		"reserved": "ADVISE",
+		"recommend": ["offer"]
+	},
+	{
+		"reserved": "AFTER",
+		"recommend": ["afterward", "later"]
+	},
+	{
+		"reserved": "AGAINST",
+		"recommend": ["opposing"]
+	},
+	{
+		"reserved": "AGE",
+		"recommend": ["ag"]
+	},
+	{
+		"reserved": "AGENT",
+		"recommend": ["actor"]
+	},
+	{
+		"reserved": "AGGREGATE",
+		"recommend": ["totalResult"]
+	},
+	{
+		"reserved": "AGGSQLTEMPSPACE",
+		"recommend": ["availableSpace"]
+	},
+	{
+		"reserved": "ALGORITHM",
+		"recommend": ["problem"]
+	},
+	{
+		"reserved": "ALIAS",
+		"recommend": ["nickname"]
+	},
+	{
+		"reserved": "alignas",
+		"recommend": ["alignOption"]
+	},
+	{
+		"reserved": "alignof",
+		"recommend": ["setAlign"]
+	},
+	{
+		"reserved": "ALL",
+		"recommend": ["whole"]
+	},
+	{
+		"reserved": "ALLOCATE",
+		"recommend": ["everything"]
+	},
+	{
+		"reserved": "ALLOW",
+		"recommend": ["permit"]
+	},
+	{
+		"reserved": "ALSO",
+		"recommend": ["plus"]
+	},
+	{
+		"reserved": "ALTER",
+		"recommend": ["chng"]
+	},
+	{
+		"reserved": "ALTERIN",
+		"recommend": ["alterOption"]
+	},
+	{
+		"reserved": "ALWAYS",
+		"recommend": ["constantly"]
+	},
+	{
+		"reserved": "ANALYSE",
+		"recommend": ["investigate"]
+	},
+	{
+		"reserved": "ANALYZE",
+		"recommend": ["investigate"]
+	},
+	{
+		"reserved": "ANCHOR",
+		"recommend": ["dock"]
+	},
+	{
+		"reserved": "AND",
+		"recommend": ["plus"]
+	},
+	{
+		"reserved": "ANY",
+		"recommend": ["anything"]
+	},
+	{
+		"reserved": "APPEND",
+		"recommend": ["affix"]
+	},
+	{
+		"reserved": "APPLICATION",
+		"recommend": ["app"]
+	},
+	{
+		"reserved": "APPLNAME",
+		"recommend": ["appName"]
+	},
+	{
+		"reserved": "APPROXIMATION",
+		"recommend": ["about"]
+	},
+	{
+		"reserved": "APREUSE",
+		"recommend": ["reusable"]
+	},
+	{
+		"reserved": "ARCHIVE",
+		"recommend": ["accomplish"]
+	},
+	{
+		"reserved": "ARCHIVELOG",
+		"recommend": ["fileLog"]
+	},
+	{
+		"reserved": "ARE",
+		"recommend": ["be"]
+	},
+	{
+		"reserved": "arguments",
+		"recommend": ["args"]
+	},
+	{
+		"reserved": "ARRAY",
+		"recommend": ["arr"]
+	},
+	{
+		"reserved": "ARRAYLEN",
+		"recommend": ["arrlen"]
+	},
+	{
+		"reserved": "AS",
+		"recommend": ["aka"]
+	},
+	{
+		"reserved": "ASC",
+		"recommend": ["ascend"]
+	},
+	{
+		"reserved": "ascending",
+		"recommend": ["ascend"]
+	},
+	{
+		"reserved": "ASCII",
+		"recommend": ["asciiCode"]
+	},
+	{
+		"reserved": "ASENSITIVE",
+		"recommend": ["dataCursor"]
+	},
+	{
+		"reserved": "ASIN",
+		"recommend": ["aSine"]
+	},
+	{
+		"reserved": "asm",
+		"recommend": ["autoStorageMan"]
+	},
+	{
+		"reserved": "ASSERT",
+		"recommend": ["add"]
+	},
+	{
+		"reserved": "ASSERTION",
+		"recommend": ["adding"]
+	},
+	{
+		"reserved": "ASSIGN",
+		"recommend": ["alloc"]
+	},
+	{
+		"reserved": "ASSIGNMENT",
+		"recommend": ["alloc"]
+	},
+	{
+		"reserved": "ASSOCIATE",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "AST",
+		"recommend": ["asterisk"]
+	},
+	{
+		"reserved": "ASUTIME",
+		"recommend": ["asuClock"]
+	},
+	{
+		"reserved": "ASYMMETRIC",
+		"recommend": ["unbalance"]
+	},
+	{
+		"reserved": "async",
+		"recommend": ["asynchronize"]
+	},
+	{
+		"reserved": "ASYNCHRONY",
+		"recommend": ["asynchronization"]
+	},
+	{
+		"reserved": "ATAN",
+		"recommend": ["atangent"]
+	},
+	{
+		"reserved": "ATTACH",
+		"recommend": ["paste"]
+	},
+	{
+		"reserved": "ATTACHED",
+		"recommend": ["pasted"]
+	},
+	{
+		"reserved": "ATTRIBUTE",
+		"recommend": ["attr"]
+	},
+	{
+		"reserved": "ATTRIBUTES",
+		"recommend": ["attrs"]
+	},
+	{
+		"reserved": "AUDIT",
+		"recommend": ["analysis"]
+	},
+	{
+		"reserved": "AUTH",
+		"recommend": ["proof"]
+	},
+	{
+		"reserved": "AUTHENTICATED",
+		"recommend": ["proofed"]
+	},
+	{
+		"reserved": "AUTHENTICATION",
+		"recommend": ["proof"]
+	},
+	{
+		"reserved": "AUTHID",
+		"recommend": ["powerId"]
+	},
+	{
+		"reserved": "AUTHORIZATION",
+		"recommend": ["right"]
+	},
+	{
+		"reserved": "AUTHORIZATIONS",
+		"recommend": ["rights"]
+	},
+	{
+		"reserved": "AUTHORIZE",
+		"recommend": ["empower"]
+	},
+	{
+		"reserved": "AUTHORIZED",
+		"recommend": ["empowered"]
+	},
+	{
+		"reserved": "AUTHORS",
+		"recommend": ["writers"]
+	},
+	{
+		"reserved": "AVAILABLE",
+		"recommend": ["applicable"]
+	},
+	{
+		"reserved": "AVG",
+		"recommend": ["average"]
+	},
+	{
+		"reserved": "await",
+		"recommend": ["hangIn"]
+	},
+	{
+		"reserved": "BACK",
+		"recommend": ["former"]
+	},
+	{
+		"reserved": "BACKUP",
+		"recommend": ["saving"]
+	},
+	{
+		"reserved": "BASE",
+		"recommend": ["place"]
+	},
+	{
+		"reserved": "BASE64",
+		"recommend": ["place"]
+	},
+	{
+		"reserved": "BASED",
+		"recommend": ["placed"]
+	},
+	{
+		"reserved": "BATCH",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "BECOME",
+		"recommend": ["turnInto"]
+	},
+	{
+		"reserved": "BEFFORE",
+		"recommend": ["former"]
+	},
+	{
+		"reserved": "BEFORE",
+		"recommend": ["former"]
+	},
+	{
+		"reserved": "BEGIN",
+		"recommend": ["goOn"]
+	},
+	{
+		"reserved": "BETWEEN",
+		"recommend": ["middle"]
+	},
+	{
+		"reserved": "BETWEEN*",
+		"recommend": ["middle*"]
+	},
+	{
+		"reserved": "BFILE",
+		"recommend": ["externalPtr"]
+	},
+	{
+		"reserved": "BIND",
+		"recommend": ["strap"]
+	},
+	{
+		"reserved": "BIT",
+		"recommend": ["blit"]
+	},
+	{
+		"reserved": "BLOB",
+		"recommend": ["binObj"]
+	},
+	{
+		"reserved": "BLOCK",
+		"recommend": ["stall"]
+	},
+	{
+		"reserved": "BLOCKED",
+		"recommend": ["stalled"]
+	},
+	{
+		"reserved": "BLOCKINSERT",
+		"recommend": ["blkInsert"]
+	},
+	{
+		"reserved": "BLOCKSIZE",
+		"recommend": ["blkSize"]
+	},
+	{
+		"reserved": "BOM",
+		"recommend": ["byteOrderMark"]
+	},
+	{
+		"reserved": "BOOL",
+		"recommend": ["tf"]
+	},
+	{
+		"reserved": "BOOLEAN",
+		"recommend": ["tf"]
+	},
+	{
+		"reserved": "BOTH",
+		"recommend": ["while"]
+	},
+	{
+		"reserved": "BREADTH",
+		"recommend": ["distance"]
+	},
+	{
+		"reserved": "BREAK",
+		"recommend": ["halt"]
+	},
+	{
+		"reserved": "BROWSE",
+		"recommend": ["retrieve"]
+	},
+	{
+		"reserved": "BTREE",
+		"recommend": ["binTree"]
+	},
+	{
+		"reserved": "BUCKET",
+		"recommend": ["basket"]
+	},
+	{
+		"reserved": "BUCKETS",
+		"recommend": ["baskets"]
+	},
+	{
+		"reserved": "BUFFER",
+		"recommend": ["buf"]
+	},
+	{
+		"reserved": "BUFFERPOOL",
+		"recommend": ["bufPool"]
+	},
+	{
+		"reserved": "BUFFERPOOLS",
+		"recommend": ["bufPools"]
+	},
+	{
+		"reserved": "BUFFERSIZE",
+		"recommend": ["bufSize"]
+	},
+	{
+		"reserved": "BUILD",
+		"recommend": ["mk"]
+	},
+	{
+		"reserved": "BULK",
+		"recommend": ["amount"]
+	},
+	{
+		"reserved": "BYPASS",
+		"recommend": ["neglect"]
+	},
+	{
+		"reserved": "CALL",
+		"recommend": ["summon"]
+	},
+	{
+		"reserved": "CALLED",
+		"recommend": ["summoned"]
+	},
+	{
+		"reserved": "CALLER",
+		"recommend": ["summoner"]
+	},
+	{
+		"reserved": "CALLING",
+		"recommend": ["summoning"]
+	},
+	{
+		"reserved": "CANCEL",
+		"recommend": ["withdraw"]
+	},
+	{
+		"reserved": "CAPACITY",
+		"recommend": ["availability"]
+	},
+	{
+		"reserved": "CAPTURE",
+		"recommend": ["scrap"]
+	},
+	{
+		"reserved": "CASCADE",
+		"recommend": ["fall"]
+	},
+	{
+		"reserved": "CASCADED",
+		"recommend": ["fallen"]
+	},
+	{
+		"reserved": "CAST",
+		"recommend": ["casting"]
+	},
+	{
+		"reserved": "CATALOG",
+		"recommend": ["catalogue"]
+	},
+	{
+		"reserved": "catch",
+		"recommend": ["hook"]
+	},
+	{
+		"reserved": "CATEGORIES",
+		"recommend": ["division"]
+	},
+	{
+		"reserved": "CCSID",
+		"recommend": ["codedChar"]
+	},
+	{
+		"reserved": "CEIL",
+		"recommend": ["smallestInt"]
+	},
+	{
+		"reserved": "CEILING",
+		"recommend": ["smallestInt"]
+	},
+	{
+		"reserved": "CFILE",
+		"recommend": ["cLang"]
+	},
+	{
+		"reserved": "CHANGE",
+		"recommend": ["chng"]
+	},
+	{
+		"reserved": "CHANGED",
+		"recommend": ["chnged"]
+	},
+	{
+		"reserved": "CHANGES",
+		"recommend": ["chngs"]
+	},
+	{
+		"reserved": "CHANNEL",
+		"recommend": ["ch"]
+	},
+	{
+		"reserved": "CHARACTERISTICS",
+		"recommend": ["feats"]
+	},
+	{
+		"reserved": "CHARACTERS",
+		"recommend": ["castings"]
+	},
+	{
+		"reserved": "CHECK",
+		"recommend": ["chk"]
+	},
+	{
+		"reserved": "CHECKED",
+		"recommend": ["chked"]
+	},
+	{
+		"reserved": "CHECKING",
+		"recommend": ["chking"]
+	},
+	{
+		"reserved": "CHECKPOINT",
+		"recommend": ["chkPt"]
+	},
+	{
+		"reserved": "CHECKSUM",
+		"recommend": ["chkSum"]
+	},
+	{
+		"reserved": "CHOOSE",
+		"recommend": ["adopt"]
+	},
+	{
+		"reserved": "CHUNK",
+		"recommend": ["piece"]
+	},
+	{
+		"reserved": "CIPHER",
+		"recommend": ["secretCode"]
+	},
+	{
+		"reserved": "CLASS",
+		"recommend": ["allocation"]
+	},
+	{
+		"reserved": "CLASSIFIER",
+		"recommend": ["allocator"]
+	},
+	{
+		"reserved": "CLEANUP",
+		"recommend": ["mopUp"]
+	},
+	{
+		"reserved": "CLEAR",
+		"recommend": ["mop"]
+	},
+	{
+		"reserved": "CLOB",
+		"recommend": ["charLargeObj"]
+	},
+	{
+		"reserved": "CLONE",
+		"recommend": ["cp"]
+	},
+	{
+		"reserved": "CLR",
+		"recommend": ["commonLangRuntime"]
+	},
+	{
+		"reserved": "CLUSTER",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "CLUSTERED",
+		"recommend": ["gathered"]
+	},
+	{
+		"reserved": "CLUSTERING",
+		"recommend": ["gathering"]
+	},
+	{
+		"reserved": "CLUSTERS",
+		"recommend": ["gathers"]
+	},
+	{
+		"reserved": "CLUSTERSTATUS",
+		"recommend": ["gatherStatus"]
+	},
+	{
+		"reserved": "COALESCE",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "COLAUTH",
+		"recommend": ["colPrivileges"]
+	},
+	{
+		"reserved": "COLLATE",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "COLLATION",
+		"recommend": ["gatherings"]
+	},
+	{
+		"reserved": "COLLECT",
+		"recommend": ["gather"]
+	},
+	{
+		"reserved": "COLLECTION",
+		"recommend": ["gatherings"]
+	},
+	{
+		"reserved": "COLUMN",
+		"recommend": ["col"]
+	},
+	{
+		"reserved": "COLUMNS",
+		"recommend": ["cols"]
+	},
+	{
+		"reserved": "COMBINE",
+		"recommend": ["blend"]
+	},
+	{
+		"reserved": "COMM",
+		"recommend": ["comparison"]
+	},
+	{
+		"reserved": "COMMENT",
+		"recommend": ["note"]
+	},
+	{
+		"reserved": "COMMENTS",
+		"recommend": ["notes"]
+	},
+	{
+		"reserved": "COMPACT",
+		"recommend": ["small"]
+	},
+	{
+		"reserved": "COMPACTIONS",
+		"recommend": ["smallness"]
+	},
+	{
+		"reserved": "COMPARE",
+		"recommend": ["cmp"]
+	},
+	{
+		"reserved": "COMPARISONS",
+		"recommend": ["cmps"]
+	},
+	{
+		"reserved": "COMPATIBILITY",
+		"recommend": ["cmpAbility"]
+	},
+	{
+		"reserved": "COMPLETE",
+		"recommend": ["done"]
+	},
+	{
+		"reserved": "COMPLETION",
+		"recommend": ["done"]
+	},
+	{
+		"reserved": "COMPRESS",
+		"recommend": ["condense"]
+	},
+	{
+		"reserved": "COMPRESSED",
+		"recommend": ["condensed"]
+	},
+	{
+		"reserved": "COMPRESSION",
+		"recommend": ["condensing"]
+	},
+	{
+		"reserved": "COMPUTE",
+		"recommend": ["calculate"]
+	},
+	{
+		"reserved": "CONCAT",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "CONCATENATE",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "concept",
+		"recommend": ["notion"]
+	},
+	{
+		"reserved": "CONCURRENT",
+		"recommend": ["simultaneous"]
+	},
+	{
+		"reserved": "CONCURRENTDBCOORDACTIVITIES",
+		"recommend": ["simultaneoutDbCoordActivities"]
+	},
+	{
+		"reserved": "CONCURRENTLY",
+		"recommend": ["simultaneously"]
+	},
+	{
+		"reserved": "CONCURRENTWORKLOADACTIVITIES",
+		"recommend": ["simultaneousWorkLoadActivities"]
+	},
+	{
+		"reserved": "CONCURRENTWORKLOADOCCURRENCES",
+		"recommend": ["simultaneousWorkLoadDocCurrences"]
+	},
+	{
+		"reserved": "CONDITION",
+		"recommend": ["opt"]
+	},
+	{
+		"reserved": "CONDITIONAL",
+		"recommend": ["opt"]
+	},
+	{
+		"reserved": "CONF",
+		"recommend": ["arr"]
+	},
+	{
+		"reserved": "CONFIGURATION",
+		"recommend": ["arr"]
+	},
+	{
+		"reserved": "CONFLICT",
+		"recommend": ["clash"]
+	},
+	{
+		"reserved": "CONN",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "CONNECT",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "CONNECTION",
+		"recommend": ["relation"]
+	},
+	{
+		"reserved": "CONNECTIONIDLETIME",
+		"recommend": ["connIdleTime"]
+	},
+	{
+		"reserved": "CONNECTIONS",
+		"recommend": ["relations"]
+	},
+	{
+		"reserved": "CONNECTOPT",
+		"recommend": ["relationOpt"]
+	},
+	{
+		"reserved": "CONNHEADER",
+		"recommend": ["relationHeader"]
+	},
+	{
+		"reserved": "CONNMEMUSE",
+		"recommend": ["memoryPoolMeta"]
+	},
+	{
+		"reserved": "CONSERVATIVE",
+		"recommend": ["moderate"]
+	},
+	{
+		"reserved": "CONSISTENCY",
+		"recommend": ["firmness"]
+	},
+	{
+		"reserved": "CONSISTENT",
+		"recommend": ["firm"]
+	},
+	{
+		"reserved": "CONSTRAINED",
+		"recommend": ["restrained"]
+	},
+	{
+		"reserved": "CONSTRAINT",
+		"recommend": ["restraint"]
+	},
+	{
+		"reserved": "CONSTRAINTS",
+		"recommend": ["restraints"]
+	},
+	{
+		"reserved": "CONSUMED",
+		"recommend": ["used"]
+	},
+	{
+		"reserved": "CONTAINER",
+		"recommend": ["box"]
+	},
+	{
+		"reserved": "CONTAINERS",
+		"recommend": ["boxes"]
+	},
+	{
+		"reserved": "CONTAINS",
+		"recommend": ["embrace"]
+	},
+	{
+		"reserved": "CONTAINSTABLE",
+		"recommend": ["embraceTable"]
+	},
+	{
+		"reserved": "CONTEXT",
+		"recommend": ["situation"]
+	},
+	{
+		"reserved": "CONTINUE",
+		"recommend": ["goOn"]
+	},
+	{
+		"reserved": "CONTINUOUSLY",
+		"recommend": ["goOn"]
+	},
+	{
+		"reserved": "CONTRIBUTORS",
+		"recommend": ["patrons"]
+	},
+	{
+		"reserved": "CONTROL",
+		"recommend": ["ctrl"]
+	},
+	{
+		"reserved": "CONTROLFILE",
+		"recommend": ["ctrlFile"]
+	},
+	{
+		"reserved": "CONVERSION",
+		"recommend": ["chng"]
+	},
+	{
+		"reserved": "CONVERT",
+		"recommend": ["chng"]
+	},
+	{
+		"reserved": "COORDINATOR",
+		"recommend": ["pos"]
+	},
+	{
+		"reserved": "COPY",
+		"recommend": ["cp"]
+	},
+	{
+		"reserved": "CORR",
+		"recommend": ["relate"]
+	},
+	{
+		"reserved": "CORRELATION",
+		"recommend": ["relation"]
+	},
+	{
+		"reserved": "CORRELATOR",
+		"recommend": ["relatedObj"]
+	},
+	{
+		"reserved": "CORRESPONDING",
+		"recommend": ["equivalent"]
+	},
+	{
+		"reserved": "COS",
+		"recommend": ["cosine"]
+	},
+	{
+		"reserved": "COSH",
+		"recommend": ["hyperbolicCosine"]
+	},
+	{
+		"reserved": "COST",
+		"recommend": ["amount"]
+	},
+	{
+		"reserved": "COUNT",
+		"recommend": ["cnt"]
+	},
+	{
+		"reserved": "COUNTER",
+		"recommend": ["cnt"]
+	},
+	{
+		"reserved": "CRASH",
+		"recommend": ["smash"]
+	},
+	{
+		"reserved": "CREATE",
+		"recommend": ["mk"]
+	},
+	{
+		"reserved": "CREATEDB",
+		"recommend": ["mkDb"]
+	},
+	{
+		"reserved": "CREATEIN",
+		"recommend": ["mkIn"]
+	},
+	{
+		"reserved": "CREATEROLE",
+		"recommend": ["mkRole"]
+	},
+	{
+		"reserved": "CREATETAB",
+		"recommend": ["mkTab"]
+	},
+	{
+		"reserved": "CREATEUSER",
+		"recommend": ["mkUser"]
+	},
+	{
+		"reserved": "CROSS",
+		"recommend": ["crs"]
+	},
+	{
+		"reserved": "Currency",
+		"recommend": ["bill"]
+	},
+	{
+		"reserved": "CURRENT",
+		"recommend": ["cur"]
+	},
+	{
+		"reserved": "CURRVAL",
+		"recommend": ["curValue"]
+	},
+	{
+		"reserved": "CURSOR",
+		"recommend": ["ptr"]
+	},
+	{
+		"reserved": "CURSORS",
+		"recommend": ["ptrs"]
+	},
+	{
+		"reserved": "CYCLE",
+		"recommend": ["turn"]
+	},
+	{
+		"reserved": "DANGLING",
+		"recommend": ["predicate"]
+	},
+	{
+		"reserved": "DB2DARI",
+		"recommend": ["dbToDari"]
+	},
+	{
+		"reserved": "DB2GENERAL",
+		"recommend": ["dbToGen"]
+	},
+	{
+		"reserved": "DB2GENRL",
+		"recommend": ["dbToGenRL"]
+	},
+	{
+		"reserved": "DB2LBACREADARRAY",
+		"recommend": ["dbToLBACREADARRAY"]
+	},
+	{
+		"reserved": "DB2LBACREADSET",
+		"recommend": ["DBToLBACREADSET"]
+	},
+	{
+		"reserved": "DB2LBACREADTREE",
+		"recommend": ["DBToLBACREADTREE"]
+	},
+	{
+		"reserved": "DB2LBACRULES",
+		"recommend": ["DBToLBACRULES"]
+	},
+	{
+		"reserved": "DB2LBACWRITEARRAY",
+		"recommend": ["DBToLBACWRITEARRAY"]
+	},
+	{
+		"reserved": "DB2LBACWRITESET",
+		"recommend": ["DBToLBACWRITESET"]
+	},
+	{
+		"reserved": "DB2LBACWRITETREE",
+		"recommend": ["DBToLBACWRITETREE"]
+	},
+	{
+		"reserved": "DB2OPTIONS",
+		"recommend": ["DBToOPTIONS"]
+	},
+	{
+		"reserved": "DB2SECURITYLABEL",
+		"recommend": ["DBToSECURITYLABEL"]
+	},
+	{
+		"reserved": "DB2SPL",
+		"recommend": ["DBToSPL"]
+	},
+	{
+		"reserved": "DB2SQL",
+		"recommend": ["DBToSQL"]
+	},
+	{
+		"reserved": "DB2VALIDATE",
+		"recommend": ["DBToVALIDATE"]
+	},
+	{
+		"reserved": "DBA",
+		"recommend": ["DBManager"]
+	},
+	{
+		"reserved": "DBADM",
+		"recommend": ["DBAdmin"]
+	},
+	{
+		"reserved": "DBCC",
+		"recommend": ["DbConsoleCmd"]
+	},
+	{
+		"reserved": "DBCLOB",
+		"recommend": ["DBCharObj"]
+	},
+	{
+		"reserved": "DBHIGH",
+		"recommend": ["DBUp"]
+	},
+	{
+		"reserved": "DBINFO",
+		"recommend": ["DBInformation"]
+	},
+	{
+		"reserved": "DBLOW",
+		"recommend": ["DBDown"]
+	},
+	{
+		"reserved": "DBMAC",
+		"recommend": ["DBArchitecture"]
+	},
+	{
+		"reserved": "DBMEMUSE",
+		"recommend": ["DBMemoryUse"]
+	},
+	{
+		"reserved": "DBPARTITIONNAME",
+		"recommend": ["DBPartName"]
+	},
+	{
+		"reserved": "DBPARTITIONNUM",
+		"recommend": ["DBPartNum"]
+	},
+	{
+		"reserved": "DBPARTITIONNUMS",
+		"recommend": ["DBPartNums"]
+	},
+	{
+		"reserved": "DBPARTITIONS",
+		"recommend": ["DBParts"]
+	},
+	{
+		"reserved": "DBPROPERTIES",
+		"recommend": ["DBProps"]
+	},
+	{
+		"reserved": "DEACTIVATE",
+		"recommend": ["DBShutoff"]
+	},
+	{
+		"reserved": "DEADLOCK",
+		"recommend": ["halt"]
+	},
+	{
+		"reserved": "DEADLOCKS",
+		"recommend": ["halts"]
+	},
+	{
+		"reserved": "DEALLOCATE",
+		"recommend": ["neglect"]
+	},
+	{
+		"reserved": "DEBUFOFF",
+		"recommend": ["bufOn"]
+	},
+	{
+		"reserved": "DEBUG",
+		"recommend": ["correct"]
+	},
+	{
+		"reserved": "debugger",
+		"recommend": ["correction"]
+	},
+	{
+		"reserved": "DEBUGINFO",
+		"recommend": ["correctionInfo"]
+	},
+	{
+		"reserved": "DEBUGOFF",
+		"recommend": ["correctionOff"]
+	},
+	{
+		"reserved": "DEBUGON",
+		"recommend": ["correctionOn"]
+	},
+	{
+		"reserved": "DECLARE",
+		"recommend": ["advocate"]
+	},
+	{
+		"reserved": "decltype",
+		"recommend": ["typeCheck"]
+	},
+	{
+		"reserved": "DECOMPOSITION",
+		"recommend": ["disintegration"]
+	},
+	{
+		"reserved": "DEFAULT",
+		"recommend": ["initValue"]
+	},
+	{
+		"reserved": "DEFAULTS",
+		"recommend": ["initValues"]
+	},
+	{
+		"reserved": "DEFINE",
+		"recommend": ["characterize"]
+	},
+	{
+		"reserved": "DEFINED",
+		"recommend": ["characterized"]
+	},
+	{
+		"reserved": "DEFINER",
+		"recommend": ["characterizer"]
+	},
+	{
+		"reserved": "DEGREE",
+		"recommend": ["deep"]
+	},
+	{
+		"reserved": "del",
+		"recommend": ["blackout"]
+	},
+	{
+		"reserved": "DELAY",
+		"recommend": ["late"]
+	},
+	{
+		"reserved": "DELAYED",
+		"recommend": ["late"]
+	},
+	{
+		"reserved": "delegate",
+		"recommend": ["strap"]
+	},
+	{
+		"reserved": "DELETE",
+		"recommend": ["blackout"]
+	},
+	{
+		"reserved": "DELIMITED",
+		"recommend": ["delimitate"]
+	},
+	{
+		"reserved": "DELIMITER",
+		"recommend": ["delimitater"]
+	},
+	{
+		"reserved": "DELIMITERS",
+		"recommend": ["delimitaters"]
+	},
+	{
+		"reserved": "DENSERANK",
+		"recommend": ["rowRank"]
+	},
+	{
+		"reserved": "DENY",
+		"recommend": ["disagree"]
+	},
+	{
+		"reserved": "DEPENDENCY",
+		"recommend": ["reliance"]
+	},
+	{
+		"reserved": "DEPENDENT",
+		"recommend": ["relient"]
+	},
+	{
+		"reserved": "DEPENDS",
+		"recommend": ["rely"]
+	},
+	{
+		"reserved": "DEPTH",
+		"recommend": ["deep"]
+	},
+	{
+		"reserved": "DEREF",
+		"recommend": ["objRef"]
+	},
+	{
+		"reserved": "DERIVED",
+		"recommend": ["originated"]
+	},
+	{
+		"reserved": "DESC",
+		"recommend": ["fall"]
+	},
+	{
+		"reserved": "descending",
+		"recommend": ["falling"]
+	},
+	{
+		"reserved": "DESCRIBE",
+		"recommend": ["report"]
+	},
+	{
+		"reserved": "DESCRIPTION",
+		"recommend": ["report"]
+	},
+	{
+		"reserved": "DESCRIPTOR",
+		"recommend": ["reporter"]
+	},
+	{
+		"reserved": "DESTROY",
+		"recommend": ["ruin"]
+	},
+	{
+		"reserved": "DESTRUCTOR",
+		"recommend": ["ruiner"]
+	},
+	{
+		"reserved": "DETACH",
+		"recommend": ["devide"]
+	},
+	{
+		"reserved": "DETAIL",
+		"recommend": ["feature"]
+	},
+	{
+		"reserved": "DETAILED",
+		"recommend": ["feature"]
+	},
+	{
+		"reserved": "DETAILS",
+		"recommend": ["features"]
+	},
+	{
+		"reserved": "DETERMINED",
+		"recommend": ["decided"]
+	},
+	{
+		"reserved": "DETERMINISTIC",
+		"recommend": ["decidedly"]
+	},
+	{
+		"reserved": "DEVICE",
+		"recommend": ["gadget"]
+	},
+	{
+		"reserved": "DIAGNOSTICS",
+		"recommend": ["giagnosis"]
+	},
+	{
+		"reserved": "DICTIONARY",
+		"recommend": ["wordbook"]
+	},
+	{
+		"reserved": "DIMENSIONS",
+		"recommend": ["aspect"]
+	},
+	{
+		"reserved": "DIRECTORIES",
+		"recommend": ["dirs"]
+	},
+	{
+		"reserved": "DIRECTORY",
+		"recommend": ["dir"]
+	},
+	{
+		"reserved": "DIRTY",
+		"recommend": ["muddy"]
+	},
+	{
+		"reserved": "DISABLE",
+		"recommend": ["damage"]
+	},
+	{
+		"reserved": "DISABLED",
+		"recommend": ["damaged"]
+	},
+	{
+		"reserved": "DISALLOW",
+		"recommend": ["disagree"]
+	},
+	{
+		"reserved": "DISCARD",
+		"recommend": ["wipeOut"]
+	},
+	{
+		"reserved": "DISCONNECT",
+		"recommend": ["unrelate"]
+	},
+	{
+		"reserved": "DISMOUNT",
+		"recommend": ["unmount"]
+	},
+	{
+		"reserved": "DISPATCH",
+		"recommend": ["send"]
+	},
+	{
+		"reserved": "DISPOSE",
+		"recommend": ["arrange"]
+	},
+	{
+		"reserved": "DISTINCT",
+		"recommend": ["discrete"]
+	},
+	{
+		"reserved": "DISTINCTROW",
+		"recommend": ["discreteRow"]
+	},
+	{
+		"reserved": "DISTRIBUTE",
+		"recommend": ["handOut"]
+	},
+	{
+		"reserved": "DISTRIBUTED",
+		"recommend": ["handOutted"]
+	},
+	{
+		"reserved": "DISTRIBUTION",
+		"recommend": ["handOut"]
+	},
+	{
+		"reserved": "DLCONN",
+		"recommend": ["halt"]
+	},
+	{
+		"reserved": "dllexport",
+		"recommend": ["dllUpload"]
+	},
+	{
+		"reserved": "dllimport",
+		"recommend": ["dllDownload"]
+	},
+	{
+		"reserved": "DLLOCK",
+		"recommend": ["dlclose"]
+	},
+	{
+		"reserved": "DLNEWCOPY",
+		"recommend": ["dlNewCp"]
+	},
+	{
+		"reserved": "DLPREVIOUSCOPY",
+		"recommend": ["dlPrevCp"]
+	},
+	{
+		"reserved": "DLURLCOMPLETE",
+		"recommend": ["completeUrl"]
+	},
+	{
+		"reserved": "DLURLCOMPLETEONLY",
+		"recommend": ["completeUrlOnly"]
+	},
+	{
+		"reserved": "DLURLCOMPLETEWRITE",
+		"recommend": ["completeUrlWrite"]
+	},
+	{
+		"reserved": "DLURLPATH",
+		"recommend": ["urlPath"]
+	},
+	{
+		"reserved": "DLURLPATHONLY",
+		"recommend": ["urlPathOnly"]
+	},
+	{
+		"reserved": "DLURLPATHWRITE",
+		"recommend": ["urlPathWrite"]
+	},
+	{
+		"reserved": "DLURLSCHEME",
+		"recommend": ["urlScheme"]
+	},
+	{
+		"reserved": "DLURLSERVER",
+		"recommend": ["fileServer"]
+	},
+	{
+		"reserved": "DLVALUE",
+		"recommend": ["dataLinkValue"]
+	},
+	{
+		"reserved": "DOCUMENT",
+		"recommend": ["doc"]
+	},
+	{
+		"reserved": "DOMAIN",
+		"recommend": ["realm"]
+	},
+	{
+		"reserved": "DROP",
+		"recommend": ["blackout"]
+	},
+	{
+		"reserved": "DROPIN",
+		"recommend": ["blackout"]
+	},
+	{
+		"reserved": "DROPPED",
+		"recommend": ["blackoutted"]
+	},
+	{
+		"reserved": "DSSIZE",
+		"recommend": ["maxTableSize"]
+	},
+	{
+		"reserved": "DUAL",
+		"recommend": ["twin"]
+	},
+	{
+		"reserved": "DUMP",
+		"recommend": ["abandon"]
+	},
+	{
+		"reserved": "DUMPFILE",
+		"recommend": ["abandonFile"]
+	},
+	{
+		"reserved": "DUPLICATE",
+		"recommend": ["cp"]
+	},
+	{
+		"reserved": "DURATION",
+		"recommend": ["term"]
+	},
+	{
+		"reserved": "DYNAMIC",
+		"recommend": ["varios"]
+	},
+	{
+		"reserved": "EACH",
+		"recommend": ["individual"]
+	},
+	{
+		"reserved": "EDITPROC",
+		"recommend": ["editProcedure"]
+	},
+	{
+		"reserved": "elif",
+		"recommend": ["elsIf"]
+	},
+	{
+		"reserved": "ELSE",
+		"recommend": ["els"]
+	},
+	{
+		"reserved": "elsee",
+		"recommend": ["els"]
+	},
+	{
+		"reserved": "ELSEIF",
+		"recommend": ["els"]
+	},
+	{
+		"reserved": "EMPTY",
+		"recommend": ["nothing"]
+	},
+	{
+		"reserved": "ENABLE",
+		"recommend": ["empower"]
+	},
+	{
+		"reserved": "ENABLED",
+		"recommend": ["empowered"]
+	},
+	{
+		"reserved": "ENCLOSED",
+		"recommend": ["packed"]
+	},
+	{
+		"reserved": "ENCODING",
+		"recommend": ["packing"]
+	},
+	{
+		"reserved": "ENCRYPTED",
+		"recommend": ["encoded"]
+	},
+	{
+		"reserved": "ENCRYPTION",
+		"recommend": ["encode"]
+	},
+	{
+		"reserved": "END",
+		"recommend": ["fin"]
+	},
+	{
+		"reserved": "END-EXEC",
+		"recommend": ["fin-exec"]
+	},
+	{
+		"reserved": "ENDING",
+		"recommend": ["finishing"]
+	},
+	{
+		"reserved": "ENDS",
+		"recommend": ["endings"]
+	},
+	{
+		"reserved": "ENFORCE",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "ENFORCED",
+		"recommend": ["carriedOut"]
+	},
+	{
+		"reserved": "ENFORCEMENT",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "ENTRY",
+		"recommend": ["entrance"]
+	},
+	{
+		"reserved": "ENUM",
+		"recommend": ["varNum"]
+	},
+	{
+		"reserved": "ENVIRONMENT",
+		"recommend": ["circumstance"]
+	},
+	{
+		"reserved": "EQUAL",
+		"recommend": ["identical"]
+	},
+	{
+		"reserved": "EQUALS",
+		"recommend": ["identicals"]
+	},
+	{
+		"reserved": "ERASE",
+		"recommend": ["wipeOut"]
+	},
+	{
+		"reserved": "ERRLVL",
+		"recommend": ["recoverableErr"]
+	},
+	{
+		"reserved": "ERROR",
+		"recommend": ["err"]
+	},
+	{
+		"reserved": "ERRORS",
+		"recommend": ["errs"]
+	},
+	{
+		"reserved": "ESCALATION",
+		"recommend": ["advance"]
+	},
+	{
+		"reserved": "ESCAPE",
+		"recommend": ["flee"]
+	},
+	{
+		"reserved": "ESCAPED",
+		"recommend": ["fleed"]
+	},
+	{
+		"reserved": "ESTIMATE",
+		"recommend": ["guess"]
+	},
+	{
+		"reserved": "ESTIMATEDCOST",
+		"recommend": ["guessingcost"]
+	},
+	{
+		"reserved": "ESTIMATEDSQLCOST",
+		"recommend": ["guessingSQLCost"]
+	},
+	{
+		"reserved": "EVAL",
+		"recommend": ["assess"]
+	},
+	{
+		"reserved": "EVALUATE",
+		"recommend": ["assess"]
+	},
+	{
+		"reserved": "EVENT",
+		"recommend": ["incident"]
+	},
+	{
+		"reserved": "EVENTS",
+		"recommend": ["incidents"]
+	},
+	{
+		"reserved": "EVERY",
+		"recommend": ["individual"]
+	},
+	{
+		"reserved": "EXACT",
+		"recommend": ["accurate"]
+	},
+	{
+		"reserved": "EXCEEDED",
+		"recommend": ["surpassed"]
+	},
+	{
+		"reserved": "EXCEPT",
+		"recommend": ["apartFrom"]
+	},
+	{
+		"reserved": "EXCEPTION",
+		"recommend": ["deviation"]
+	},
+	{
+		"reserved": "EXCEPTIONS",
+		"recommend": ["deviations"]
+	},
+	{
+		"reserved": "EXCHANGE",
+		"recommend": ["trade"]
+	},
+	{
+		"reserved": "EXCLUDE",
+		"recommend": ["forbid"]
+	},
+	{
+		"reserved": "EXCLUDES",
+		"recommend": ["forbids"]
+	},
+	{
+		"reserved": "EXCLUDING",
+		"recommend": ["forbidding"]
+	},
+	{
+		"reserved": "EXCLUSIVE",
+		"recommend": ["forbidden"]
+	},
+	{
+		"reserved": "EXEC",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "EXECNODE",
+		"recommend": ["carryOutNode"]
+	},
+	{
+		"reserved": "EXECUTE",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "EXECUTETIME",
+		"recommend": ["carryOutTime"]
+	},
+	{
+		"reserved": "EXECUTION",
+		"recommend": ["carryOut"]
+	},
+	{
+		"reserved": "EXEMPTION",
+		"recommend": ["exclusion"]
+	},
+	{
+		"reserved": "EXISTING",
+		"recommend": ["lasting"]
+	},
+	{
+		"reserved": "EXISTS",
+		"recommend": ["lasts"]
+	},
+	{
+		"reserved": "EXIT",
+		"recommend": ["wayOut"]
+	},
+	{
+		"reserved": "EXP",
+		"recommend": ["expir"]
+	},
+	{
+		"reserved": "EXPAND",
+		"recommend": ["grow"]
+	},
+	{
+		"reserved": "EXPANSION",
+		"recommend": ["growth"]
+	},
+	{
+		"reserved": "EXPIRE",
+		"recommend": ["expir"]
+	},
+	{
+		"reserved": "EXPLAIN",
+		"recommend": ["report"]
+	},
+	{
+		"reserved": "explicit",
+		"recommend": ["obvious"]
+	},
+	{
+		"reserved": "EXPLODE",
+		"recommend": ["erupt"]
+	},
+	{
+		"reserved": "EXPORT",
+		"recommend": ["upload"]
+	},
+	{
+		"reserved": "EXPRESSION",
+		"recommend": ["declaration"]
+	},
+	{
+		"reserved": "EXTEND",
+		"recommend": ["grow"]
+	},
+	{
+		"reserved": "EXTENDED",
+		"recommend": ["grown"]
+	},
+	{
+		"reserved": "extends",
+		"recommend": ["grows"]
+	},
+	{
+		"reserved": "EXTENSION",
+		"recommend": ["growth"]
+	},
+	{
+		"reserved": "EXTENT",
+		"recommend": ["growth"]
+	},
+	{
+		"reserved": "EXTENTS",
+		"recommend": ["growths"]
+	},
+	{
+		"reserved": "EXTENTSIZE",
+		"recommend": ["growthSize"]
+	},
+	{
+		"reserved": "extern",
+		"recommend": ["outside"]
+	},
+	{
+		"reserved": "EXTERNAL",
+		"recommend": ["outside"]
+	},
+	{
+		"reserved": "EXTERNALLY",
+		"recommend": ["outside"]
+	},
+	{
+		"reserved": "EXTRACT",
+		"recommend": ["takeOut"]
+	},
+	{
+		"reserved": "FAIL",
+		"recommend": ["fall"]
+	},
+	{
+		"reserved": "FAILURE",
+		"recommend": ["defeat"]
+	},
+	{
+		"reserved": "FAST",
+		"recommend": ["speedu"]
+	},
+	{
+		"reserved": "FAULTS",
+		"recommend": ["wrong"]
+	},
+	{
+		"reserved": "FEDERATED",
+		"recommend": ["united"]
+	},
+	{
+		"reserved": "FENCED",
+		"recommend": ["barriored"]
+	},
+	{
+		"reserved": "FETCH",
+		"recommend": ["bring"]
+	},
+	{
+		"reserved": "FIELDPROC",
+		"recommend": ["fieldProcedure"]
+	},
+	{
+		"reserved": "FIELDS",
+		"recommend": ["earth"]
+	},
+	{
+		"reserved": "FILTER",
+		"recommend": ["purifier"]
+	},
+	{
+		"reserved": "FILTERING",
+		"recommend": ["purifying"]
+	},
+	{
+		"reserved": "finally",
+		"recommend": ["lastly"]
+	},
+	{
+		"reserved": "FINISH",
+		"recommend": ["done"]
+	},
+	{
+		"reserved": "FIRST",
+		"recommend": ["early"]
+	},
+	{
+		"reserved": "FIXED",
+		"recommend": ["solid"]
+	},
+	{
+		"reserved": "FLAG",
+		"recommend": ["banner"]
+	},
+	{
+		"reserved": "FLAGGER",
+		"recommend": ["banner"]
+	},
+	{
+		"reserved": "FLATTERN",
+		"recommend": ["flatten"]
+	},
+	{
+		"reserved": "FLOOR",
+		"recommend": ["flatten"]
+	},
+	{
+		"reserved": "FLUSH",
+		"recommend": ["rinse"]
+	},
+	{
+		"reserved": "FOLLOWING",
+		"recommend": ["attending"]
+	},
+	{
+		"reserved": "FOLLOWS",
+		"recommend": ["attends"]
+	},
+	{
+		"reserved": "FORCE",
+		"recommend": ["compel"]
+	},
+	{
+		"reserved": "foreach",
+		"recommend": ["oneByOne"]
+	},
+	{
+		"reserved": "FOREIGN",
+		"recommend": ["outside"]
+	},
+	{
+		"reserved": "FORM",
+		"recommend": ["composition"]
+	},
+	{
+		"reserved": "FORMAT",
+		"recommend": ["composition"]
+	},
+	{
+		"reserved": "FORMATTED",
+		"recommend": ["composed"]
+	},
+	{
+		"reserved": "FORWARD",
+		"recommend": ["toward"]
+	},
+	{
+		"reserved": "FOUND",
+		"recommend": ["discovered"]
+	},
+	{
+		"reserved": "FREE",
+		"recommend": ["blank"]
+	},
+	{
+		"reserved": "FREELIST",
+		"recommend": ["blankList"]
+	},
+	{
+		"reserved": "FREELISTS",
+		"recommend": ["blankLists"]
+	},
+	{
+		"reserved": "FREEPAGE",
+		"recommend": ["blankPage"]
+	}
+]
