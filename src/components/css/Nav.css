@@ -17,6 +17,7 @@
 .topnav li:hover {
     background-color: #ddd;
     color: black;
+    cursor:pointer;
 }
 .topnav li.active {
     background-color: #4caf50;
