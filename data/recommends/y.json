@@ -1,0 +1,20 @@
+[
+  {
+    "reserved": "YEARS",
+    "recommend": [
+      "oldness"
+    ]
+  },
+  {
+    "reserved": "Yes",
+    "recommend": [
+      "affirm"
+    ]
+  },
+  {
+    "reserved": "yield",
+    "recommend": [
+      "generate"
+    ]
+  }
+]

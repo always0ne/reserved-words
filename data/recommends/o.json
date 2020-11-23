@@ -1,0 +1,326 @@
+[
+  {
+    "reserved": "OBJECT",
+    "recommend": [
+      "thing"
+    ]
+  },
+  {
+    "reserved": "OBJNO",
+    "recommend": [
+      "objectnumber"
+    ]
+  },
+  {
+    "reserved": "OCCURRENCE",
+    "recommend": [
+      "incident"
+    ]
+  },
+  {
+    "reserved": "OF",
+    "recommend": [
+      "about"
+    ]
+  },
+  {
+    "reserved": "OFF",
+    "recommend": [
+      "away"
+    ]
+  },
+  {
+    "reserved": "OFFLINE",
+    "recommend": [
+      "notintime"
+    ]
+  },
+  {
+    "reserved": "OFFSET",
+    "recommend": [
+      "balance"
+    ]
+  },
+  {
+    "reserved": "OFFSETS",
+    "recommend": [
+      "balances"
+    ]
+  },
+  {
+    "reserved": "OID",
+    "recommend": [
+      "objectidentifier"
+    ]
+  },
+  {
+    "reserved": "OIDS",
+    "recommend": [
+      "objectidentifiers"
+    ]
+  },
+  {
+    "reserved": "OLD",
+    "recommend": [
+      "aged"
+    ]
+  },
+  {
+    "reserved": "OMIT",
+    "recommend": [
+      "eliminate"
+    ]
+  },
+  {
+    "reserved": "ON",
+    "recommend": [
+      "onto"
+    ]
+  },
+  {
+    "reserved": "ONCE",
+    "recommend": [
+      "onetime"
+    ]
+  },
+  {
+    "reserved": "ONE",
+    "recommend": [
+      "individual"
+    ]
+  },
+  {
+    "reserved": "ONLINE",
+    "recommend": [
+      "networked"
+    ]
+  },
+  {
+    "reserved": "ONLY",
+    "recommend": [
+      "sole"
+    ]
+  },
+  {
+    "reserved": "OPAQUE",
+    "recommend": [
+      "blurred"
+    ]
+  },
+  {
+    "reserved": "OPCODE",
+    "recommend": [
+      "operationcode"
+    ]
+  },
+  {
+    "reserved": "OPEN",
+    "recommend": [
+      "unclosed"
+    ]
+  },
+  {
+    "reserved": "OPERATION",
+    "recommend": [
+      "performance"
+    ]
+  },
+  {
+    "reserved": "OPERATOR",
+    "recommend": [
+      "worker"
+    ]
+  },
+  {
+    "reserved": "OPTIMAL",
+    "recommend": [
+      "ideal"
+    ]
+  },
+  {
+    "reserved": "OPTIMIZATION",
+    "recommend": [
+      "idealization"
+    ]
+  },
+  {
+    "reserved": "OPTIMIZE",
+    "recommend": [
+      "idealize"
+    ]
+  },
+  {
+    "reserved": "OPTION",
+    "recommend": [
+      "choice"
+    ]
+  },
+  {
+    "reserved": "OPTIONAL",
+    "recommend": [
+      "selective"
+    ]
+  },
+  {
+    "reserved": "OPTIONALLY",
+    "recommend": [
+      "selectively"
+    ]
+  },
+  {
+    "reserved": "OPTIONS",
+    "recommend": [
+      "choices"
+    ]
+  },
+  {
+    "reserved": "OR",
+    "recommend": [
+      "either"
+    ]
+  },
+  {
+    "reserved": "ORDER",
+    "recommend": [
+      "demand"
+    ]
+  },
+  {
+    "reserved": "orderby",
+    "recommend": [
+      "demandby"
+    ]
+  },
+  {
+    "reserved": "ORDERING",
+    "recommend": [
+      "sorting"
+    ]
+  },
+  {
+    "reserved": "ORGANIZATION",
+    "recommend": [
+      "party"
+    ]
+  },
+  {
+    "reserved": "ORGANIZE",
+    "recommend": [
+      "arrange"
+    ]
+  },
+  {
+    "reserved": "OTHER",
+    "recommend": [
+      "additional"
+    ]
+  },
+  {
+    "reserved": "OTHERS",
+    "recommend": [
+      "additional"
+    ]
+  },
+  {
+    "reserved": "OUT",
+    "recommend": [
+      "outside"
+    ]
+  },
+  {
+    "reserved": "OUTBOUND",
+    "recommend": [
+      "depart"
+    ]
+  },
+  {
+    "reserved": "OUTER",
+    "recommend": [
+      "outside"
+    ]
+  },
+  {
+    "reserved": "OUTPUT",
+    "recommend": [
+      "production"
+    ]
+  },
+  {
+    "reserved": "OUTPUTFORMAT",
+    "recommend": [
+      "outputarrangement"
+    ]
+  },
+  {
+    "reserved": "OVER",
+    "recommend": [
+      "above"
+    ]
+  },
+  {
+    "reserved": "OVERFLOW",
+    "recommend": [
+      "surplus"
+    ]
+  },
+  {
+    "reserved": "OVERHEAD",
+    "recommend": [
+      "above"
+    ]
+  },
+  {
+    "reserved": "OVERLAPS",
+    "recommend": [
+      "overspread"
+    ]
+  },
+  {
+    "reserved": "OVERLAY",
+    "recommend": [
+      "overspread"
+    ]
+  },
+  {
+    "reserved": "OVERRIDE",
+    "recommend": [
+      "overrule"
+    ]
+  },
+  {
+    "reserved": "OVERRIDING",
+    "recommend": [
+      "overruling"
+    ]
+  },
+  {
+    "reserved": "OVERWRITE",
+    "recommend": [
+      "revise"
+    ]
+  },
+  {
+    "reserved": "OWN",
+    "recommend": [
+      "possess"
+    ]
+  },
+  {
+    "reserved": "OWNED",
+    "recommend": [
+      "possessed"
+    ]
+  },
+  {
+    "reserved": "OWNER",
+    "recommend": [
+      "possessor"
+    ]
+  },
+  {
+    "reserved": "OWNERSHIP",
+    "recommend": [
+      "possession"
+    ]
+  }
+]

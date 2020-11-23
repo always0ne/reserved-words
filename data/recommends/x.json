@@ -1,0 +1,152 @@
+[
+  {
+    "reserved": "XMLATTRIBUTES",
+    "recommend": [
+      "xmlproperties"
+    ]
+  },
+  {
+    "reserved": "XMLBINARY",
+    "recommend": [
+      "xmldoubled"
+    ]
+  },
+  {
+    "reserved": "XMLCAST",
+    "recommend": [
+      "xmlformulate"
+    ]
+  },
+  {
+    "reserved": "XMLCOMMENT",
+    "recommend": [
+      "xmlstatement"
+    ]
+  },
+  {
+    "reserved": "XMLDECLARATION",
+    "recommend": [
+      "xmlassertion"
+    ]
+  },
+  {
+    "reserved": "XMLDOCUMENT",
+    "recommend": [
+      "xmlreport"
+    ]
+  },
+  {
+    "reserved": "XMLELEMENT",
+    "recommend": [
+      "xmlcomponent"
+    ]
+  },
+  {
+    "reserved": "XMLEXISTS",
+    "recommend": [
+      "xmllives"
+    ]
+  },
+  {
+    "reserved": "XMLFOREST",
+    "recommend": [
+      "xmlwoods"
+    ]
+  },
+  {
+    "reserved": "XMLGROUP",
+    "recommend": [
+      "xmlset"
+    ]
+  },
+  {
+    "reserved": "XMLITERATE",
+    "recommend": [
+      "xmlrepeat"
+    ]
+  },
+  {
+    "reserved": "XMLNAMESPACES",
+    "recommend": [
+      "xmlnamecapacity"
+    ]
+  },
+  {
+    "reserved": "XMLPARSE",
+    "recommend": [
+      "xmlexplain"
+    ]
+  },
+  {
+    "reserved": "XMLPATTERN",
+    "recommend": [
+      "xmldecoration"
+    ]
+  },
+  {
+    "reserved": "XMLQUERY",
+    "recommend": [
+      "xmlquestion"
+    ]
+  },
+  {
+    "reserved": "XMLROOT",
+    "recommend": [
+      "xmlorigin"
+    ]
+  },
+  {
+    "reserved": "XMLROW",
+    "recommend": [
+      "xmlline"
+    ]
+  },
+  {
+    "reserved": "XMLSCHEMA",
+    "recommend": [
+      "xmlstructure"
+    ]
+  },
+  {
+    "reserved": "XMLSERIALIZE",
+    "recommend": [
+      "xmlstringfy"
+    ]
+  },
+  {
+    "reserved": "XMLTABLE",
+    "recommend": [
+      "xmllist"
+    ]
+  },
+  {
+    "reserved": "XMLTEXT",
+    "recommend": [
+      "xmlwords"
+    ]
+  },
+  {
+    "reserved": "XMLVALIDATE",
+    "recommend": [
+      "xmlconfirm"
+    ]
+  },
+  {
+    "reserved": "XOR",
+    "recommend": [
+      "exclusiveor"
+    ]
+  },
+  {
+    "reserved": "XPATH",
+    "recommend": [
+      "exclusivepath"
+    ]
+  },
+  {
+    "reserved": "XQUERY",
+    "recommend": [
+      "exclusivequery"
+    ]
+  }
+]

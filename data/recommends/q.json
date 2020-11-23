@@ -1,0 +1,86 @@
+[
+  {
+    "reserved": "QUALIFY",
+    "recommend": [
+      "certified"
+    ]
+  },
+  {
+    "reserved": "Quarter",
+    "recommend": [
+      "direction"
+    ]
+  },
+  {
+    "reserved": "QUERY",
+    "recommend": [
+      "asking"
+    ]
+  },
+  {
+    "reserved": "QUERYTAG",
+    "recommend": [
+      "enquerytag"
+    ]
+  },
+  {
+    "reserved": "QUEUE",
+    "recommend": [
+      "succession"
+    ]
+  },
+  {
+    "reserved": "QUEUEDACTIVITIES",
+    "recommend": [
+      "aligned"
+    ]
+  },
+  {
+    "reserved": "QUEUEDCONNECTIONS",
+    "recommend": [
+      "alignedconnections"
+    ]
+  },
+  {
+    "reserved": "QUICK",
+    "recommend": [
+      "rapid"
+    ]
+  },
+  {
+    "reserved": "QUIESCED",
+    "recommend": [
+      "paused"
+    ]
+  },
+  {
+    "reserved": "QUIT",
+    "recommend": [
+      "drop"
+    ]
+  },
+  {
+    "reserved": "QUORUM",
+    "recommend": [
+      "majority"
+    ]
+  },
+  {
+    "reserved": "QUOTA",
+    "recommend": [
+      "allocation"
+    ]
+  },
+  {
+    "reserved": "QUOTE",
+    "recommend": [
+      "cite"
+    ]
+  },
+  {
+    "reserved": "QUOTES",
+    "recommend": [
+      "cites"
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "reserved": "ZEROFILL",
+    "recommend": [
+      "zerofull"
+    ]
+  },
+  {
+    "reserved": "ZONE",
+    "recommend": [
+      "region"
+    ]
+  }
+]

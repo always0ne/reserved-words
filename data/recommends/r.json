@@ -1,0 +1,716 @@
+[
+  {
+    "reserved": "RAISE",
+    "recommend": [
+      "establish"
+    ]
+  },
+  {
+    "reserved": "RAISERROR",
+    "recommend": [
+      "lifterror"
+    ]
+  },
+  {
+    "reserved": "RANDOM",
+    "recommend": [
+      "accidental"
+    ]
+  },
+  {
+    "reserved": "RANGE",
+    "recommend": [
+      "area"
+    ]
+  },
+  {
+    "reserved": "RANK",
+    "recommend": [
+      "tier"
+    ]
+  },
+  {
+    "reserved": "RATE",
+    "recommend": [
+      "grade"
+    ]
+  },
+  {
+    "reserved": "RATIO",
+    "recommend": [
+      "proportion"
+    ]
+  },
+  {
+    "reserved": "RAW",
+    "recommend": [
+      "basic"
+    ]
+  },
+  {
+    "reserved": "READ",
+    "recommend": [
+      "gather"
+    ]
+  },
+  {
+    "reserved": "READONLY",
+    "recommend": [
+      "scanonly"
+    ]
+  },
+  {
+    "reserved": "READS",
+    "recommend": [
+      "scans"
+    ]
+  },
+  {
+    "reserved": "READTEXT",
+    "recommend": [
+      "scantext"
+    ]
+  },
+  {
+    "reserved": "READUP",
+    "recommend": [
+      "scanup"
+    ]
+  },
+  {
+    "reserved": "REAL",
+    "recommend": [
+      "absolute"
+    ]
+  },
+  {
+    "reserved": "REASSIGN",
+    "recommend": [
+      "reallocate"
+    ]
+  },
+  {
+    "reserved": "REBALANCE",
+    "recommend": [
+      "reallocate"
+    ]
+  },
+  {
+    "reserved": "REBUILD",
+    "recommend": [
+      "buildup"
+    ]
+  },
+  {
+    "reserved": "RECHECK",
+    "recommend": [
+      "amend"
+    ]
+  },
+  {
+    "reserved": "RECIPE",
+    "recommend": [
+      "method"
+    ]
+  },
+  {
+    "reserved": "RECOMMEND",
+    "recommend": [
+      "advocate"
+    ]
+  },
+  {
+    "reserved": "RECONFIGURE",
+    "recommend": [
+      "rearrange"
+    ]
+  },
+  {
+    "reserved": "RECORD",
+    "recommend": [
+      "post"
+    ]
+  },
+  {
+    "reserved": "RECORDREADER",
+    "recommend": [
+      "postreader"
+    ]
+  },
+  {
+    "reserved": "RECORDWRITER",
+    "recommend": [
+      "postwriter"
+    ]
+  },
+  {
+    "reserved": "RECOVER",
+    "recommend": [
+      "regain"
+    ]
+  },
+  {
+    "reserved": "RECOVERABLE",
+    "recommend": [
+      "improvable"
+    ]
+  },
+  {
+    "reserved": "RECOVERY",
+    "recommend": [
+      "imporvement"
+    ]
+  },
+  {
+    "reserved": "RECREATE",
+    "recommend": [
+      "cheer"
+    ]
+  },
+  {
+    "reserved": "RECURSIVE",
+    "recommend": [
+      "circular"
+    ]
+  },
+  {
+    "reserved": "REDIRECT",
+    "recommend": [
+      "avert"
+    ]
+  },
+  {
+    "reserved": "REDOFILE",
+    "recommend": [
+      "redolog"
+    ]
+  },
+  {
+    "reserved": "REDUCE",
+    "recommend": [
+      "cutdown"
+    ]
+  },
+  {
+    "reserved": "REDUNDANT",
+    "recommend": [
+      "unnecessary"
+    ]
+  },
+  {
+    "reserved": "REF",
+    "recommend": [
+      "mention"
+    ]
+  },
+  {
+    "reserved": "REFERENCE",
+    "recommend": [
+      "mention"
+    ]
+  },
+  {
+    "reserved": "REFERENCES",
+    "recommend": [
+      "mentions"
+    ]
+  },
+  {
+    "reserved": "REFERENCING",
+    "recommend": [
+      "mention"
+    ]
+  },
+  {
+    "reserved": "REFRESH",
+    "recommend": [
+      "stimulate"
+    ]
+  },
+  {
+    "reserved": "REGION",
+    "recommend": [
+      "district"
+    ]
+  },
+  {
+    "reserved": "register",
+    "recommend": [
+      "registry"
+    ]
+  },
+  {
+    "reserved": "REGISTERS",
+    "recommend": [
+      "registries"
+    ]
+  },
+  {
+    "reserved": "REGULAR",
+    "recommend": [
+      "formal"
+    ]
+  },
+  {
+    "reserved": "REINDEX",
+    "recommend": [
+      "reclassify"
+    ]
+  },
+  {
+    "reserved": "REJECT",
+    "recommend": [
+      "deny"
+    ]
+  },
+  {
+    "reserved": "RELATIVE",
+    "recommend": [
+      "corresponding"
+    ]
+  },
+  {
+    "reserved": "RELAY",
+    "recommend": [
+      "carry"
+    ]
+  },
+  {
+    "reserved": "RELAYLOG",
+    "recommend": [
+      "deliverlog"
+    ]
+  },
+  {
+    "reserved": "RELEASE",
+    "recommend": [
+      "clear"
+    ]
+  },
+  {
+    "reserved": "RELOAD",
+    "recommend": [
+      "restock"
+    ]
+  },
+  {
+    "reserved": "RELY",
+    "recommend": [
+      "await"
+    ]
+  },
+  {
+    "reserved": "REMAIN",
+    "recommend": [
+      "continue"
+    ]
+  },
+  {
+    "reserved": "REMAINDER",
+    "recommend": [
+      "rest"
+    ]
+  },
+  {
+    "reserved": "REMAP",
+    "recommend": [
+      "rework"
+    ]
+  },
+  {
+    "reserved": "REMOTE",
+    "recommend": [
+      "distant"
+    ]
+  },
+  {
+    "reserved": "REMOVE",
+    "recommend": [
+      "discard"
+    ]
+  },
+  {
+    "reserved": "RENAME",
+    "recommend": [
+      "retitle"
+    ]
+  },
+  {
+    "reserved": "REORGANIZE",
+    "recommend": [
+      "reconstruct"
+    ]
+  },
+  {
+    "reserved": "REPAIR",
+    "recommend": [
+      "correct"
+    ]
+  },
+  {
+    "reserved": "REPEAT",
+    "recommend": [
+      "echo"
+    ]
+  },
+  {
+    "reserved": "REPEATABLE",
+    "recommend": [
+      "imitable"
+    ]
+  },
+  {
+    "reserved": "REPLACE",
+    "recommend": [
+      "change"
+    ]
+  },
+  {
+    "reserved": "REPLICA",
+    "recommend": [
+      "clone"
+    ]
+  },
+  {
+    "reserved": "REPLICAS",
+    "recommend": [
+      "clones"
+    ]
+  },
+  {
+    "reserved": "REPLICATED",
+    "recommend": [
+      "cloned"
+    ]
+  },
+  {
+    "reserved": "REPLICATION",
+    "recommend": [
+      "cloning"
+    ]
+  },
+  {
+    "reserved": "REQUEST",
+    "recommend": [
+      "demand"
+    ]
+  },
+  {
+    "reserved": "REQUIRE",
+    "recommend": [
+      "lack"
+    ]
+  },
+  {
+    "reserved": "requires",
+    "recommend": [
+      "lacks"
+    ]
+  },
+  {
+    "reserved": "REQUIRING",
+    "recommend": [
+      "lacked"
+    ]
+  },
+  {
+    "reserved": "RESET",
+    "recommend": [
+      "emigrate"
+    ]
+  },
+  {
+    "reserved": "RESETLOGS",
+    "recommend": [
+      "emigrationlogs"
+    ]
+  },
+  {
+    "reserved": "RESIDENT",
+    "recommend": [
+      "inhabitant"
+    ]
+  },
+  {
+    "reserved": "RESIGNAL",
+    "recommend": [
+      "rewarning"
+    ]
+  },
+  {
+    "reserved": "RESIZE",
+    "recommend": [
+      "rescale"
+    ]
+  },
+  {
+    "reserved": "RESOLVE",
+    "recommend": [
+      "will"
+    ]
+  },
+  {
+    "reserved": "RESOURCE",
+    "recommend": [
+      "property"
+    ]
+  },
+  {
+    "reserved": "RESPECT",
+    "recommend": [
+      "regard"
+    ]
+  },
+  {
+    "reserved": "RESPONSE",
+    "recommend": [
+      "reply"
+    ]
+  },
+  {
+    "reserved": "RESTART",
+    "recommend": [
+      "continue"
+    ]
+  },
+  {
+    "reserved": "RESTORE",
+    "recommend": [
+      "improve"
+    ]
+  },
+  {
+    "reserved": "RESTRICT",
+    "recommend": [
+      "block"
+    ]
+  },
+  {
+    "reserved": "RESTRICTED",
+    "recommend": [
+      "blocked"
+    ]
+  },
+  {
+    "reserved": "RESULT",
+    "recommend": [
+      "outcome"
+    ]
+  },
+  {
+    "reserved": "RESUME",
+    "recommend": [
+      "continue"
+    ]
+  },
+  {
+    "reserved": "RETAIN",
+    "recommend": [
+      "maintain"
+    ]
+  },
+  {
+    "reserved": "RETURN",
+    "recommend": [
+      "payback"
+    ]
+  },
+  {
+    "reserved": "RETURNING",
+    "recommend": [
+      "payingback"
+    ]
+  },
+  {
+    "reserved": "RETURNS",
+    "recommend": [
+      "paysback"
+    ]
+  },
+  {
+    "reserved": "REUSE",
+    "recommend": [
+      "restate"
+    ]
+  },
+  {
+    "reserved": "REVERSE",
+    "recommend": [
+      "overturn"
+    ]
+  },
+  {
+    "reserved": "REVERT",
+    "recommend": [
+      "degenerate"
+    ]
+  },
+  {
+    "reserved": "REVOKE",
+    "recommend": [
+      "abolish"
+    ]
+  },
+  {
+    "reserved": "REWRITE",
+    "recommend": [
+      "edit"
+    ]
+  },
+  {
+    "reserved": "RID",
+    "recommend": [
+      "eliminate"
+    ]
+  },
+  {
+    "reserved": "RIGHT",
+    "recommend": [
+      "adjust"
+    ]
+  },
+  {
+    "reserved": "ROLE",
+    "recommend": [
+      "act"
+    ]
+  },
+  {
+    "reserved": "ROLES",
+    "recommend": [
+      "acts"
+    ]
+  },
+  {
+    "reserved": "ROLLBACK",
+    "recommend": [
+      "cutback"
+    ]
+  },
+  {
+    "reserved": "ROLLOUT",
+    "recommend": [
+      "release"
+    ]
+  },
+  {
+    "reserved": "ROLLUP",
+    "recommend": [
+      "turnup"
+    ]
+  },
+  {
+    "reserved": "ROOT",
+    "recommend": [
+      "foundation"
+    ]
+  },
+  {
+    "reserved": "ROTATE",
+    "recommend": [
+      "pivote"
+    ]
+  },
+  {
+    "reserved": "ROUNDING",
+    "recommend": [
+      "spin"
+    ]
+  },
+  {
+    "reserved": "ROUTINE",
+    "recommend": [
+      "regular"
+    ]
+  },
+  {
+    "reserved": "ROUTINES",
+    "recommend": [
+      "cycle"
+    ]
+  },
+  {
+    "reserved": "ROW",
+    "recommend": [
+      "line"
+    ]
+  },
+  {
+    "reserved": "ROWCOUNT",
+    "recommend": [
+      "linecount"
+    ]
+  },
+  {
+    "reserved": "ROWGUIDCOL",
+    "recommend": [
+      "lineguidcol"
+    ]
+  },
+  {
+    "reserved": "ROWID",
+    "recommend": [
+      "lineid"
+    ]
+  },
+  {
+    "reserved": "ROWLABEL",
+    "recommend": [
+      "linelabel"
+    ]
+  },
+  {
+    "reserved": "ROWNUM",
+    "recommend": [
+      "linenum"
+    ]
+  },
+  {
+    "reserved": "ROWNUMBER",
+    "recommend": [
+      "linenumber"
+    ]
+  },
+  {
+    "reserved": "ROWS",
+    "recommend": [
+      "lines"
+    ]
+  },
+  {
+    "reserved": "ROWSET",
+    "recommend": [
+      "lineset"
+    ]
+  },
+  {
+    "reserved": "ROWTYPE",
+    "recommend": [
+      "linetype"
+    ]
+  },
+  {
+    "reserved": "RULE",
+    "recommend": [
+      "guideline"
+    ]
+  },
+  {
+    "reserved": "RULES",
+    "recommend": [
+      "guidelines"
+    ]
+  },
+  {
+    "reserved": "RUN",
+    "recommend": [
+      "activate"
+    ]
+  },
+  {
+    "reserved": "RUNNING",
+    "recommend": [
+      "activation"
+    ]
+  }
+]

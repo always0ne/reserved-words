@@ -1,0 +1,476 @@
+[
+  {
+    "reserved": "EACH",
+    "recommend": [
+      "individual"
+    ]
+  },
+  {
+    "reserved": "EDITPROC",
+    "recommend": [
+      "editProcedure"
+    ]
+  },
+  {
+    "reserved": "elif",
+    "recommend": [
+      "elsIf"
+    ]
+  },
+  {
+    "reserved": "ELSE",
+    "recommend": [
+      "els"
+    ]
+  },
+  {
+    "reserved": "elsee",
+    "recommend": [
+      "els"
+    ]
+  },
+  {
+    "reserved": "ELSEIF",
+    "recommend": [
+      "els"
+    ]
+  },
+  {
+    "reserved": "EMPTY",
+    "recommend": [
+      "nothing"
+    ]
+  },
+  {
+    "reserved": "ENABLE",
+    "recommend": [
+      "empower"
+    ]
+  },
+  {
+    "reserved": "ENABLED",
+    "recommend": [
+      "empowered"
+    ]
+  },
+  {
+    "reserved": "ENCLOSED",
+    "recommend": [
+      "packed"
+    ]
+  },
+  {
+    "reserved": "ENCODING",
+    "recommend": [
+      "packing"
+    ]
+  },
+  {
+    "reserved": "ENCRYPTED",
+    "recommend": [
+      "encoded"
+    ]
+  },
+  {
+    "reserved": "ENCRYPTION",
+    "recommend": [
+      "encode"
+    ]
+  },
+  {
+    "reserved": "END",
+    "recommend": [
+      "fin"
+    ]
+  },
+  {
+    "reserved": "END-EXEC",
+    "recommend": [
+      "fin-exec"
+    ]
+  },
+  {
+    "reserved": "ENDING",
+    "recommend": [
+      "finishing"
+    ]
+  },
+  {
+    "reserved": "ENDS",
+    "recommend": [
+      "endings"
+    ]
+  },
+  {
+    "reserved": "ENFORCE",
+    "recommend": [
+      "carryOut"
+    ]
+  },
+  {
+    "reserved": "ENFORCED",
+    "recommend": [
+      "carriedOut"
+    ]
+  },
+  {
+    "reserved": "ENFORCEMENT",
+    "recommend": [
+      "carryOut"
+    ]
+  },
+  {
+    "reserved": "ENTRY",
+    "recommend": [
+      "entrance"
+    ]
+  },
+  {
+    "reserved": "ENUM",
+    "recommend": [
+      "varNum"
+    ]
+  },
+  {
+    "reserved": "ENVIRONMENT",
+    "recommend": [
+      "circumstance"
+    ]
+  },
+  {
+    "reserved": "EQUAL",
+    "recommend": [
+      "identical"
+    ]
+  },
+  {
+    "reserved": "EQUALS",
+    "recommend": [
+      "identicals"
+    ]
+  },
+  {
+    "reserved": "ERASE",
+    "recommend": [
+      "wipeOut"
+    ]
+  },
+  {
+    "reserved": "ERRLVL",
+    "recommend": [
+      "recoverableErr"
+    ]
+  },
+  {
+    "reserved": "ERROR",
+    "recommend": [
+      "err"
+    ]
+  },
+  {
+    "reserved": "ERRORS",
+    "recommend": [
+      "errs"
+    ]
+  },
+  {
+    "reserved": "ESCALATION",
+    "recommend": [
+      "advance"
+    ]
+  },
+  {
+    "reserved": "ESCAPE",
+    "recommend": [
+      "flee"
+    ]
+  },
+  {
+    "reserved": "ESCAPED",
+    "recommend": [
+      "fleed"
+    ]
+  },
+  {
+    "reserved": "ESTIMATE",
+    "recommend": [
+      "guess"
+    ]
+  },
+  {
+    "reserved": "ESTIMATEDCOST",
+    "recommend": [
+      "guessingcost"
+    ]
+  },
+  {
+    "reserved": "ESTIMATEDSQLCOST",
+    "recommend": [
+      "guessingSQLCost"
+    ]
+  },
+  {
+    "reserved": "EVAL",
+    "recommend": [
+      "assess"
+    ]
+  },
+  {
+    "reserved": "EVALUATE",
+    "recommend": [
+      "assess"
+    ]
+  },
+  {
+    "reserved": "EVENT",
+    "recommend": [
+      "incident"
+    ]
+  },
+  {
+    "reserved": "EVENTS",
+    "recommend": [
+      "incidents"
+    ]
+  },
+  {
+    "reserved": "EVERY",
+    "recommend": [
+      "individual"
+    ]
+  },
+  {
+    "reserved": "EXACT",
+    "recommend": [
+      "accurate"
+    ]
+  },
+  {
+    "reserved": "EXCEEDED",
+    "recommend": [
+      "surpassed"
+    ]
+  },
+  {
+    "reserved": "EXCEPT",
+    "recommend": [
+      "apartFrom"
+    ]
+  },
+  {
+    "reserved": "EXCEPTION",
+    "recommend": [
+      "deviation"
+    ]
+  },
+  {
+    "reserved": "EXCEPTIONS",
+    "recommend": [
+      "deviations"
+    ]
+  },
+  {
+    "reserved": "EXCHANGE",
+    "recommend": [
+      "trade"
+    ]
+  },
+  {
+    "reserved": "EXCLUDE",
+    "recommend": [
+      "forbid"
+    ]
+  },
+  {
+    "reserved": "EXCLUDES",
+    "recommend": [
+      "forbids"
+    ]
+  },
+  {
+    "reserved": "EXCLUDING",
+    "recommend": [
+      "forbidding"
+    ]
+  },
+  {
+    "reserved": "EXCLUSIVE",
+    "recommend": [
+      "forbidden"
+    ]
+  },
+  {
+    "reserved": "EXEC",
+    "recommend": [
+      "carryOut"
+    ]
+  },
+  {
+    "reserved": "EXECNODE",
+    "recommend": [
+      "carryOutNode"
+    ]
+  },
+  {
+    "reserved": "EXECUTE",
+    "recommend": [
+      "carryOut"
+    ]
+  },
+  {
+    "reserved": "EXECUTETIME",
+    "recommend": [
+      "carryOutTime"
+    ]
+  },
+  {
+    "reserved": "EXECUTION",
+    "recommend": [
+      "carryOut"
+    ]
+  },
+  {
+    "reserved": "EXEMPTION",
+    "recommend": [
+      "exclusion"
+    ]
+  },
+  {
+    "reserved": "EXISTING",
+    "recommend": [
+      "lasting"
+    ]
+  },
+  {
+    "reserved": "EXISTS",
+    "recommend": [
+      "lasts"
+    ]
+  },
+  {
+    "reserved": "EXIT",
+    "recommend": [
+      "wayOut"
+    ]
+  },
+  {
+    "reserved": "EXP",
+    "recommend": [
+      "expir"
+    ]
+  },
+  {
+    "reserved": "EXPAND",
+    "recommend": [
+      "grow"
+    ]
+  },
+  {
+    "reserved": "EXPANSION",
+    "recommend": [
+      "growth"
+    ]
+  },
+  {
+    "reserved": "EXPIRE",
+    "recommend": [
+      "expir"
+    ]
+  },
+  {
+    "reserved": "EXPLAIN",
+    "recommend": [
+      "report"
+    ]
+  },
+  {
+    "reserved": "explicit",
+    "recommend": [
+      "obvious"
+    ]
+  },
+  {
+    "reserved": "EXPLODE",
+    "recommend": [
+      "erupt"
+    ]
+  },
+  {
+    "reserved": "EXPORT",
+    "recommend": [
+      "upload"
+    ]
+  },
+  {
+    "reserved": "EXPRESSION",
+    "recommend": [
+      "declaration"
+    ]
+  },
+  {
+    "reserved": "EXTEND",
+    "recommend": [
+      "grow"
+    ]
+  },
+  {
+    "reserved": "EXTENDED",
+    "recommend": [
+      "grown"
+    ]
+  },
+  {
+    "reserved": "extends",
+    "recommend": [
+      "grows"
+    ]
+  },
+  {
+    "reserved": "EXTENSION",
+    "recommend": [
+      "growth"
+    ]
+  },
+  {
+    "reserved": "EXTENT",
+    "recommend": [
+      "growth"
+    ]
+  },
+  {
+    "reserved": "EXTENTS",
+    "recommend": [
+      "growths"
+    ]
+  },
+  {
+    "reserved": "EXTENTSIZE",
+    "recommend": [
+      "growthSize"
+    ]
+  },
+  {
+    "reserved": "extern",
+    "recommend": [
+      "outside"
+    ]
+  },
+  {
+    "reserved": "EXTERNAL",
+    "recommend": [
+      "outside"
+    ]
+  },
+  {
+    "reserved": "EXTERNALLY",
+    "recommend": [
+      "outside"
+    ]
+  },
+  {
+    "reserved": "EXTRACT",
+    "recommend": [
+      "takeOut"
+    ]
+  }
+]

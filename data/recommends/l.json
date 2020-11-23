@@ -1,0 +1,363 @@
+[
+  {
+    "reserved": "LABEL",
+    "recommend": [
+      "tag"
+    ]
+  },
+  {
+    "reserved": "LAG",
+    "recommend": [
+      "linger"
+    ]
+  },
+  {
+    "reserved": "LANCOMPILER",
+    "recommend": [
+      "languagecomp"
+    ]
+  },
+  {
+    "reserved": "LANGUAGE",
+    "recommend": [
+      "tongue"
+    ]
+  },
+  {
+    "reserved": "LARGE",
+    "recommend": [
+      "broad"
+    ]
+  },
+  {
+    "reserved": "LAST",
+    "recommend": [
+      "rearmost"
+    ]
+  },
+  {
+    "reserved": "LATERAL",
+    "recommend": [
+      "side"
+    ]
+  },
+  {
+    "reserved": "LAYER",
+    "recommend": [
+      "tier"
+    ]
+  },
+  {
+    "reserved": "LEAD",
+    "recommend": [
+      "steer"
+    ]
+  },
+  {
+    "reserved": "LEADING",
+    "recommend": [
+      "principal"
+    ]
+  },
+  {
+    "reserved": "LEAKPROOF",
+    "recommend": [
+      "leakless"
+    ]
+  },
+  {
+    "reserved": "LEAST",
+    "recommend": [
+      "smallest"
+    ]
+  },
+  {
+    "reserved": "LEAVE",
+    "recommend": [
+      "flee"
+    ]
+  },
+  {
+    "reserved": "LEAVES",
+    "recommend": [
+      "flees"
+    ]
+  },
+  {
+    "reserved": "LEFT",
+    "recommend": [
+      "south"
+    ]
+  },
+  {
+    "reserved": "LENGTH",
+    "recommend": [
+      "len"
+    ]
+  },
+  {
+    "reserved": "LESS",
+    "recommend": [
+      "fewer"
+    ]
+  },
+  {
+    "reserved": "let",
+    "recommend": [
+      "permit"
+    ]
+  },
+  {
+    "reserved": "LEVEL",
+    "recommend": [
+      "standart"
+    ]
+  },
+  {
+    "reserved": "LI",
+    "recommend": [
+      "catalogue"
+    ]
+  },
+  {
+    "reserved": "LIBRARY",
+    "recommend": [
+      "bookbank"
+    ]
+  },
+  {
+    "reserved": "LIFETIME",
+    "recommend": [
+      "existence"
+    ]
+  },
+  {
+    "reserved": "LIKE",
+    "recommend": [
+      "alike"
+    ]
+  },
+  {
+    "reserved": "LIMIT",
+    "recommend": [
+      "restrict"
+    ]
+  },
+  {
+    "reserved": "LIMITED",
+    "recommend": [
+      "restricted"
+    ]
+  },
+  {
+    "reserved": "LINEAR",
+    "recommend": [
+      "course"
+    ]
+  },
+  {
+    "reserved": "LINENO",
+    "recommend": [
+      "linenumber"
+    ]
+  },
+  {
+    "reserved": "LINES",
+    "recommend": [
+      "strokes"
+    ]
+  },
+  {
+    "reserved": "LINK",
+    "recommend": [
+      "relationship"
+    ]
+  },
+  {
+    "reserved": "LINKTYPE",
+    "recommend": [
+      "linksort"
+    ]
+  },
+  {
+    "reserved": "LIST",
+    "recommend": [
+      "listing"
+    ]
+  },
+  {
+    "reserved": "LISTEN",
+    "recommend": [
+      "hear"
+    ]
+  },
+  {
+    "reserved": "LISTS",
+    "recommend": [
+      "listings"
+    ]
+  },
+  {
+    "reserved": "LOAD",
+    "recommend": [
+      "fill"
+    ]
+  },
+  {
+    "reserved": "LOB",
+    "recommend": [
+      "toss"
+    ]
+  },
+  {
+    "reserved": "LOCAL",
+    "recommend": [
+      "regional"
+    ]
+  },
+  {
+    "reserved": "LOCALE",
+    "recommend": [
+      "site"
+    ]
+  },
+  {
+    "reserved": "LOCALTIME",
+    "recommend": [
+      "apparenttime"
+    ]
+  },
+  {
+    "reserved": "LOCALTIMESTAMP",
+    "recommend": [
+      "apparenttimestamp"
+    ]
+  },
+  {
+    "reserved": "LOCATION",
+    "recommend": [
+      "place",
+      "situation"
+    ]
+  },
+  {
+    "reserved": "LOCATOR",
+    "recommend": [
+      "discoverer"
+    ]
+  },
+  {
+    "reserved": "LOCATORS",
+    "recommend": [
+      "discoverers"
+    ]
+  },
+  {
+    "reserved": "LOCK",
+    "recommend": [
+      "fasten"
+    ]
+  },
+  {
+    "reserved": "LOCKED",
+    "recommend": [
+      "fastened"
+    ]
+  },
+  {
+    "reserved": "LOCKING",
+    "recommend": [
+      "fastening"
+    ]
+  },
+  {
+    "reserved": "LOCKMAX",
+    "recommend": [
+      "fastenmax"
+    ]
+  },
+  {
+    "reserved": "LOCKS",
+    "recommend": [
+      "fastens"
+    ]
+  },
+  {
+    "reserved": "LOCKSIZE",
+    "recommend": [
+      "fastensize"
+    ]
+  },
+  {
+    "reserved": "LOG",
+    "recommend": [
+      "journal"
+    ]
+  },
+  {
+    "reserved": "LOGFILE",
+    "recommend": [
+      "journalfile"
+    ]
+  },
+  {
+    "reserved": "LOGGED",
+    "recommend": [
+      "dull"
+    ]
+  },
+  {
+    "reserved": "LOGGING",
+    "recommend": [
+      "chronicle"
+    ]
+  },
+  {
+    "reserved": "LOGICAL",
+    "recommend": [
+      "coherent"
+    ]
+  },
+  {
+    "reserved": "LOGIN",
+    "recommend": [
+      "signin"
+    ]
+  },
+  {
+    "reserved": "LOGS",
+    "recommend": [
+      "records"
+    ]
+  },
+  {
+    "reserved": "LongText",
+    "recommend": [
+      "longcontents"
+    ]
+  },
+  {
+    "reserved": "LONGVAR",
+    "recommend": [
+      "longvariable"
+    ]
+  },
+  {
+    "reserved": "LOOP",
+    "recommend": [
+      "circle"
+    ]
+  },
+  {
+    "reserved": "LOW",
+    "recommend": [
+      "small"
+    ]
+  },
+  {
+    "reserved": "LOWER",
+    "recommend": [
+      "subordinate"
+    ]
+  }
+]
