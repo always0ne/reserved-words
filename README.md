@@ -9,14 +9,15 @@
 2. Enter the variable name you want to use
 3. If the variable name cannot be used, consider "recommended variable"
 ### Get system's reserved words
-**Go to https://always0ne.github.io/reserved-words/data/{system}/{category}/{version}.json**
+**Go to https://always0ne.github.io/reserved-words/data/{category}/{system}/{version}.json**
 ##### system
 DB, Language, Service
 ##### category& versions
-**See https://always0ne.github.io/reserved-words/data/{system}/versions.json**
+**See https://always0ne.github.io/reserved-words/data/{category}/versions.json**
 
 ## Contributing
-I am looking for someone to help with this project. Please advise and point out.  
+We are looking for someone to help with this project and we are working hard to make sure you don't have a hard time contributing.
+Adding data is also a pretty good contribution. Please contribute to this project!
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 

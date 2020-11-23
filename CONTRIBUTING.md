@@ -11,12 +11,24 @@ We have some rules to contribute this project
 * [Developer's Certificate of Origin 1.1](#developers-certificate-of-origin)
 
 ## How To Contribute
+### start our project
+```shell script
+> yarn install
+> yarn start
+```
 ### add data
 If you want to add data, you have to follow the rules below.
-1. add data
-    - ex) `/public/DB/mysql/9.0.json`
-2. add version data
-    - ex) add data on `/public/DB/mysql/versions.json`
+#### want to add new version
+1. add data  
+    We manage reserved words under `/public/data/{category}/{system}/{version}.json`
+    - ex) add data  `/public/DB/mysql/9.0.json`
+2. add version data  
+    We manage version data under `/public/data/{category}/versions.json`
+    - ex) add data on `/public/DB/versions.json`
+#### want to add new recommends
+1. add data  
+    We manage reserved words alphabetically under `/public/data/recommends/`.
+    - ex) add data on `/public/data/recommends/a.json`
 ### commit
 - Must Follow commit Template  
 (Need to set `git config --local commit.template .github/.gitmessage.txt` on your local)
