@@ -5,10 +5,10 @@ import './css/Recommend.css';
 const Recommend = (props) => {
     const [dictionary, setDictionary] = useState([]);
     useEffect(() => {
-        fetch(process.env.PUBLIC_URL + '/data/csvjson.json')
+        fetch(process.env.PUBLIC_URL + '/data/recommends/'+props.searchString[0].toLowerCase()+'.json')
             .then(response => response.json())
             .then(data => setDictionary(data));
-    }, []);
+    }, [props.searchString]);
 
     const recommendWords = () => {
         if (props.usable === false) {

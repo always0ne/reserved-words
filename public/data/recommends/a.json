@@ -1,0 +1,587 @@
+[
+  {
+    "reserved": "ADD",
+    "recommend": [
+      "plus",
+      "cnt"
+    ]
+  },
+  {
+    "reserved": "ABORT",
+    "recommend": [
+      "halt",
+      "breakOff"
+    ]
+  },
+  {
+    "reserved": "ABS",
+    "recommend": [
+      "pure",
+      "utter"
+    ]
+  },
+  {
+    "reserved": "ABSENT",
+    "recommend": [
+      "away",
+      "elsewhere"
+    ]
+  },
+  {
+    "reserved": "ABSOLUTE",
+    "recommend": [
+      "pure",
+      "utter"
+    ]
+  },
+  {
+    "reserved": "abstract",
+    "recommend": [
+      "nonconcrete",
+      "indefinite"
+    ]
+  },
+  {
+    "reserved": "ACCEPT",
+    "recommend": [
+      "agree",
+      "obtain"
+    ]
+  },
+  {
+    "reserved": "ACCESIBLE",
+    "recommend": [
+      "reachable",
+      "attainable"
+    ]
+  },
+  {
+    "reserved": "ACCESS",
+    "recommend": [
+      "reach",
+      "attain"
+    ]
+  },
+  {
+    "reserved": "ACCESSCTRL",
+    "recommend": [
+      "accesscontrol",
+      "accessmanage"
+    ]
+  },
+  {
+    "reserved": "ACCESSIBLE",
+    "recommend": [
+      "reachable",
+      "attainable"
+    ]
+  },
+  {
+    "reserved": "ACCORDING",
+    "recommend": [
+      "confer",
+      "bestow"
+    ]
+  },
+  {
+    "reserved": "ACCOUNT",
+    "recommend": [
+      "id",
+      "acc"
+    ]
+  },
+  {
+    "reserved": "ACCTNG",
+    "recommend": [
+      "accounting"
+    ]
+  },
+  {
+    "reserved": "ACOS",
+    "recommend": [
+      "acosine"
+    ]
+  },
+  {
+    "reserved": "ACTION",
+    "recommend": [
+      "acting"
+    ]
+  },
+  {
+    "reserved": "ACTIVATE",
+    "recommend": [
+      "act"
+    ]
+  },
+  {
+    "reserved": "ACTIVE",
+    "recommend": [
+      "alive",
+      "effective"
+    ]
+  },
+  {
+    "reserved": "ACTIVITIES",
+    "recommend": [
+      "actings"
+    ]
+  },
+  {
+    "reserved": "ACTIVITY",
+    "recommend": [
+      "acting"
+    ]
+  },
+  {
+    "reserved": "ACTIVITYSTMT",
+    "recommend": [
+      "eventMoniterTable"
+    ]
+  },
+  {
+    "reserved": "ACTIVITYTOTALTIME",
+    "recommend": [
+      "activityWholeTime"
+    ]
+  },
+  {
+    "reserved": "ACTIVITYVALS",
+    "recommend": [
+      "eventMoniterTable"
+    ]
+  },
+  {
+    "reserved": "ADA",
+    "recommend": [
+      "adaDb"
+    ]
+  },
+  {
+    "reserved": "ADMIN",
+    "recommend": [
+      "govern"
+    ]
+  },
+  {
+    "reserved": "ADMINISTRATION",
+    "recommend": [
+      "government"
+    ]
+  },
+  {
+    "reserved": "ADVISE",
+    "recommend": [
+      "offer"
+    ]
+  },
+  {
+    "reserved": "AFTER",
+    "recommend": [
+      "afterward",
+      "later"
+    ]
+  },
+  {
+    "reserved": "AGAINST",
+    "recommend": [
+      "opposing"
+    ]
+  },
+  {
+    "reserved": "AGE",
+    "recommend": [
+      "ag"
+    ]
+  },
+  {
+    "reserved": "AGENT",
+    "recommend": [
+      "actor"
+    ]
+  },
+  {
+    "reserved": "AGGREGATE",
+    "recommend": [
+      "totalResult"
+    ]
+  },
+  {
+    "reserved": "AGGSQLTEMPSPACE",
+    "recommend": [
+      "availableSpace"
+    ]
+  },
+  {
+    "reserved": "ALGORITHM",
+    "recommend": [
+      "problem"
+    ]
+  },
+  {
+    "reserved": "ALIAS",
+    "recommend": [
+      "nickname"
+    ]
+  },
+  {
+    "reserved": "alignas",
+    "recommend": [
+      "alignOption"
+    ]
+  },
+  {
+    "reserved": "alignof",
+    "recommend": [
+      "setAlign"
+    ]
+  },
+  {
+    "reserved": "ALL",
+    "recommend": [
+      "whole"
+    ]
+  },
+  {
+    "reserved": "ALLOCATE",
+    "recommend": [
+      "everything"
+    ]
+  },
+  {
+    "reserved": "ALLOW",
+    "recommend": [
+      "permit"
+    ]
+  },
+  {
+    "reserved": "ALSO",
+    "recommend": [
+      "plus"
+    ]
+  },
+  {
+    "reserved": "ALTER",
+    "recommend": [
+      "chng"
+    ]
+  },
+  {
+    "reserved": "ALTERIN",
+    "recommend": [
+      "alterOption"
+    ]
+  },
+  {
+    "reserved": "ALWAYS",
+    "recommend": [
+      "constantly"
+    ]
+  },
+  {
+    "reserved": "ANALYSE",
+    "recommend": [
+      "investigate"
+    ]
+  },
+  {
+    "reserved": "ANALYZE",
+    "recommend": [
+      "investigate"
+    ]
+  },
+  {
+    "reserved": "ANCHOR",
+    "recommend": [
+      "dock"
+    ]
+  },
+  {
+    "reserved": "AND",
+    "recommend": [
+      "plus"
+    ]
+  },
+  {
+    "reserved": "ANY",
+    "recommend": [
+      "anything"
+    ]
+  },
+  {
+    "reserved": "APPEND",
+    "recommend": [
+      "affix"
+    ]
+  },
+  {
+    "reserved": "APPLICATION",
+    "recommend": [
+      "app"
+    ]
+  },
+  {
+    "reserved": "APPLNAME",
+    "recommend": [
+      "appName"
+    ]
+  },
+  {
+    "reserved": "APPROXIMATION",
+    "recommend": [
+      "about"
+    ]
+  },
+  {
+    "reserved": "APREUSE",
+    "recommend": [
+      "reusable"
+    ]
+  },
+  {
+    "reserved": "ARCHIVE",
+    "recommend": [
+      "accomplish"
+    ]
+  },
+  {
+    "reserved": "ARCHIVELOG",
+    "recommend": [
+      "fileLog"
+    ]
+  },
+  {
+    "reserved": "ARE",
+    "recommend": [
+      "be"
+    ]
+  },
+  {
+    "reserved": "arguments",
+    "recommend": [
+      "args"
+    ]
+  },
+  {
+    "reserved": "ARRAY",
+    "recommend": [
+      "arr"
+    ]
+  },
+  {
+    "reserved": "ARRAYLEN",
+    "recommend": [
+      "arrlen"
+    ]
+  },
+  {
+    "reserved": "AS",
+    "recommend": [
+      "aka"
+    ]
+  },
+  {
+    "reserved": "ASC",
+    "recommend": [
+      "ascend"
+    ]
+  },
+  {
+    "reserved": "ascending",
+    "recommend": [
+      "ascend"
+    ]
+  },
+  {
+    "reserved": "ASCII",
+    "recommend": [
+      "asciiCode"
+    ]
+  },
+  {
+    "reserved": "ASENSITIVE",
+    "recommend": [
+      "dataCursor"
+    ]
+  },
+  {
+    "reserved": "ASIN",
+    "recommend": [
+      "aSine"
+    ]
+  },
+  {
+    "reserved": "asm",
+    "recommend": [
+      "autoStorageMan"
+    ]
+  },
+  {
+    "reserved": "ASSERT",
+    "recommend": [
+      "add"
+    ]
+  },
+  {
+    "reserved": "ASSERTION",
+    "recommend": [
+      "adding"
+    ]
+  },
+  {
+    "reserved": "ASSIGN",
+    "recommend": [
+      "alloc"
+    ]
+  },
+  {
+    "reserved": "ASSIGNMENT",
+    "recommend": [
+      "alloc"
+    ]
+  },
+  {
+    "reserved": "ASSOCIATE",
+    "recommend": [
+      "relate"
+    ]
+  },
+  {
+    "reserved": "AST",
+    "recommend": [
+      "asterisk"
+    ]
+  },
+  {
+    "reserved": "ASUTIME",
+    "recommend": [
+      "asuClock"
+    ]
+  },
+  {
+    "reserved": "ASYMMETRIC",
+    "recommend": [
+      "unbalance"
+    ]
+  },
+  {
+    "reserved": "async",
+    "recommend": [
+      "asynchronize"
+    ]
+  },
+  {
+    "reserved": "ASYNCHRONY",
+    "recommend": [
+      "asynchronization"
+    ]
+  },
+  {
+    "reserved": "ATAN",
+    "recommend": [
+      "atangent"
+    ]
+  },
+  {
+    "reserved": "ATTACH",
+    "recommend": [
+      "paste"
+    ]
+  },
+  {
+    "reserved": "ATTACHED",
+    "recommend": [
+      "pasted"
+    ]
+  },
+  {
+    "reserved": "ATTRIBUTE",
+    "recommend": [
+      "attr"
+    ]
+  },
+  {
+    "reserved": "ATTRIBUTES",
+    "recommend": [
+      "attrs"
+    ]
+  },
+  {
+    "reserved": "AUDIT",
+    "recommend": [
+      "analysis"
+    ]
+  },
+  {
+    "reserved": "AUTH",
+    "recommend": [
+      "proof"
+    ]
+  },
+  {
+    "reserved": "AUTHENTICATED",
+    "recommend": [
+      "proofed"
+    ]
+  },
+  {
+    "reserved": "AUTHENTICATION",
+    "recommend": [
+      "proof"
+    ]
+  },
+  {
+    "reserved": "AUTHID",
+    "recommend": [
+      "powerId"
+    ]
+  },
+  {
+    "reserved": "AUTHORIZATION",
+    "recommend": [
+      "right"
+    ]
+  },
+  {
+    "reserved": "AUTHORIZATIONS",
+    "recommend": [
+      "rights"
+    ]
+  },
+  {
+    "reserved": "AUTHORIZE",
+    "recommend": [
+      "empower"
+    ]
+  },
+  {
+    "reserved": "AUTHORIZED",
+    "recommend": [
+      "empowered"
+    ]
+  },
+  {
+    "reserved": "AUTHORS",
+    "recommend": [
+      "writers"
+    ]
+  },
+  {
+    "reserved": "AVAILABLE",
+    "recommend": [
+      "applicable"
+    ]
+  },
+  {
+    "reserved": "AVG",
+    "recommend": [
+      "average"
+    ]
+  },
+  {
+    "reserved": "await",
+    "recommend": [
+      "hangIn"
+    ]
+  }
+]

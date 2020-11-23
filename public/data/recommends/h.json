@@ -1,0 +1,121 @@
+[
+  {
+    "reserved": "HANDLER",
+    "recommend": [
+      "controller",
+      "manager"
+    ]
+  },
+  {
+    "reserved": "HARD",
+    "recommend": [
+      "complicated",
+      "arduous"
+    ]
+  },
+  {
+    "reserved": "HASHKEYS",
+    "recommend": [
+      "hashkey"
+    ]
+  },
+  {
+    "reserved": "HAVE",
+    "recommend": [
+      "acquire",
+      "obtain"
+    ]
+  },
+  {
+    "reserved": "HAVING",
+    "recommend": [
+      "obtaining"
+    ]
+  },
+  {
+    "reserved": "HEAP",
+    "recommend": [
+      "pile"
+    ]
+  },
+  {
+    "reserved": "HELP",
+    "recommend": [
+      "aid",
+      "advice"
+    ]
+  },
+  {
+    "reserved": "HEX",
+    "recommend": [
+      "hexadecimal"
+    ]
+  },
+  {
+    "reserved": "HIDDEN",
+    "recommend": [
+      "concealed"
+    ]
+  },
+  {
+    "reserved": "HIERARCHY",
+    "recommend": [
+      "ranking"
+    ]
+  },
+  {
+    "reserved": "HIGH",
+    "recommend": [
+      "elevated",
+      "altitude"
+    ]
+  },
+  {
+    "reserved": "HINT",
+    "recommend": [
+      "indication"
+    ]
+  },
+  {
+    "reserved": "HISTOGRAM",
+    "recommend": [
+      "piechart"
+    ]
+  },
+  {
+    "reserved": "HISTOGRAMBIN",
+    "recommend": [
+      "histogramcell"
+    ]
+  },
+  {
+    "reserved": "HISTORY",
+    "recommend": [
+      "story"
+    ]
+  },
+  {
+    "reserved": "HOLD",
+    "recommend": [
+      "occupy"
+    ]
+  },
+  {
+    "reserved": "HOLDLOCK",
+    "recommend": [
+      "lockdown"
+    ]
+  },
+  {
+    "reserved": "HOST",
+    "recommend": [
+      "manager"
+    ]
+  },
+  {
+    "reserved": "HOSTS",
+    "recommend": [
+      "managers"
+    ]
+  }
+]

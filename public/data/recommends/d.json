@@ -1,0 +1,752 @@
+[
+  {
+    "reserved": "DANGLING",
+    "recommend": [
+      "predicate"
+    ]
+  },
+  {
+    "reserved": "DB2DARI",
+    "recommend": [
+      "dbToDari"
+    ]
+  },
+  {
+    "reserved": "DB2GENERAL",
+    "recommend": [
+      "dbToGen"
+    ]
+  },
+  {
+    "reserved": "DB2GENRL",
+    "recommend": [
+      "dbToGenRL"
+    ]
+  },
+  {
+    "reserved": "DB2LBACREADARRAY",
+    "recommend": [
+      "dbToLBACREADARRAY"
+    ]
+  },
+  {
+    "reserved": "DB2LBACREADSET",
+    "recommend": [
+      "DBToLBACREADSET"
+    ]
+  },
+  {
+    "reserved": "DB2LBACREADTREE",
+    "recommend": [
+      "DBToLBACREADTREE"
+    ]
+  },
+  {
+    "reserved": "DB2LBACRULES",
+    "recommend": [
+      "DBToLBACRULES"
+    ]
+  },
+  {
+    "reserved": "DB2LBACWRITEARRAY",
+    "recommend": [
+      "DBToLBACWRITEARRAY"
+    ]
+  },
+  {
+    "reserved": "DB2LBACWRITESET",
+    "recommend": [
+      "DBToLBACWRITESET"
+    ]
+  },
+  {
+    "reserved": "DB2LBACWRITETREE",
+    "recommend": [
+      "DBToLBACWRITETREE"
+    ]
+  },
+  {
+    "reserved": "DB2OPTIONS",
+    "recommend": [
+      "DBToOPTIONS"
+    ]
+  },
+  {
+    "reserved": "DB2SECURITYLABEL",
+    "recommend": [
+      "DBToSECURITYLABEL"
+    ]
+  },
+  {
+    "reserved": "DB2SPL",
+    "recommend": [
+      "DBToSPL"
+    ]
+  },
+  {
+    "reserved": "DB2SQL",
+    "recommend": [
+      "DBToSQL"
+    ]
+  },
+  {
+    "reserved": "DB2VALIDATE",
+    "recommend": [
+      "DBToVALIDATE"
+    ]
+  },
+  {
+    "reserved": "DBA",
+    "recommend": [
+      "DBManager"
+    ]
+  },
+  {
+    "reserved": "DBADM",
+    "recommend": [
+      "DBAdmin"
+    ]
+  },
+  {
+    "reserved": "DBCC",
+    "recommend": [
+      "DbConsoleCmd"
+    ]
+  },
+  {
+    "reserved": "DBCLOB",
+    "recommend": [
+      "DBCharObj"
+    ]
+  },
+  {
+    "reserved": "DBHIGH",
+    "recommend": [
+      "DBUp"
+    ]
+  },
+  {
+    "reserved": "DBINFO",
+    "recommend": [
+      "DBInformation"
+    ]
+  },
+  {
+    "reserved": "DBLOW",
+    "recommend": [
+      "DBDown"
+    ]
+  },
+  {
+    "reserved": "DBMAC",
+    "recommend": [
+      "DBArchitecture"
+    ]
+  },
+  {
+    "reserved": "DBMEMUSE",
+    "recommend": [
+      "DBMemoryUse"
+    ]
+  },
+  {
+    "reserved": "DBPARTITIONNAME",
+    "recommend": [
+      "DBPartName"
+    ]
+  },
+  {
+    "reserved": "DBPARTITIONNUM",
+    "recommend": [
+      "DBPartNum"
+    ]
+  },
+  {
+    "reserved": "DBPARTITIONNUMS",
+    "recommend": [
+      "DBPartNums"
+    ]
+  },
+  {
+    "reserved": "DBPARTITIONS",
+    "recommend": [
+      "DBParts"
+    ]
+  },
+  {
+    "reserved": "DBPROPERTIES",
+    "recommend": [
+      "DBProps"
+    ]
+  },
+  {
+    "reserved": "DEACTIVATE",
+    "recommend": [
+      "DBShutoff"
+    ]
+  },
+  {
+    "reserved": "DEADLOCK",
+    "recommend": [
+      "halt"
+    ]
+  },
+  {
+    "reserved": "DEADLOCKS",
+    "recommend": [
+      "halts"
+    ]
+  },
+  {
+    "reserved": "DEALLOCATE",
+    "recommend": [
+      "neglect"
+    ]
+  },
+  {
+    "reserved": "DEBUFOFF",
+    "recommend": [
+      "bufOn"
+    ]
+  },
+  {
+    "reserved": "DEBUG",
+    "recommend": [
+      "correct"
+    ]
+  },
+  {
+    "reserved": "debugger",
+    "recommend": [
+      "correction"
+    ]
+  },
+  {
+    "reserved": "DEBUGINFO",
+    "recommend": [
+      "correctionInfo"
+    ]
+  },
+  {
+    "reserved": "DEBUGOFF",
+    "recommend": [
+      "correctionOff"
+    ]
+  },
+  {
+    "reserved": "DEBUGON",
+    "recommend": [
+      "correctionOn"
+    ]
+  },
+  {
+    "reserved": "DECLARE",
+    "recommend": [
+      "advocate"
+    ]
+  },
+  {
+    "reserved": "decltype",
+    "recommend": [
+      "typeCheck"
+    ]
+  },
+  {
+    "reserved": "DECOMPOSITION",
+    "recommend": [
+      "disintegration"
+    ]
+  },
+  {
+    "reserved": "DEFAULT",
+    "recommend": [
+      "initValue"
+    ]
+  },
+  {
+    "reserved": "DEFAULTS",
+    "recommend": [
+      "initValues"
+    ]
+  },
+  {
+    "reserved": "DEFINE",
+    "recommend": [
+      "characterize"
+    ]
+  },
+  {
+    "reserved": "DEFINED",
+    "recommend": [
+      "characterized"
+    ]
+  },
+  {
+    "reserved": "DEFINER",
+    "recommend": [
+      "characterizer"
+    ]
+  },
+  {
+    "reserved": "DEGREE",
+    "recommend": [
+      "deep"
+    ]
+  },
+  {
+    "reserved": "del",
+    "recommend": [
+      "blackout"
+    ]
+  },
+  {
+    "reserved": "DELAY",
+    "recommend": [
+      "late"
+    ]
+  },
+  {
+    "reserved": "DELAYED",
+    "recommend": [
+      "late"
+    ]
+  },
+  {
+    "reserved": "delegate",
+    "recommend": [
+      "strap"
+    ]
+  },
+  {
+    "reserved": "DELETE",
+    "recommend": [
+      "blackout"
+    ]
+  },
+  {
+    "reserved": "DELIMITED",
+    "recommend": [
+      "delimitate"
+    ]
+  },
+  {
+    "reserved": "DELIMITER",
+    "recommend": [
+      "delimitater"
+    ]
+  },
+  {
+    "reserved": "DELIMITERS",
+    "recommend": [
+      "delimitaters"
+    ]
+  },
+  {
+    "reserved": "DENSERANK",
+    "recommend": [
+      "rowRank"
+    ]
+  },
+  {
+    "reserved": "DENY",
+    "recommend": [
+      "disagree"
+    ]
+  },
+  {
+    "reserved": "DEPENDENCY",
+    "recommend": [
+      "reliance"
+    ]
+  },
+  {
+    "reserved": "DEPENDENT",
+    "recommend": [
+      "relient"
+    ]
+  },
+  {
+    "reserved": "DEPENDS",
+    "recommend": [
+      "rely"
+    ]
+  },
+  {
+    "reserved": "DEPTH",
+    "recommend": [
+      "deep"
+    ]
+  },
+  {
+    "reserved": "DEREF",
+    "recommend": [
+      "objRef"
+    ]
+  },
+  {
+    "reserved": "DERIVED",
+    "recommend": [
+      "originated"
+    ]
+  },
+  {
+    "reserved": "DESC",
+    "recommend": [
+      "fall"
+    ]
+  },
+  {
+    "reserved": "descending",
+    "recommend": [
+      "falling"
+    ]
+  },
+  {
+    "reserved": "DESCRIBE",
+    "recommend": [
+      "report"
+    ]
+  },
+  {
+    "reserved": "DESCRIPTION",
+    "recommend": [
+      "report"
+    ]
+  },
+  {
+    "reserved": "DESCRIPTOR",
+    "recommend": [
+      "reporter"
+    ]
+  },
+  {
+    "reserved": "DESTROY",
+    "recommend": [
+      "ruin"
+    ]
+  },
+  {
+    "reserved": "DESTRUCTOR",
+    "recommend": [
+      "ruiner"
+    ]
+  },
+  {
+    "reserved": "DETACH",
+    "recommend": [
+      "devide"
+    ]
+  },
+  {
+    "reserved": "DETAIL",
+    "recommend": [
+      "feature"
+    ]
+  },
+  {
+    "reserved": "DETAILED",
+    "recommend": [
+      "feature"
+    ]
+  },
+  {
+    "reserved": "DETAILS",
+    "recommend": [
+      "features"
+    ]
+  },
+  {
+    "reserved": "DETERMINED",
+    "recommend": [
+      "decided"
+    ]
+  },
+  {
+    "reserved": "DETERMINISTIC",
+    "recommend": [
+      "decidedly"
+    ]
+  },
+  {
+    "reserved": "DEVICE",
+    "recommend": [
+      "gadget"
+    ]
+  },
+  {
+    "reserved": "DIAGNOSTICS",
+    "recommend": [
+      "giagnosis"
+    ]
+  },
+  {
+    "reserved": "DICTIONARY",
+    "recommend": [
+      "wordbook"
+    ]
+  },
+  {
+    "reserved": "DIMENSIONS",
+    "recommend": [
+      "aspect"
+    ]
+  },
+  {
+    "reserved": "DIRECTORIES",
+    "recommend": [
+      "dirs"
+    ]
+  },
+  {
+    "reserved": "DIRECTORY",
+    "recommend": [
+      "dir"
+    ]
+  },
+  {
+    "reserved": "DIRTY",
+    "recommend": [
+      "muddy"
+    ]
+  },
+  {
+    "reserved": "DISABLE",
+    "recommend": [
+      "damage"
+    ]
+  },
+  {
+    "reserved": "DISABLED",
+    "recommend": [
+      "damaged"
+    ]
+  },
+  {
+    "reserved": "DISALLOW",
+    "recommend": [
+      "disagree"
+    ]
+  },
+  {
+    "reserved": "DISCARD",
+    "recommend": [
+      "wipeOut"
+    ]
+  },
+  {
+    "reserved": "DISCONNECT",
+    "recommend": [
+      "unrelate"
+    ]
+  },
+  {
+    "reserved": "DISMOUNT",
+    "recommend": [
+      "unmount"
+    ]
+  },
+  {
+    "reserved": "DISPATCH",
+    "recommend": [
+      "send"
+    ]
+  },
+  {
+    "reserved": "DISPOSE",
+    "recommend": [
+      "arrange"
+    ]
+  },
+  {
+    "reserved": "DISTINCT",
+    "recommend": [
+      "discrete"
+    ]
+  },
+  {
+    "reserved": "DISTINCTROW",
+    "recommend": [
+      "discreteRow"
+    ]
+  },
+  {
+    "reserved": "DISTRIBUTE",
+    "recommend": [
+      "handOut"
+    ]
+  },
+  {
+    "reserved": "DISTRIBUTED",
+    "recommend": [
+      "handOutted"
+    ]
+  },
+  {
+    "reserved": "DISTRIBUTION",
+    "recommend": [
+      "handOut"
+    ]
+  },
+  {
+    "reserved": "DLCONN",
+    "recommend": [
+      "halt"
+    ]
+  },
+  {
+    "reserved": "dllexport",
+    "recommend": [
+      "dllUpload"
+    ]
+  },
+  {
+    "reserved": "dllimport",
+    "recommend": [
+      "dllDownload"
+    ]
+  },
+  {
+    "reserved": "DLLOCK",
+    "recommend": [
+      "dlclose"
+    ]
+  },
+  {
+    "reserved": "DLNEWCOPY",
+    "recommend": [
+      "dlNewCp"
+    ]
+  },
+  {
+    "reserved": "DLPREVIOUSCOPY",
+    "recommend": [
+      "dlPrevCp"
+    ]
+  },
+  {
+    "reserved": "DLURLCOMPLETE",
+    "recommend": [
+      "completeUrl"
+    ]
+  },
+  {
+    "reserved": "DLURLCOMPLETEONLY",
+    "recommend": [
+      "completeUrlOnly"
+    ]
+  },
+  {
+    "reserved": "DLURLCOMPLETEWRITE",
+    "recommend": [
+      "completeUrlWrite"
+    ]
+  },
+  {
+    "reserved": "DLURLPATH",
+    "recommend": [
+      "urlPath"
+    ]
+  },
+  {
+    "reserved": "DLURLPATHONLY",
+    "recommend": [
+      "urlPathOnly"
+    ]
+  },
+  {
+    "reserved": "DLURLPATHWRITE",
+    "recommend": [
+      "urlPathWrite"
+    ]
+  },
+  {
+    "reserved": "DLURLSCHEME",
+    "recommend": [
+      "urlScheme"
+    ]
+  },
+  {
+    "reserved": "DLURLSERVER",
+    "recommend": [
+      "fileServer"
+    ]
+  },
+  {
+    "reserved": "DLVALUE",
+    "recommend": [
+      "dataLinkValue"
+    ]
+  },
+  {
+    "reserved": "DOCUMENT",
+    "recommend": [
+      "doc"
+    ]
+  },
+  {
+    "reserved": "DOMAIN",
+    "recommend": [
+      "realm"
+    ]
+  },
+  {
+    "reserved": "DROP",
+    "recommend": [
+      "blackout"
+    ]
+  },
+  {
+    "reserved": "DROPIN",
+    "recommend": [
+      "blackout"
+    ]
+  },
+  {
+    "reserved": "DROPPED",
+    "recommend": [
+      "blackoutted"
+    ]
+  },
+  {
+    "reserved": "DSSIZE",
+    "recommend": [
+      "maxTableSize"
+    ]
+  },
+  {
+    "reserved": "DUAL",
+    "recommend": [
+      "twin"
+    ]
+  },
+  {
+    "reserved": "DUMP",
+    "recommend": [
+      "abandon"
+    ]
+  },
+  {
+    "reserved": "DUMPFILE",
+    "recommend": [
+      "abandonFile"
+    ]
+  },
+  {
+    "reserved": "DUPLICATE",
+    "recommend": [
+      "cp"
+    ]
+  },
+  {
+    "reserved": "DURATION",
+    "recommend": [
+      "term"
+    ]
+  },
+  {
+    "reserved": "DYNAMIC",
+    "recommend": [
+      "varios"
+    ]
+  }
+]

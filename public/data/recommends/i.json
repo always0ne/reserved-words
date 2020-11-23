@@ -1,0 +1,453 @@
+[
+  {
+    "reserved": "ID",
+    "recommend": [
+      "identification"
+    ]
+  },
+  {
+    "reserved": "IDENTIFIED",
+    "recommend": [
+      "recognized"
+    ]
+  },
+  {
+    "reserved": "IDENTITY",
+    "recommend": [
+      "recognition"
+    ]
+  },
+  {
+    "reserved": "IDENTITYCOL",
+    "recommend": [
+      "individualityCol"
+    ]
+  },
+  {
+    "reserved": "IDGENERATORS",
+    "recommend": [
+      "idmaker"
+    ]
+  },
+  {
+    "reserved": "IF",
+    "recommend": [
+      "whether"
+    ]
+  },
+  {
+    "reserved": "IGNORE",
+    "recommend": [
+      "disregard"
+    ]
+  },
+  {
+    "reserved": "IMMEDIATE",
+    "recommend": [
+      "instant"
+    ]
+  },
+  {
+    "reserved": "IMMEDIATELY",
+    "recommend": [
+      "instantly"
+    ]
+  },
+  {
+    "reserved": "IMMUTABLE",
+    "recommend": [
+      "unchangeable"
+    ]
+  },
+  {
+    "reserved": "IMPLEMENTATION",
+    "recommend": [
+      "enactment"
+    ]
+  },
+  {
+    "reserved": "implements",
+    "recommend": [
+      "effects",
+      "stages"
+    ]
+  },
+  {
+    "reserved": "IMPLICIT",
+    "recommend": [
+      "implied"
+    ]
+  },
+  {
+    "reserved": "IMPLICITLY",
+    "recommend": [
+      "imply"
+    ]
+  },
+  {
+    "reserved": "IMPORT",
+    "recommend": [
+      "bringin"
+    ]
+  },
+  {
+    "reserved": "IN",
+    "recommend": [
+      "inside"
+    ]
+  },
+  {
+    "reserved": "INACTIVE",
+    "recommend": [
+      "lazy"
+    ]
+  },
+  {
+    "reserved": "INCLUDE",
+    "recommend": [
+      "involve"
+    ]
+  },
+  {
+    "reserved": "INCLUDES",
+    "recommend": [
+      "involves"
+    ]
+  },
+  {
+    "reserved": "INCLUDING",
+    "recommend": [
+      "involving"
+    ]
+  },
+  {
+    "reserved": "INCLUSIVE",
+    "recommend": [
+      "comprehensive"
+    ]
+  },
+  {
+    "reserved": "INCREASESIZE",
+    "recommend": [
+      "raisesize"
+    ]
+  },
+  {
+    "reserved": "INCREMENT",
+    "recommend": [
+      "growth"
+    ]
+  },
+  {
+    "reserved": "INCREMENTAL",
+    "recommend": [
+      "grow"
+    ]
+  },
+  {
+    "reserved": "INDENT",
+    "recommend": [
+      "moveright"
+    ]
+  },
+  {
+    "reserved": "INDEX",
+    "recommend": [
+      "listing"
+    ]
+  },
+  {
+    "reserved": "INDEXED",
+    "recommend": [
+      "guided"
+    ]
+  },
+  {
+    "reserved": "INDEXES",
+    "recommend": [
+      "guides"
+    ]
+  },
+  {
+    "reserved": "INDICATOR",
+    "recommend": [
+      "symbol"
+    ]
+  },
+  {
+    "reserved": "INFINITE",
+    "recommend": [
+      "endless"
+    ]
+  },
+  {
+    "reserved": "INFINITY",
+    "recommend": [
+      "endlessness"
+    ]
+  },
+  {
+    "reserved": "INFO",
+    "recommend": [
+      "information"
+    ]
+  },
+  {
+    "reserved": "INHERIT",
+    "recommend": [
+      "comeinto"
+    ]
+  },
+  {
+    "reserved": "INHERITS",
+    "recommend": [
+      "beleft"
+    ]
+  },
+  {
+    "reserved": "INITIAL",
+    "recommend": [
+      "opening"
+    ]
+  },
+  {
+    "reserved": "INITIALLY",
+    "recommend": [
+      "atfirst"
+    ]
+  },
+  {
+    "reserved": "INITIALSIZE",
+    "recommend": [
+      "openingsize"
+    ]
+  },
+  {
+    "reserved": "INLINE",
+    "recommend": [
+      "instant"
+    ]
+  },
+  {
+    "reserved": "INLINEFUNCTION",
+    "recommend": [
+      "instantfunction"
+    ]
+  },
+  {
+    "reserved": "INLINETRIGGER",
+    "recommend": [
+      "instanttrigger"
+    ]
+  },
+  {
+    "reserved": "INNER",
+    "recommend": [
+      "inside"
+    ]
+  },
+  {
+    "reserved": "INPUT",
+    "recommend": [
+      "resources"
+    ]
+  },
+  {
+    "reserved": "INSENSITIVE",
+    "recommend": [
+      "heartless"
+    ]
+  },
+  {
+    "reserved": "INSERT",
+    "recommend": [
+      "place"
+    ]
+  },
+  {
+    "reserved": "INSTALL",
+    "recommend": [
+      "establish"
+    ]
+  },
+  {
+    "reserved": "INSTANCE",
+    "recommend": [
+      "example"
+    ]
+  },
+  {
+    "reserved": "instanceof",
+    "recommend": [
+      "insteadof"
+    ]
+  },
+  {
+    "reserved": "INSTANCES",
+    "recommend": [
+      "examples"
+    ]
+  },
+  {
+    "reserved": "INSTEAD",
+    "recommend": [
+      "alternately"
+    ]
+  },
+  {
+    "reserved": "INT1",
+    "recommend": [
+      "interrupt1"
+    ]
+  },
+  {
+    "reserved": "INT2",
+    "recommend": [
+      "interrupt2"
+    ]
+  },
+  {
+    "reserved": "INT3",
+    "recommend": [
+      "interrupt3"
+    ]
+  },
+  {
+    "reserved": "INTACT",
+    "recommend": [
+      "undamaged"
+    ]
+  },
+  {
+    "reserved": "Integer",
+    "recommend": [
+      "wholenumber"
+    ]
+  },
+  {
+    "reserved": "INTEGRITY",
+    "recommend": [
+      "honesty"
+    ]
+  },
+  {
+    "reserved": "INTERARRIVALTIME",
+    "recommend": [
+      "IAT"
+    ]
+  },
+  {
+    "reserved": "INTERFACE",
+    "recommend": [
+      "boundary"
+    ]
+  },
+  {
+    "reserved": "INTERMEDIATE",
+    "recommend": [
+      "middle"
+    ]
+  },
+  {
+    "reserved": "internal",
+    "recommend": [
+      "inner"
+    ]
+  },
+  {
+    "reserved": "INTERSECT",
+    "recommend": [
+      "converge"
+    ]
+  },
+  {
+    "reserved": "INTERSECTION",
+    "recommend": [
+      "crossing"
+    ]
+  },
+  {
+    "reserved": "INTERSECTS",
+    "recommend": [
+      "converges"
+    ]
+  },
+  {
+    "reserved": "INTERVAL",
+    "recommend": [
+      "spell"
+    ]
+  },
+  {
+    "reserved": "INTO",
+    "recommend": [
+      "inside"
+    ]
+  },
+  {
+    "reserved": "INVALID",
+    "recommend": [
+      "disabled"
+    ]
+  },
+  {
+    "reserved": "INVALIDATE",
+    "recommend": [
+      "nullify"
+    ]
+  },
+  {
+    "reserved": "INVALIDATION",
+    "recommend": [
+      "invalidator"
+    ]
+  },
+  {
+    "reserved": "INVISIBLE",
+    "recommend": [
+      "unseen"
+    ]
+  },
+  {
+    "reserved": "INVOKER",
+    "recommend": [
+      "summoner"
+    ]
+  },
+  {
+    "reserved": "ISNULL",
+    "recommend": [
+      "isinvalid"
+    ]
+  },
+  {
+    "reserved": "ISOLATION",
+    "recommend": [
+      "seperation"
+    ]
+  },
+  {
+    "reserved": "ISSUER",
+    "recommend": [
+      "publisher"
+    ]
+  },
+  {
+    "reserved": "ITEM",
+    "recommend": [
+      "thing"
+    ]
+  },
+  {
+    "reserved": "ITEMS",
+    "recommend": [
+      "things"
+    ]
+  },
+  {
+    "reserved": "ITERATE",
+    "recommend": [
+      "recapitulate"
+    ]
+  }
+]

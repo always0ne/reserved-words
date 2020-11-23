@@ -1,0 +1,140 @@
+[
+  {
+    "reserved": "WAIT",
+    "recommend": [
+      "await"
+    ]
+  },
+  {
+    "reserved": "WAITFOR",
+    "recommend": [
+      "delayfor"
+    ]
+  },
+  {
+    "reserved": "WAITING",
+    "recommend": [
+      "prepared"
+    ]
+  },
+  {
+    "reserved": "WARNINGS",
+    "recommend": [
+      "forecasts"
+    ]
+  },
+  {
+    "reserved": "WATER",
+    "recommend": [
+      "aqua"
+    ]
+  },
+  {
+    "reserved": "Weekday",
+    "recommend": [
+      "workday"
+    ]
+  },
+  {
+    "reserved": "WHEN",
+    "recommend": [
+      "instantly"
+    ]
+  },
+  {
+    "reserved": "WHENEVER",
+    "recommend": [
+      "atanytime"
+    ]
+  },
+  {
+    "reserved": "WHILE",
+    "recommend": [
+      "during"
+    ]
+  },
+  {
+    "reserved": "WINDOW",
+    "recommend": [
+      "opening"
+    ]
+  },
+  {
+    "reserved": "WITH",
+    "recommend": [
+      "plus"
+    ]
+  },
+  {
+    "reserved": "WITHIN",
+    "recommend": [
+      "among"
+    ]
+  },
+  {
+    "reserved": "WITHINGROUP",
+    "recommend": [
+      "among group"
+    ]
+  },
+  {
+    "reserved": "WITHOUT",
+    "recommend": [
+      "minus"
+    ]
+  },
+  {
+    "reserved": "WITHSCHEMA",
+    "recommend": [
+      "plusschema"
+    ]
+  },
+  {
+    "reserved": "WORK",
+    "recommend": [
+      "occupation"
+    ]
+  },
+  {
+    "reserved": "WORKLOAD",
+    "recommend": [
+      "assignment"
+    ]
+  },
+  {
+    "reserved": "WRAPPED",
+    "recommend": [
+      "encased"
+    ]
+  },
+  {
+    "reserved": "WRAPPER",
+    "recommend": [
+      "cover"
+    ]
+  },
+  {
+    "reserved": "WRITE",
+    "recommend": [
+      "inscribe"
+    ]
+  },
+  {
+    "reserved": "WRITEDOWN",
+    "recommend": [
+      "inscribe"
+    ]
+  },
+  {
+    "reserved": "WRITETEXT",
+    "recommend": [
+      "inscribe"
+    ]
+  },
+  {
+    "reserved": "WRITEUP",
+    "recommend": [
+      "inscribe"
+    ]
+  }
+]

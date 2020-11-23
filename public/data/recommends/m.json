@@ -1,0 +1,362 @@
+[
+  {
+    "reserved": "MAIN",
+    "recommend": [
+      "principal"
+    ]
+  },
+  {
+    "reserved": "MAINTAINED",
+    "recommend": [
+      "sustained"
+    ]
+  },
+  {
+    "reserved": "MANAGE",
+    "recommend": [
+      "handle"
+    ]
+  },
+  {
+    "reserved": "MANAGED",
+    "recommend": [
+      "handled"
+    ]
+  },
+  {
+    "reserved": "MANUAL",
+    "recommend": [
+      "handleoperated"
+    ]
+  },
+  {
+    "reserved": "MAP",
+    "recommend": [
+      "chart"
+    ]
+  },
+  {
+    "reserved": "MAPPING",
+    "recommend": [
+      "arrange"
+    ]
+  },
+  {
+    "reserved": "MARK",
+    "recommend": [
+      "symbol"
+    ]
+  },
+  {
+    "reserved": "MASTER",
+    "recommend": [
+      "authority"
+    ]
+  },
+  {
+    "reserved": "MATCH",
+    "recommend": [
+      "pair"
+    ]
+  },
+  {
+    "reserved": "MATCHED",
+    "recommend": [
+      "paired"
+    ]
+  },
+  {
+    "reserved": "MATCHES",
+    "recommend": [
+      "paires"
+    ]
+  },
+  {
+    "reserved": "MATCHING",
+    "recommend": [
+      "pairing"
+    ]
+  },
+  {
+    "reserved": "MATERIALIZED",
+    "recommend": [
+      "occur"
+    ]
+  },
+  {
+    "reserved": "MAX",
+    "recommend": [
+      "maximum"
+    ]
+  },
+  {
+    "reserved": "MAXARCHLOGS",
+    "recommend": [
+      "maximumarchlogs"
+    ]
+  },
+  {
+    "reserved": "MAXDATAFILES",
+    "recommend": [
+      "maximumdatafiles"
+    ]
+  },
+  {
+    "reserved": "MAXFILES",
+    "recommend": [
+      "maximumfiles"
+    ]
+  },
+  {
+    "reserved": "MAXFILESIZE",
+    "recommend": [
+      "maximumfilesize"
+    ]
+  },
+  {
+    "reserved": "MAXINSTANCES",
+    "recommend": [
+      "maximuminstances"
+    ]
+  },
+  {
+    "reserved": "MAXLEN",
+    "recommend": [
+      "maxlength"
+    ]
+  },
+  {
+    "reserved": "MAXSIZE",
+    "recommend": [
+      "maximumsize"
+    ]
+  },
+  {
+    "reserved": "MAXVALUE",
+    "recommend": [
+      "maximumvalue"
+    ]
+  },
+  {
+    "reserved": "MEASURES",
+    "recommend": [
+      "symbols"
+    ]
+  },
+  {
+    "reserved": "MEDIUM",
+    "recommend": [
+      "middle"
+    ]
+  },
+  {
+    "reserved": "MEDIUMBLOB",
+    "recommend": [
+      "middleblob"
+    ]
+  },
+  {
+    "reserved": "MEDIUMINT",
+    "recommend": [
+      "averageint"
+    ]
+  },
+  {
+    "reserved": "MEDIUMTEXT",
+    "recommend": [
+      "middletext"
+    ]
+  },
+  {
+    "reserved": "MEMBER",
+    "recommend": [
+      "supporter"
+    ]
+  },
+  {
+    "reserved": "MEMORY",
+    "recommend": [
+      "mind"
+    ]
+  },
+  {
+    "reserved": "MERGE",
+    "recommend": [
+      "blend"
+    ]
+  },
+  {
+    "reserved": "METHOD",
+    "recommend": [
+      "manner"
+    ]
+  },
+  {
+    "reserved": "METHODS",
+    "recommend": [
+      "manners"
+    ]
+  },
+  {
+    "reserved": "MICROSECOND",
+    "recommend": [
+      "??SEC"
+    ]
+  },
+  {
+    "reserved": "MICROSECONDS",
+    "recommend": [
+      "??SECs"
+    ]
+  },
+  {
+    "reserved": "MIDDLEINT",
+    "recommend": [
+      "averageint"
+    ]
+  },
+  {
+    "reserved": "MIGRATE",
+    "recommend": [
+      "travel"
+    ]
+  },
+  {
+    "reserved": "Millisecond",
+    "recommend": [
+      "MSEC"
+    ]
+  },
+  {
+    "reserved": "MIN",
+    "recommend": [
+      "lowest"
+    ]
+  },
+  {
+    "reserved": "MINEXTENTS",
+    "recommend": [
+      "lowestextents"
+    ]
+  },
+  {
+    "reserved": "MINIMUM",
+    "recommend": [
+      "lowest"
+    ]
+  },
+  {
+    "reserved": "MINUS",
+    "recommend": [
+      "subtract"
+    ]
+  },
+  {
+    "reserved": "Minute",
+    "recommend": [
+      "small"
+    ]
+  },
+  {
+    "reserved": "MINUTES",
+    "recommend": [
+      "proceedings"
+    ]
+  },
+  {
+    "reserved": "MINVALUE",
+    "recommend": [
+      "minimumvalue"
+    ]
+  },
+  {
+    "reserved": "MISSING",
+    "recommend": [
+      "lost"
+    ]
+  },
+  {
+    "reserved": "MIXED",
+    "recommend": [
+      "varied"
+    ]
+  },
+  {
+    "reserved": "MOD",
+    "recommend": [
+      "reshape"
+    ]
+  },
+  {
+    "reserved": "MODE",
+    "recommend": [
+      "manner"
+    ]
+  },
+  {
+    "reserved": "MODIFIES",
+    "recommend": [
+      "reshapes"
+    ]
+  },
+  {
+    "reserved": "MODIFY",
+    "recommend": [
+      "reshape"
+    ]
+  },
+  {
+    "reserved": "MONITOR",
+    "recommend": [
+      "watch"
+    ]
+  },
+  {
+    "reserved": "MORE",
+    "recommend": [
+      "extra"
+    ]
+  },
+  {
+    "reserved": "MOVE",
+    "recommend": [
+      "act"
+    ]
+  },
+  {
+    "reserved": "MOVEMENT",
+    "recommend": [
+      "motion"
+    ]
+  },
+  {
+    "reserved": "MULTI",
+    "recommend": [
+      "multiple"
+    ]
+  },
+  {
+    "reserved": "MULTILINESTRING",
+    "recommend": [
+      "multiplelinestring"
+    ]
+  },
+  {
+    "reserved": "MULTIPOINT",
+    "recommend": [
+      "multiplepoint"
+    ]
+  },
+  {
+    "reserved": "MULTISET",
+    "recommend": [
+      "multipleset"
+    ]
+  },
+  {
+    "reserved": "mutable",
+    "recommend": [
+      "changeable"
+    ]
+  }
+]

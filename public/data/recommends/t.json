@@ -1,0 +1,482 @@
+[
+  {
+    "reserved": "TABAUTH",
+    "recommend": [
+      "tableauth"
+    ]
+  },
+  {
+    "reserved": "TABLE",
+    "recommend": [
+      "sheet"
+    ]
+  },
+  {
+    "reserved": "TABLES",
+    "recommend": [
+      "sheets"
+    ]
+  },
+  {
+    "reserved": "TABLESAMPLE",
+    "recommend": [
+      "tableinstance"
+    ]
+  },
+  {
+    "reserved": "TABLESPACE",
+    "recommend": [
+      "tablecapacity"
+    ]
+  },
+  {
+    "reserved": "TABLESPACES",
+    "recommend": [
+      "tablecapacities"
+    ]
+  },
+  {
+    "reserved": "TABNO",
+    "recommend": [
+      "tableno"
+    ]
+  },
+  {
+    "reserved": "TARGET",
+    "recommend": [
+      "goal"
+    ]
+  },
+  {
+    "reserved": "TASK",
+    "recommend": [
+      "assignment"
+    ]
+  },
+  {
+    "reserved": "TBLPROPERTIES",
+    "recommend": [
+      "tblattribute"
+    ]
+  },
+  {
+    "reserved": "TEMP",
+    "recommend": [
+      "sub"
+    ]
+  },
+  {
+    "reserved": "TEMPLATE",
+    "recommend": [
+      "example"
+    ]
+  },
+  {
+    "reserved": "TEMPORARY",
+    "recommend": [
+      "momentary"
+    ]
+  },
+  {
+    "reserved": "TEMPTABLE",
+    "recommend": [
+      "subsheet"
+    ]
+  },
+  {
+    "reserved": "TERMINATE",
+    "recommend": [
+      "conclude"
+    ]
+  },
+  {
+    "reserved": "TERMINATED",
+    "recommend": [
+      "concluded"
+    ]
+  },
+  {
+    "reserved": "Text",
+    "recommend": [
+      "wording"
+    ]
+  },
+  {
+    "reserved": "TEXTSIZE",
+    "recommend": [
+      "wordingsize"
+    ]
+  },
+  {
+    "reserved": "THE",
+    "recommend": [
+      "each"
+    ]
+  },
+  {
+    "reserved": "THEN",
+    "recommend": [
+      "next"
+    ]
+  },
+  {
+    "reserved": "this",
+    "recommend": [
+      "this"
+    ]
+  },
+  {
+    "reserved": "THREAD",
+    "recommend": [
+      "yarn"
+    ]
+  },
+  {
+    "reserved": "THREADSAFE",
+    "recommend": [
+      "yarnsafe"
+    ]
+  },
+  {
+    "reserved": "THRESHOLD",
+    "recommend": [
+      "tolerance"
+    ]
+  },
+  {
+    "reserved": "THRESHOLDVIOLATIONS",
+    "recommend": [
+      "toleranceviolations"
+    ]
+  },
+  {
+    "reserved": "THROUGH",
+    "recommend": [
+      "concluded"
+    ]
+  },
+  {
+    "reserved": "THROUGHPUT",
+    "recommend": [
+      "output"
+    ]
+  },
+  {
+    "reserved": "throw",
+    "recommend": [
+      "toss"
+    ]
+  },
+  {
+    "reserved": "throws",
+    "recommend": [
+      "tosses"
+    ]
+  },
+  {
+    "reserved": "TIES",
+    "recommend": [
+      "involvement"
+    ]
+  },
+  {
+    "reserved": "Time",
+    "recommend": [
+      "occasion"
+    ]
+  },
+  {
+    "reserved": "TIMEOUT",
+    "recommend": [
+      "overtime"
+    ]
+  },
+  {
+    "reserved": "TIMERONCOST",
+    "recommend": [
+      "timeroncharge"
+    ]
+  },
+  {
+    "reserved": "TIMESPAN",
+    "recommend": [
+      "period"
+    ]
+  },
+  {
+    "reserved": "TIMESTAMP",
+    "recommend": [
+      "timecode"
+    ]
+  },
+  {
+    "reserved": "TIMESTAMPADD",
+    "recommend": [
+      "timecodeadd"
+    ]
+  },
+  {
+    "reserved": "TIMESTAMPDIFF",
+    "recommend": [
+      "timecodediff"
+    ]
+  },
+  {
+    "reserved": "TIMESTAMPTZ",
+    "recommend": [
+      "timecodetz"
+    ]
+  },
+  {
+    "reserved": "TIMEZONE",
+    "recommend": [
+      "punyzone"
+    ]
+  },
+  {
+    "reserved": "TINYBLOB",
+    "recommend": [
+      "punyblob"
+    ]
+  },
+  {
+    "reserved": "TINYINT",
+    "recommend": [
+      "punyint"
+    ]
+  },
+  {
+    "reserved": "TINYTEXT",
+    "recommend": [
+      "punytext"
+    ]
+  },
+  {
+    "reserved": "TOAST",
+    "recommend": [
+      "celebrity"
+    ]
+  },
+  {
+    "reserved": "TODAY",
+    "recommend": [
+      "thisday"
+    ]
+  },
+  {
+    "reserved": "TOKEN",
+    "recommend": [
+      "mark"
+    ]
+  },
+  {
+    "reserved": "TOP",
+    "recommend": [
+      "superior"
+    ]
+  },
+  {
+    "reserved": "TOPLEVEL",
+    "recommend": [
+      "superiorlevel"
+    ]
+  },
+  {
+    "reserved": "TOTAL",
+    "recommend": [
+      "perfect"
+    ]
+  },
+  {
+    "reserved": "TOUCH",
+    "recommend": [
+      "feel"
+    ]
+  },
+  {
+    "reserved": "TRACE",
+    "recommend": [
+      "hint"
+    ]
+  },
+  {
+    "reserved": "TRACING",
+    "recommend": [
+      "chasing"
+    ]
+  },
+  {
+    "reserved": "TRAILING",
+    "recommend": [
+      "chasing"
+    ]
+  },
+  {
+    "reserved": "TRANSACTION",
+    "recommend": [
+      "contract"
+    ]
+  },
+  {
+    "reserved": "TRANSACTIONS",
+    "recommend": [
+      "contracts"
+    ]
+  },
+  {
+    "reserved": "TRANSFER",
+    "recommend": [
+      "relocate"
+    ]
+  },
+  {
+    "reserved": "TRANSFERRATE",
+    "recommend": [
+      "relocaterate"
+    ]
+  },
+  {
+    "reserved": "TRANSFORM",
+    "recommend": [
+      "remodel"
+    ]
+  },
+  {
+    "reserved": "TRANSFORMS",
+    "recommend": [
+      "remodels"
+    ]
+  },
+  {
+    "reserved": "transient",
+    "recommend": [
+      "momentary"
+    ]
+  },
+  {
+    "reserved": "TRANSITIONAL",
+    "recommend": [
+      "intervening"
+    ]
+  },
+  {
+    "reserved": "TRANSLATE",
+    "recommend": [
+      "reword"
+    ]
+  },
+  {
+    "reserved": "TRANSLATION",
+    "recommend": [
+      "rewording"
+    ]
+  },
+  {
+    "reserved": "TREAT",
+    "recommend": [
+      "handle"
+    ]
+  },
+  {
+    "reserved": "TREE",
+    "recommend": [
+      "timber"
+    ]
+  },
+  {
+    "reserved": "TRIGGER",
+    "recommend": [
+      "provoke"
+    ]
+  },
+  {
+    "reserved": "TRIGGERS",
+    "recommend": [
+      "provokes"
+    ]
+  },
+  {
+    "reserved": "TRIM",
+    "recommend": [
+      "prune"
+    ]
+  },
+  {
+    "reserved": "TRUE",
+    "recommend": [
+      "genuine"
+    ]
+  },
+  {
+    "reserved": "TRUNC",
+    "recommend": [
+      "cutoff"
+    ]
+  },
+  {
+    "reserved": "TRUNCATE",
+    "recommend": [
+      "cutoff"
+    ]
+  },
+  {
+    "reserved": "TRUSTED",
+    "recommend": [
+      "credible"
+    ]
+  },
+  {
+    "reserved": "try",
+    "recommend": [
+      "endeavour"
+    ]
+  },
+  {
+    "reserved": "TUPLE",
+    "recommend": [
+      "orderedpair"
+    ]
+  },
+  {
+    "reserved": "TWOLEVEL",
+    "recommend": [
+      "twograde"
+    ]
+  },
+  {
+    "reserved": "TYPE",
+    "recommend": [
+      "category"
+    ]
+  },
+  {
+    "reserved": "typedef",
+    "recommend": [
+      "categorydef"
+    ]
+  },
+  {
+    "reserved": "typeid",
+    "recommend": [
+      "categoryid"
+    ]
+  },
+  {
+    "reserved": "typename",
+    "recommend": [
+      "categoryname"
+    ]
+  },
+  {
+    "reserved": "typeof",
+    "recommend": [
+      "categoryof"
+    ]
+  },
+  {
+    "reserved": "TYPES",
+    "recommend": [
+      "categories"
+    ]
+  }
+]

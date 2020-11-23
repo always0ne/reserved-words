@@ -1,0 +1,144 @@
+[
+  {
+    "reserved": "GBPCACHE",
+    "recommend": [
+      "cache"
+    ]
+  },
+  {
+    "reserved": "GEN",
+    "recommend": [
+      "produce"
+    ]
+  },
+  {
+    "reserved": "GENERAL",
+    "recommend": [
+      "common"
+    ]
+  },
+  {
+    "reserved": "GENERATE",
+    "recommend": [
+      "produce"
+    ]
+  },
+  {
+    "reserved": "GENERATED",
+    "recommend": [
+      "produced"
+    ]
+  },
+  {
+    "reserved": "GENERIC",
+    "recommend": [
+      "universal"
+    ]
+  },
+  {
+    "reserved": "GEOMETRY",
+    "recommend": [
+      "geomath"
+    ]
+  },
+  {
+    "reserved": "GEOMETRYCOLLECTION",
+    "recommend": [
+      "geomathcollection"
+    ]
+  },
+  {
+    "reserved": "GET",
+    "recommend": [
+      "bring",
+      "take"
+    ]
+  },
+  {
+    "reserved": "GLOB",
+    "recommend": [
+      "international",
+      "comprehensive"
+    ]
+  },
+  {
+    "reserved": "GLOBAL",
+    "recommend": [
+      "international",
+      "comprehensive"
+    ]
+  },
+  {
+    "reserved": "GLOBALLY",
+    "recommend": [
+      "universally"
+    ]
+  },
+  {
+    "reserved": "GO",
+    "recommend": [
+      "act"
+    ]
+  },
+  {
+    "reserved": "GOTO",
+    "recommend": [
+      "approach"
+    ]
+  },
+  {
+    "reserved": "GRANT",
+    "recommend": [
+      "permit"
+    ]
+  },
+  {
+    "reserved": "GRANTED",
+    "recommend": [
+      "permitted"
+    ]
+  },
+  {
+    "reserved": "GRANTS",
+    "recommend": [
+      "permits"
+    ]
+  },
+  {
+    "reserved": "GRAPHIC",
+    "recommend": [
+      "diagram"
+    ]
+  },
+  {
+    "reserved": "GREATER",
+    "recommend": [
+      "better"
+    ]
+  },
+  {
+    "reserved": "GREATEST",
+    "recommend": [
+      "best"
+    ]
+  },
+  {
+    "reserved": "GROUP",
+    "recommend": [
+      "party",
+      "crowd"
+    ]
+  },
+  {
+    "reserved": "GROUPING",
+    "recommend": [
+      "arrangement"
+    ]
+  },
+  {
+    "reserved": "GROUPS",
+    "recommend": [
+      "crowds"
+    ]
+  }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "reserved": "PACKAGE",
+    "recommend": [
+      "bundle"
+    ]
+  },
+  {
+    "reserved": "PACKED",
+    "recommend": [
+      "filled"
+    ]
+  },
+  {
+    "reserved": "PAD",
+    "recommend": [
+      "stuff"
+    ]
+  },
+  {
+    "reserved": "PADDED",
+    "recommend": [
+      "stuffed"
+    ]
+  },
+  {
+    "reserved": "PAGE",
+    "recommend": [
+      "leaf"
+    ]
+  },
+  {
+    "reserved": "PAGESIZE",
+    "recommend": [
+      "leafsize"
+    ]
+  },
+  {
+    "reserved": "PARALLEL",
+    "recommend": [
+      "equivalent"
+    ]
+  },
+  {
+    "reserved": "PARAMETER",
+    "recommend": [
+      "boundary"
+    ]
+  },
+  {
+    "reserved": "PARAMETERS",
+    "recommend": [
+      "boundarys"
+    ]
+  },
+  {
+    "reserved": "params",
+    "recommend": [
+      "boundarys"
+    ]
+  },
+  {
+    "reserved": "PART",
+    "recommend": [
+      "piece"
+    ]
+  },
+  {
+    "reserved": "PARTIAL",
+    "recommend": [
+      "incomplete"
+    ]
+  },
+  {
+    "reserved": "PARTITION",
+    "recommend": [
+      "divider"
+    ]
+  },
+  {
+    "reserved": "PARTITIONED",
+    "recommend": [
+      "division"
+    ]
+  },
+  {
+    "reserved": "PARTITIONING",
+    "recommend": [
+      "division"
+    ]
+  },
+  {
+    "reserved": "PARTITIONINGS",
+    "recommend": [
+      "divisions"
+    ]
+  },
+  {
+    "reserved": "PARTITIONS",
+    "recommend": [
+      "dividers"
+    ]
+  },
+  {
+    "reserved": "PASS",
+    "recommend": [
+      "proceed"
+    ]
+  },
+  {
+    "reserved": "PASSING",
+    "recommend": [
+      "momentary"
+    ]
+  },
+  {
+    "reserved": "PAST",
+    "recommend": [
+      "previously"
+    ]
+  },
+  {
+    "reserved": "PATH",
+    "recommend": [
+      "way"
+    ]
+  },
+  {
+    "reserved": "PATHS",
+    "recommend": [
+      "ways"
+    ]
+  },
+  {
+    "reserved": "PATROLLER",
+    "recommend": [
+      "watchman"
+    ]
+  },
+  {
+    "reserved": "PATTERN",
+    "recommend": [
+      "decoration"
+    ]
+  },
+  {
+    "reserved": "PENDANT",
+    "recommend": [
+      "locket"
+    ]
+  },
+  {
+    "reserved": "PENDING",
+    "recommend": [
+      "unsettled",
+      "uncertain"
+    ]
+  },
+  {
+    "reserved": "PER",
+    "recommend": [
+      "apiece"
+    ]
+  },
+  {
+    "reserved": "PERCENT",
+    "recommend": [
+      "proportion"
+    ]
+  },
+  {
+    "reserved": "PERCENTILE",
+    "recommend": [
+      "proportion"
+    ]
+  },
+  {
+    "reserved": "PERFORM",
+    "recommend": [
+      "stage"
+    ]
+  },
+  {
+    "reserved": "PERIOD",
+    "recommend": [
+      "term"
+    ]
+  },
+  {
+    "reserved": "PERMANENT",
+    "recommend": [
+      "lasting"
+    ]
+  },
+  {
+    "reserved": "PERMISSION",
+    "recommend": [
+      "consent"
+    ]
+  },
+  {
+    "reserved": "PERMISSIONS",
+    "recommend": [
+      "consents"
+    ]
+  },
+  {
+    "reserved": "PERMUTE",
+    "recommend": [
+      "arrange"
+    ]
+  },
+  {
+    "reserved": "PERSIST",
+    "recommend": [
+      "persevere"
+    ]
+  },
+  {
+    "reserved": "PHASE",
+    "recommend": [
+      "stage"
+    ]
+  },
+  {
+    "reserved": "PIECESIZE",
+    "recommend": [
+      "partsize"
+    ]
+  },
+  {
+    "reserved": "PIPE",
+    "recommend": [
+      "tube"
+    ]
+  },
+  {
+    "reserved": "PIPELINED",
+    "recommend": [
+      "lined"
+    ]
+  },
+  {
+    "reserved": "PLACING",
+    "recommend": [
+      "deposit"
+    ]
+  },
+  {
+    "reserved": "PLAN",
+    "recommend": [
+      "scheme"
+    ]
+  },
+  {
+    "reserved": "PLANS",
+    "recommend": [
+      "schemes"
+    ]
+  },
+  {
+    "reserved": "PLUS",
+    "recommend": [
+      "advantage"
+    ]
+  },
+  {
+    "reserved": "POINT",
+    "recommend": [
+      "tip"
+    ]
+  },
+  {
+    "reserved": "POLICY",
+    "recommend": [
+      "strategy"
+    ]
+  },
+  {
+    "reserved": "POOL",
+    "recommend": [
+      "puddle",
+      "pond"
+    ]
+  },
+  {
+    "reserved": "PORT",
+    "recommend": [
+      "coupling"
+    ]
+  },
+  {
+    "reserved": "PORTION",
+    "recommend": [
+      "piece"
+    ]
+  },
+  {
+    "reserved": "POSITION",
+    "recommend": [
+      "situation",
+      "place"
+    ]
+  },
+  {
+    "reserved": "POSITIVE",
+    "recommend": [
+      "helpful",
+      ""
+    ]
+  },
+  {
+    "reserved": "POWER",
+    "recommend": [
+      "capability"
+    ]
+  },
+  {
+    "reserved": "PRECEDES",
+    "recommend": [
+      "introduce"
+    ]
+  },
+  {
+    "reserved": "PRECEDING",
+    "recommend": [
+      "precursory"
+    ]
+  },
+  {
+    "reserved": "PRECISION",
+    "recommend": [
+      "accuracy"
+    ]
+  },
+  {
+    "reserved": "PREDICATES",
+    "recommend": [
+      "establish"
+    ]
+  },
+  {
+    "reserved": "PREFETCH",
+    "recommend": [
+      "pickup"
+    ]
+  },
+  {
+    "reserved": "PREFETCHSIZE",
+    "recommend": [
+      "pickupsize"
+    ]
+  },
+  {
+    "reserved": "PREPARE",
+    "recommend": [
+      "ready"
+    ]
+  },
+  {
+    "reserved": "PREPARED",
+    "recommend": [
+      "arranged"
+    ]
+  },
+  {
+    "reserved": "PRESERVE",
+    "recommend": [
+      "conserve"
+    ]
+  },
+  {
+    "reserved": "PRETTY",
+    "recommend": [
+      "quite",
+      "attractive"
+    ]
+  },
+  {
+    "reserved": "PREV",
+    "recommend": [
+      "foregoing"
+    ]
+  },
+  {
+    "reserved": "PREVENT",
+    "recommend": [
+      "halt"
+    ]
+  },
+  {
+    "reserved": "PREVIOUS",
+    "recommend": [
+      "foregoing"
+    ]
+  },
+  {
+    "reserved": "PREVVAL",
+    "recommend": [
+      "foregoing"
+    ]
+  },
+  {
+    "reserved": "PRIMARY",
+    "recommend": [
+      "foremost"
+    ]
+  },
+  {
+    "reserved": "PRINCIPALS",
+    "recommend": [
+      "foremost"
+    ]
+  },
+  {
+    "reserved": "PRINT",
+    "recommend": [
+      "writing"
+    ]
+  },
+  {
+    "reserved": "PRIOR",
+    "recommend": [
+      "earlier"
+    ]
+  },
+  {
+    "reserved": "PRIORITY",
+    "recommend": [
+      "primacy"
+    ]
+  },
+  {
+    "reserved": "PRIQTY",
+    "recommend": [
+      "primaryamount"
+    ]
+  },
+  {
+    "reserved": "PRIVATE",
+    "recommend": [
+      "personal"
+    ]
+  },
+  {
+    "reserved": "PRIVILEGE",
+    "recommend": [
+      "advantage"
+    ]
+  },
+  {
+    "reserved": "PRIVILEGES",
+    "recommend": [
+      "advantages"
+    ]
+  },
+  {
+    "reserved": "PROCEDURE",
+    "recommend": [
+      "affair"
+    ]
+  },
+  {
+    "reserved": "PROCEDURES",
+    "recommend": [
+      "affairs"
+    ]
+  },
+  {
+    "reserved": "PROCESS",
+    "recommend": [
+      "affair"
+    ]
+  },
+  {
+    "reserved": "PROCESSED",
+    "recommend": [
+      "arranged"
+    ]
+  },
+  {
+    "reserved": "PROCESSLIST",
+    "recommend": [
+      "outlinelist"
+    ]
+  },
+  {
+    "reserved": "PROFILE",
+    "recommend": [
+      "outline"
+    ]
+  },
+  {
+    "reserved": "PROFILES",
+    "recommend": [
+      "outlines"
+    ]
+  },
+  {
+    "reserved": "PROGRAM",
+    "recommend": [
+      "scheme"
+    ]
+  },
+  {
+    "reserved": "PROJECT",
+    "recommend": [
+      "forecast"
+    ]
+  },
+  {
+    "reserved": "PROJECTION",
+    "recommend": [
+      "forecast"
+    ]
+  },
+  {
+    "reserved": "PROPAGATE",
+    "recommend": [
+      "disseminate",
+      "spread"
+    ]
+  },
+  {
+    "reserved": "PROPERTY",
+    "recommend": [
+      "quality"
+    ]
+  },
+  {
+    "reserved": "protected",
+    "recommend": [
+      "sheltered"
+    ]
+  },
+  {
+    "reserved": "PROTECTION",
+    "recommend": [
+      "shielding",
+      "defense"
+    ]
+  },
+  {
+    "reserved": "PROTOCOL",
+    "recommend": [
+      "agreement"
+    ]
+  },
+  {
+    "reserved": "PROVISIONING",
+    "recommend": [
+      "facilities",
+      "services"
+    ]
+  },
+  {
+    "reserved": "PROXY",
+    "recommend": [
+      "deputy"
+    ]
+  },
+  {
+    "reserved": "PRUNE",
+    "recommend": [
+      "crop"
+    ]
+  },
+  {
+    "reserved": "PUBLIC",
+    "recommend": [
+      "popular"
+    ]
+  },
+  {
+    "reserved": "PUBLICATION",
+    "recommend": [
+      "issuing"
+    ]
+  },
+  {
+    "reserved": "PUBLISH",
+    "recommend": [
+      "issue"
+    ]
+  },
+  {
+    "reserved": "PURGE",
+    "recommend": [
+      "expel"
+    ]
+  },
+  {
+    "reserved": "PUT",
+    "recommend": [
+      "lay"
+    ]
+  }
+]
