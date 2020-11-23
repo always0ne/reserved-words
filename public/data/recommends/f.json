@@ -1,0 +1,286 @@
+[
+  {
+    "reserved": "FAIL",
+    "recommend": [
+      "fall"
+    ]
+  },
+  {
+    "reserved": "FAILURE",
+    "recommend": [
+      "defeat"
+    ]
+  },
+  {
+    "reserved": "FAST",
+    "recommend": [
+      "speedu"
+    ]
+  },
+  {
+    "reserved": "FAULTS",
+    "recommend": [
+      "wrong"
+    ]
+  },
+  {
+    "reserved": "FEDERATED",
+    "recommend": [
+      "united"
+    ]
+  },
+  {
+    "reserved": "FENCED",
+    "recommend": [
+      "barriored"
+    ]
+  },
+  {
+    "reserved": "FETCH",
+    "recommend": [
+      "bring"
+    ]
+  },
+  {
+    "reserved": "FIELDPROC",
+    "recommend": [
+      "fieldProcedure"
+    ]
+  },
+  {
+    "reserved": "FIELDS",
+    "recommend": [
+      "earth"
+    ]
+  },
+  {
+    "reserved": "FILTER",
+    "recommend": [
+      "purifier"
+    ]
+  },
+  {
+    "reserved": "FILTERING",
+    "recommend": [
+      "purifying"
+    ]
+  },
+  {
+    "reserved": "finally",
+    "recommend": [
+      "lastly"
+    ]
+  },
+  {
+    "reserved": "FINISH",
+    "recommend": [
+      "done"
+    ]
+  },
+  {
+    "reserved": "FIRST",
+    "recommend": [
+      "early"
+    ]
+  },
+  {
+    "reserved": "FIXED",
+    "recommend": [
+      "solid"
+    ]
+  },
+  {
+    "reserved": "FLAG",
+    "recommend": [
+      "banner"
+    ]
+  },
+  {
+    "reserved": "FLAGGER",
+    "recommend": [
+      "banner"
+    ]
+  },
+  {
+    "reserved": "FLATTERN",
+    "recommend": [
+      "flatten"
+    ]
+  },
+  {
+    "reserved": "FLOOR",
+    "recommend": [
+      "flatten"
+    ]
+  },
+  {
+    "reserved": "FLUSH",
+    "recommend": [
+      "rinse"
+    ]
+  },
+  {
+    "reserved": "FOLLOWING",
+    "recommend": [
+      "attending"
+    ]
+  },
+  {
+    "reserved": "FOLLOWS",
+    "recommend": [
+      "attends"
+    ]
+  },
+  {
+    "reserved": "FORCE",
+    "recommend": [
+      "compel"
+    ]
+  },
+  {
+    "reserved": "foreach",
+    "recommend": [
+      "oneByOne"
+    ]
+  },
+  {
+    "reserved": "FOREIGN",
+    "recommend": [
+      "outside"
+    ]
+  },
+  {
+    "reserved": "FORM",
+    "recommend": [
+      "composition"
+    ]
+  },
+  {
+    "reserved": "FORMAT",
+    "recommend": [
+      "composition"
+    ]
+  },
+  {
+    "reserved": "FORMATTED",
+    "recommend": [
+      "composed"
+    ]
+  },
+  {
+    "reserved": "FORWARD",
+    "recommend": [
+      "toward"
+    ]
+  },
+  {
+    "reserved": "FOUND",
+    "recommend": [
+      "discovered"
+    ]
+  },
+  {
+    "reserved": "FREE",
+    "recommend": [
+      "blank"
+    ]
+  },
+  {
+    "reserved": "FREELIST",
+    "recommend": [
+      "blankList"
+    ]
+  },
+  {
+    "reserved": "FREELISTS",
+    "recommend": [
+      "blankLists"
+    ]
+  },
+  {
+    "reserved": "FREEPAGE",
+    "recommend": [
+      "blankPage"
+    ]
+  },
+  {
+    "reserved": "FREETEXTTABLE",
+    "recommend": [
+      "cleartexttable"
+    ]
+  },
+  {
+    "reserved": "FREEZE",
+    "recommend": [
+      "refregerate",
+      "holdup"
+    ]
+  },
+  {
+    "reserved": "friend",
+    "recommend": [
+      "ally",
+      "partner"
+    ]
+  },
+  {
+    "reserved": "FROM",
+    "recommend": [
+      "against"
+    ]
+  },
+  {
+    "reserved": "FS",
+    "recommend": [
+      "FileSys"
+    ]
+  },
+  {
+    "reserved": "FULFILL",
+    "recommend": [
+      "accomplish",
+      "achieve"
+    ]
+  },
+  {
+    "reserved": "FULL",
+    "recommend": [
+      "entire",
+      "whole"
+    ]
+  },
+  {
+    "reserved": "FULLTEXT",
+    "recommend": [
+      "entiretext",
+      "wholetext"
+    ]
+  },
+  {
+    "reserved": "FULLTEXTTABLE",
+    "recommend": [
+      "entiretexttable",
+      "wholetexttable"
+    ]
+  },
+  {
+    "reserved": "FUNCTION",
+    "recommend": [
+      "affair"
+    ]
+  },
+  {
+    "reserved": "FUNCTIONS",
+    "recommend": [
+      "actions",
+      "affairs"
+    ]
+  },
+  {
+    "reserved": "FUSION",
+    "recommend": [
+      "blend",
+      "blending"
+    ]
+  }
+]

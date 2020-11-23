@@ -1,0 +1,26 @@
+[
+  {
+    "reserved": "KEEP",
+    "recommend": [
+      "maintain"
+    ]
+  },
+  {
+    "reserved": "KEY",
+    "recommend": [
+      "answer"
+    ]
+  },
+  {
+    "reserved": "KEYS",
+    "recommend": [
+      "answers"
+    ]
+  },
+  {
+    "reserved": "KILL",
+    "recommend": [
+      "turnoff"
+    ]
+  }
+]

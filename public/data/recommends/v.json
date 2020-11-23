@@ -1,0 +1,200 @@
+[
+  {
+    "reserved": "VACUUM",
+    "recommend": [
+      "emptiness"
+    ]
+  },
+  {
+    "reserved": "VALID",
+    "recommend": [
+      "reasonable"
+    ]
+  },
+  {
+    "reserved": "VALIDATE",
+    "recommend": [
+      "verify"
+    ]
+  },
+  {
+    "reserved": "VALIDATED",
+    "recommend": [
+      "verified"
+    ]
+  },
+  {
+    "reserved": "VALIDATION",
+    "recommend": [
+      "verification"
+    ]
+  },
+  {
+    "reserved": "VALIDATOR",
+    "recommend": [
+      "verifier"
+    ]
+  },
+  {
+    "reserved": "VALIDPROC",
+    "recommend": [
+      "reasonableproc"
+    ]
+  },
+  {
+    "reserved": "VALUE",
+    "recommend": [
+      "worth"
+    ]
+  },
+  {
+    "reserved": "VALUED",
+    "recommend": [
+      "worthy"
+    ]
+  },
+  {
+    "reserved": "VALUES",
+    "recommend": [
+      "worths"
+    ]
+  },
+  {
+    "reserved": "var",
+    "recommend": [
+      "variable"
+    ]
+  },
+  {
+    "reserved": "VARBINARY",
+    "recommend": [
+      "variationbinary"
+    ]
+  },
+  {
+    "reserved": "VARCHAR",
+    "recommend": [
+      "variationcharacter"
+    ]
+  },
+  {
+    "reserved": "VARCHAR2",
+    "recommend": [
+      "variationcharacter2"
+    ]
+  },
+  {
+    "reserved": "VARCHARACTER",
+    "recommend": [
+      "variationcharacter"
+    ]
+  },
+  {
+    "reserved": "VARGRAPHIC",
+    "recommend": [
+      "variationgraphic"
+    ]
+  },
+  {
+    "reserved": "VARIABLE",
+    "recommend": [
+      "factor"
+    ]
+  },
+  {
+    "reserved": "VARIABLES",
+    "recommend": [
+      "factors"
+    ]
+  },
+  {
+    "reserved": "VARIANCE",
+    "recommend": [
+      "deviation"
+    ]
+  },
+  {
+    "reserved": "VARIANT",
+    "recommend": [
+      "different"
+    ]
+  },
+  {
+    "reserved": "VARINT",
+    "recommend": [
+      "variableint"
+    ]
+  },
+  {
+    "reserved": "VARYING",
+    "recommend": [
+      "inconsistent"
+    ]
+  },
+  {
+    "reserved": "VERBOSE",
+    "recommend": [
+      "inflated"
+    ]
+  },
+  {
+    "reserved": "VERSION",
+    "recommend": [
+      "grade"
+    ]
+  },
+  {
+    "reserved": "VERSIONING",
+    "recommend": [
+      "grading"
+    ]
+  },
+  {
+    "reserved": "VIEW",
+    "recommend": [
+      "outlook"
+    ]
+  },
+  {
+    "reserved": "VIEWS",
+    "recommend": [
+      "outlooks"
+    ]
+  },
+  {
+    "reserved": "VIOLATIONS",
+    "recommend": [
+      "offence"
+    ]
+  },
+  {
+    "reserved": "VIRTUAL",
+    "recommend": [
+      "implicit"
+    ]
+  },
+  {
+    "reserved": "VISIBLE",
+    "recommend": [
+      "apparent"
+    ]
+  },
+  {
+    "reserved": "VOID",
+    "recommend": [
+      "emptiness"
+    ]
+  },
+  {
+    "reserved": "VOLATILE",
+    "recommend": [
+      "unstable"
+    ]
+  },
+  {
+    "reserved": "VOLUMES",
+    "recommend": [
+      "bulks"
+    ]
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "reserved": "NA",
+    "recommend": [
+      "notApplicable"
+    ]
+  },
+  {
+    "reserved": "naked",
+    "recommend": [
+      "exposed"
+    ]
+  },
+  {
+    "reserved": "NAME",
+    "recommend": [
+      "title"
+    ]
+  },
+  {
+    "reserved": "NAMED",
+    "recommend": [
+      "titled"
+    ]
+  },
+  {
+    "reserved": "nameof",
+    "recommend": [
+      "titleof"
+    ]
+  },
+  {
+    "reserved": "NAMES",
+    "recommend": [
+      "titles"
+    ]
+  },
+  {
+    "reserved": "NAMESPACE",
+    "recommend": [
+      "titlespace"
+    ]
+  },
+  {
+    "reserved": "NAN",
+    "recommend": [
+      "NotANumber"
+    ]
+  },
+  {
+    "reserved": "NATIONAL",
+    "recommend": [
+      "nationwide"
+    ]
+  },
+  {
+    "reserved": "native",
+    "recommend": [
+      "innate",
+      "endemic"
+    ]
+  },
+  {
+    "reserved": "NATURAL",
+    "recommend": [
+      "common"
+    ]
+  },
+  {
+    "reserved": "NEEDED",
+    "recommend": [
+      "want"
+    ]
+  },
+  {
+    "reserved": "NESTED",
+    "recommend": [
+      "retreated",
+      "refuged"
+    ]
+  },
+  {
+    "reserved": "NESTING",
+    "recommend": [
+      "connotation"
+    ]
+  },
+  {
+    "reserved": "NETWORK",
+    "recommend": [
+      "web"
+    ]
+  },
+  {
+    "reserved": "NEVER",
+    "recommend": [
+      "atnotime"
+    ]
+  },
+  {
+    "reserved": "NEW",
+    "recommend": [
+      "modern",
+      "recent"
+    ]
+  },
+  {
+    "reserved": "NEXT",
+    "recommend": [
+      "succeeding"
+    ]
+  },
+  {
+    "reserved": "NEXTVAL",
+    "recommend": [
+      "succeedingval"
+    ]
+  },
+  {
+    "reserved": "NICKNAME",
+    "recommend": [
+      "diminutive,"
+    ]
+  },
+  {
+    "reserved": "No",
+    "recommend": [
+      "notatall"
+    ]
+  },
+  {
+    "reserved": "NOAUDIT",
+    "recommend": [
+      "noinspection"
+    ]
+  },
+  {
+    "reserved": "NOCACHE",
+    "recommend": [
+      "nostash"
+    ]
+  },
+  {
+    "reserved": "NOCHECK",
+    "recommend": [
+      "overlook"
+    ]
+  },
+  {
+    "reserved": "NOCOMPRESS",
+    "recommend": [
+      "nosqueeze"
+    ]
+  },
+  {
+    "reserved": "NOCREATEDB",
+    "recommend": [
+      "impossiblecreatedb"
+    ]
+  },
+  {
+    "reserved": "NOCREATEROLE",
+    "recommend": [
+      "impossiblecreaterole"
+    ]
+  },
+  {
+    "reserved": "NOCREATEUSER",
+    "recommend": [
+      "impossiblecreateuser"
+    ]
+  },
+  {
+    "reserved": "NOCYCLE",
+    "recommend": [
+      "nocircle"
+    ]
+  },
+  {
+    "reserved": "NODE",
+    "recommend": [
+      "branch"
+    ]
+  },
+  {
+    "reserved": "NODEGROUP",
+    "recommend": [
+      "branchgroup"
+    ]
+  },
+  {
+    "reserved": "NODENAME",
+    "recommend": [
+      "branchname"
+    ]
+  },
+  {
+    "reserved": "NODENUMBER",
+    "recommend": [
+      "branchnumber"
+    ]
+  },
+  {
+    "reserved": "NODES",
+    "recommend": [
+      "branches"
+    ]
+  },
+  {
+    "reserved": "noexcept",
+    "recommend": [
+      "noexcepting"
+    ]
+  },
+  {
+    "reserved": "NOFORCE",
+    "recommend": [
+      "nocompel"
+    ]
+  },
+  {
+    "reserved": "NOLOGGING",
+    "recommend": [
+      "norecording"
+    ]
+  },
+  {
+    "reserved": "NOMAXVALUE",
+    "recommend": [
+      "minimumvalue"
+    ]
+  },
+  {
+    "reserved": "NOMINVALUE",
+    "recommend": [
+      "maximumvalue"
+    ]
+  },
+  {
+    "reserved": "NONBLOCKED",
+    "recommend": [
+      "nonstop"
+    ]
+  },
+  {
+    "reserved": "NONBLOCKING",
+    "recommend": [
+      "nonstoping"
+    ]
+  },
+  {
+    "reserved": "NONCLUSTERED",
+    "recommend": [
+      "nongathering"
+    ]
+  },
+  {
+    "reserved": "NONE",
+    "recommend": [
+      "zero"
+    ]
+  },
+  {
+    "reserved": "nonlocal",
+    "recommend": [
+      "nonprovincial"
+    ]
+  },
+  {
+    "reserved": "NOORDER",
+    "recommend": [
+      "noarrangement"
+    ]
+  },
+  {
+    "reserved": "NOOVERRIDE",
+    "recommend": [
+      "notcancel"
+    ]
+  },
+  {
+    "reserved": "NOPARALLEL",
+    "recommend": [
+      "opposite"
+    ]
+  },
+  {
+    "reserved": "NORELY",
+    "recommend": [
+      "distrust"
+    ]
+  },
+  {
+    "reserved": "NOREVERSE",
+    "recommend": [
+      "nochange"
+    ]
+  },
+  {
+    "reserved": "NORMAL",
+    "recommend": [
+      "usual"
+    ]
+  },
+  {
+    "reserved": "NOSCAN",
+    "recommend": [
+      "notscan"
+    ]
+  },
+  {
+    "reserved": "NOSORT",
+    "recommend": [
+      "notsort"
+    ]
+  },
+  {
+    "reserved": "NOSUPERUSER",
+    "recommend": [
+      "noadmin"
+    ]
+  },
+  {
+    "reserved": "NOT",
+    "recommend": [
+      "benot"
+    ]
+  },
+  {
+    "reserved": "NOTFOUND",
+    "recommend": [
+      "nobody"
+    ]
+  },
+  {
+    "reserved": "NOTHING",
+    "recommend": [
+      "nobody"
+    ]
+  },
+  {
+    "reserved": "NOTIFY",
+    "recommend": [
+      "announce",
+      "alert"
+    ]
+  },
+  {
+    "reserved": "NOTNULL",
+    "recommend": [
+      "marked"
+    ]
+  },
+  {
+    "reserved": "NOVALIDATE",
+    "recommend": [
+      "nullify"
+    ]
+  },
+  {
+    "reserved": "NOWAIT",
+    "recommend": [
+      "operate"
+    ]
+  },
+  {
+    "reserved": "NULL",
+    "recommend": [
+      "blank"
+    ]
+  },
+  {
+    "reserved": "NULLABLE",
+    "recommend": [
+      "nullifiable"
+    ]
+  },
+  {
+    "reserved": "NULLIF",
+    "recommend": [
+      "blankif"
+    ]
+  },
+  {
+    "reserved": "nullptr",
+    "recommend": [
+      "nullpointer"
+    ]
+  },
+  {
+    "reserved": "NULLS",
+    "recommend": [
+      "blank"
+    ]
+  },
+  {
+    "reserved": "NUM",
+    "recommend": [
+      "figure"
+    ]
+  },
+  {
+    "reserved": "NUMBER",
+    "recommend": [
+      "figure"
+    ]
+  },
+  {
+    "reserved": "NUMERIC",
+    "recommend": [
+      "numerical"
+    ]
+  },
+  {
+    "reserved": "NVARCHAR",
+    "recommend": [
+      "numvarchar"
+    ]
+  },
+  {
+    "reserved": "NVARCHAR2",
+    "recommend": [
+      "numvarchar2"
+    ]
+  },
+  {
+    "reserved": "NZ",
+    "recommend": [
+      "Nzfunction"
+    ]
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "reserved": "BACK",
+    "recommend": [
+      "former"
+    ]
+  },
+  {
+    "reserved": "BACKUP",
+    "recommend": [
+      "saving"
+    ]
+  },
+  {
+    "reserved": "BASE",
+    "recommend": [
+      "place"
+    ]
+  },
+  {
+    "reserved": "BASE64",
+    "recommend": [
+      "place"
+    ]
+  },
+  {
+    "reserved": "BASED",
+    "recommend": [
+      "placed"
+    ]
+  },
+  {
+    "reserved": "BATCH",
+    "recommend": [
+      "gather"
+    ]
+  },
+  {
+    "reserved": "BECOME",
+    "recommend": [
+      "turnInto"
+    ]
+  },
+  {
+    "reserved": "BEFFORE",
+    "recommend": [
+      "former"
+    ]
+  },
+  {
+    "reserved": "BEFORE",
+    "recommend": [
+      "former"
+    ]
+  },
+  {
+    "reserved": "BEGIN",
+    "recommend": [
+      "goOn"
+    ]
+  },
+  {
+    "reserved": "BETWEEN",
+    "recommend": [
+      "middle"
+    ]
+  },
+  {
+    "reserved": "BETWEEN*",
+    "recommend": [
+      "middle*"
+    ]
+  },
+  {
+    "reserved": "BFILE",
+    "recommend": [
+      "externalPtr"
+    ]
+  },
+  {
+    "reserved": "BIND",
+    "recommend": [
+      "strap"
+    ]
+  },
+  {
+    "reserved": "BIT",
+    "recommend": [
+      "blit"
+    ]
+  },
+  {
+    "reserved": "BLOB",
+    "recommend": [
+      "binObj"
+    ]
+  },
+  {
+    "reserved": "BLOCK",
+    "recommend": [
+      "stall"
+    ]
+  },
+  {
+    "reserved": "BLOCKED",
+    "recommend": [
+      "stalled"
+    ]
+  },
+  {
+    "reserved": "BLOCKINSERT",
+    "recommend": [
+      "blkInsert"
+    ]
+  },
+  {
+    "reserved": "BLOCKSIZE",
+    "recommend": [
+      "blkSize"
+    ]
+  },
+  {
+    "reserved": "BOM",
+    "recommend": [
+      "byteOrderMark"
+    ]
+  },
+  {
+    "reserved": "BOOL",
+    "recommend": [
+      "tf"
+    ]
+  },
+  {
+    "reserved": "BOOLEAN",
+    "recommend": [
+      "tf"
+    ]
+  },
+  {
+    "reserved": "BOTH",
+    "recommend": [
+      "while"
+    ]
+  },
+  {
+    "reserved": "BREADTH",
+    "recommend": [
+      "distance"
+    ]
+  },
+  {
+    "reserved": "BREAK",
+    "recommend": [
+      "halt"
+    ]
+  },
+  {
+    "reserved": "BROWSE",
+    "recommend": [
+      "retrieve"
+    ]
+  },
+  {
+    "reserved": "BTREE",
+    "recommend": [
+      "binTree"
+    ]
+  },
+  {
+    "reserved": "BUCKET",
+    "recommend": [
+      "basket"
+    ]
+  },
+  {
+    "reserved": "BUCKETS",
+    "recommend": [
+      "baskets"
+    ]
+  },
+  {
+    "reserved": "BUFFER",
+    "recommend": [
+      "buf"
+    ]
+  },
+  {
+    "reserved": "BUFFERPOOL",
+    "recommend": [
+      "bufPool"
+    ]
+  },
+  {
+    "reserved": "BUFFERPOOLS",
+    "recommend": [
+      "bufPools"
+    ]
+  },
+  {
+    "reserved": "BUFFERSIZE",
+    "recommend": [
+      "bufSize"
+    ]
+  },
+  {
+    "reserved": "BUILD",
+    "recommend": [
+      "mk"
+    ]
+  },
+  {
+    "reserved": "BULK",
+    "recommend": [
+      "amount"
+    ]
+  },
+  {
+    "reserved": "BYPASS",
+    "recommend": [
+      "neglect"
+    ]
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "reserved": "uint",
+    "recommend": [
+      "unsignedint"
+    ]
+  },
+  {
+    "reserved": "ulong",
+    "recommend": [
+      "unsignedlong"
+    ]
+  },
+  {
+    "reserved": "UNARCHIVE",
+    "recommend": [
+      "nonarchive"
+    ]
+  },
+  {
+    "reserved": "UNARCHIVED",
+    "recommend": [
+      "nonarchived"
+    ]
+  },
+  {
+    "reserved": "UNBOUNDED",
+    "recommend": [
+      "nonbounded"
+    ]
+  },
+  {
+    "reserved": "UNCHECKED",
+    "recommend": [
+      "nonchecked"
+    ]
+  },
+  {
+    "reserved": "UNCOMMITTED",
+    "recommend": [
+      "noncommitted"
+    ]
+  },
+  {
+    "reserved": "UNCONDITIONAL",
+    "recommend": [
+      "nonconditional"
+    ]
+  },
+  {
+    "reserved": "UNDEFINED",
+    "recommend": [
+      "nondefined"
+    ]
+  },
+  {
+    "reserved": "UNDER",
+    "recommend": [
+      "beneath"
+    ]
+  },
+  {
+    "reserved": "UNDO",
+    "recommend": [
+      "cancel"
+    ]
+  },
+  {
+    "reserved": "UNDOFILE",
+    "recommend": [
+      "cancelfile"
+    ]
+  },
+  {
+    "reserved": "UNENCRYPTED",
+    "recommend": [
+      "nonencrypted"
+    ]
+  },
+  {
+    "reserved": "UNFORMATTED",
+    "recommend": [
+      "nonformatted"
+    ]
+  },
+  {
+    "reserved": "UNINSTALL",
+    "recommend": [
+      "noninstall"
+    ]
+  },
+  {
+    "reserved": "UNION",
+    "recommend": [
+      "merging"
+    ]
+  },
+  {
+    "reserved": "UNIONTYPE",
+    "recommend": [
+      "mergingtype"
+    ]
+  },
+  {
+    "reserved": "UNIQUE",
+    "recommend": [
+      "extraordinary"
+    ]
+  },
+  {
+    "reserved": "UNIQUEJOIN",
+    "recommend": [
+      "extraordinaryjoin"
+    ]
+  },
+  {
+    "reserved": "UNIT",
+    "recommend": [
+      "company"
+    ]
+  },
+  {
+    "reserved": "UNITS",
+    "recommend": [
+      "companies"
+    ]
+  },
+  {
+    "reserved": "UNKNOWN",
+    "recommend": [
+      "unrevealed"
+    ]
+  },
+  {
+    "reserved": "UNLIMITED",
+    "recommend": [
+      "nonlimited"
+    ]
+  },
+  {
+    "reserved": "UNLINK",
+    "recommend": [
+      "nonlink"
+    ]
+  },
+  {
+    "reserved": "UNLISTEN",
+    "recommend": [
+      "nonlisten"
+    ]
+  },
+  {
+    "reserved": "UNLOCK",
+    "recommend": [
+      "nonlock"
+    ]
+  },
+  {
+    "reserved": "UNLOGGED",
+    "recommend": [
+      "nonlogged"
+    ]
+  },
+  {
+    "reserved": "unmanaged",
+    "recommend": [
+      "nonmanaged"
+    ]
+  },
+  {
+    "reserved": "UNMATCHED",
+    "recommend": [
+      "nonmatched"
+    ]
+  },
+  {
+    "reserved": "UNNAMED",
+    "recommend": [
+      "nonnamed"
+    ]
+  },
+  {
+    "reserved": "UNNEST",
+    "recommend": [
+      "nonnest"
+    ]
+  },
+  {
+    "reserved": "UNPACKED",
+    "recommend": [
+      "nonpacked"
+    ]
+  },
+  {
+    "reserved": "UNPIVOT",
+    "recommend": [
+      "nonpivot"
+    ]
+  },
+  {
+    "reserved": "UNPROCESSED",
+    "recommend": [
+      "nonprocessed"
+    ]
+  },
+  {
+    "reserved": "UNQUIESCED",
+    "recommend": [
+      "nonquiesced"
+    ]
+  },
+  {
+    "reserved": "UNRECOVERABLE",
+    "recommend": [
+      "nonrecoverable"
+    ]
+  },
+  {
+    "reserved": "UNSAFE",
+    "recommend": [
+      "nonsafe"
+    ]
+  },
+  {
+    "reserved": "UNSET",
+    "recommend": [
+      "nonset"
+    ]
+  },
+  {
+    "reserved": "UNSIGNED",
+    "recommend": [
+      "nonsigned"
+    ]
+  },
+  {
+    "reserved": "UNTIL",
+    "recommend": [
+      "till"
+    ]
+  },
+  {
+    "reserved": "UNTYPED",
+    "recommend": [
+      "nontyped"
+    ]
+  },
+  {
+    "reserved": "UNUSABLE",
+    "recommend": [
+      "impractical"
+    ]
+  },
+  {
+    "reserved": "UNUSED",
+    "recommend": [
+      "inoperative"
+    ]
+  },
+  {
+    "reserved": "UPDATABLE",
+    "recommend": [
+      "amendable"
+    ]
+  },
+  {
+    "reserved": "UPDATE",
+    "recommend": [
+      "amend"
+    ]
+  },
+  {
+    "reserved": "UPDATETEXT",
+    "recommend": [
+      "amendtext"
+    ]
+  },
+  {
+    "reserved": "UPGRADE",
+    "recommend": [
+      "promote"
+    ]
+  },
+  {
+    "reserved": "UPON",
+    "recommend": [
+      "onto"
+    ]
+  },
+  {
+    "reserved": "UPPER",
+    "recommend": [
+      "superior"
+    ]
+  },
+  {
+    "reserved": "USAGE",
+    "recommend": [
+      "employment"
+    ]
+  },
+  {
+    "reserved": "USE",
+    "recommend": [
+      "utilize"
+    ]
+  },
+  {
+    "reserved": "USER",
+    "recommend": [
+      "employer"
+    ]
+  },
+  {
+    "reserved": "USERID",
+    "recommend": [
+      "employerid"
+    ]
+  },
+  {
+    "reserved": "USERS",
+    "recommend": [
+      "employers"
+    ]
+  },
+  {
+    "reserved": "ushort",
+    "recommend": [
+      "unsignedshort"
+    ]
+  },
+  {
+    "reserved": "USING",
+    "recommend": [
+      "employing"
+    ]
+  },
+  {
+    "reserved": "using declaration",
+    "recommend": [
+      "employing declaration"
+    ]
+  },
+  {
+    "reserved": "using directive",
+    "recommend": [
+      "employing directive"
+    ]
+  }
+]
