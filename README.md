@@ -10,9 +10,9 @@
 3. If the variable name cannot be used, consider "recommended variable"
 ### Get system's reserved words
 **Go to https://always0ne.github.io/reserved-words/data/{category}/{system}/{version}.json**
-##### system
+##### category
 DB, Language, Service
-##### category& versions
+##### system & versions
 **See https://always0ne.github.io/reserved-words/data/{category}/versions.json**
 
 ## Contributing
