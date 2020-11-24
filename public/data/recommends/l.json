@@ -355,6 +355,12 @@
     ]
   },
   {
+    "reserved": "LOOKUP",
+    "recommend": [
+      "improve"
+    ]
+  },
+  {
     "reserved": "LOWER",
     "recommend": [
       "subordinate"
