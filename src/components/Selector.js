@@ -17,11 +17,18 @@ const Selector = ({type, onSubmit}) => {
         .then(() => setSelected([])
         ), [type]);
 
-    const printChange = (e) => {
-        if (e.target.checked)
-            setSelected(selected.concat(e.target.value));
-        else
-            setSelected(selected.filter(version => version !== e.target.value));
+    const printChange = async (checked, value) => {
+        if (checked)
+            setSelected(selected.concat(value));
+        else {
+            if (value[0].length === 1)
+                setSelected(selected.filter(version => version !== value));
+            else {
+                let newList = selected;
+                await value.map((value) => newList = newList.filter(version => version !== value));
+                setSelected(newList);
+            }
+        }
     };
     useEffect(() => {
         onSubmit(selected)
