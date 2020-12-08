@@ -41,5 +41,29 @@
          "201X",
          "2020"
       ]
+   },
+   {
+      "category":"go",
+      "version":[
+         "go"
+      ]
+   },
+   {
+      "category":"perl",
+      "version":[
+         "perl"
+      ]
+   },
+   {
+      "category":"ruby",
+      "version":[
+         "ruby"
+      ]
+   },
+   {
+      "category":"swift",
+      "version":[
+         "swift"
+      ]
    }
 ]
